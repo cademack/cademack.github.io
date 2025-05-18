@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FaB Hand Simulator</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="container">
+        <h1>FaB Hand Simulator</h1>
+
+        <div class="input-container">
+            <div class="input-box">
+                <h2 for="leftInput">Decklist ({N}x {Card Name} (color))</h2>
+                <textarea id="leftInput" placeholder="Enter your decklist here..."></textarea>
+            </div>
+
+            <div class="input-box">
+                <h2>Conditions For Hand</h2>
+
+                <form id="multi-entry-form">
+                    <div id="entries-container">
+                        <!-- Initial row will be added by JavaScript -->
+                    </div>
+
+                    <div class="actions">
+                        <button type="button" id="add-row" class="btn">Add Row</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div class="button-container">
+            <button id="calculateButton">Calculate</button>
+        </div>
+
+        <div class="result-container">
+            <label for="result">Percentage of Hands that fufill these conditions:</label>
+            <textarea id="result" placeholder="Results will appear here..."></textarea>
+        </div>
+    </div>
+
+    <script>
+        function removeRow(rowId) {
+            const row = document.getElementById(rowId);
+            if (row) {
+                row.remove();
+            }
+
+            // Make sure at least one row exists
+            if (document.querySelectorAll('.entry-row').length === 0) {
+                window.addNewRow(); // Call the module function via window
+            }
+        }
+
+        function addNewRow() {
+            if (document.getElementById('entries-container').children.length >= 4) {
+                alert("Maximum 4 card conditions allowed.")
+                return
+            }
+            // Create a unique ID for this row
+            const rowId = 'row-' + Date.now();
+
+            // Create the row element
+            const rowElement = document.createElement('div');
+            rowElement.className = 'entry-row';
+            rowElement.id = rowId;
+
+            // Add HTML for the fields
+            rowElement.innerHTML = `
+                <h3>Card Condition</h3>
+                <input type="text" name="name" placeholder="Card Name">
+                <input type="text" name="pitches" placeholder="Pitch Values">
+                <input type="text" name="costs" placeholder="Cost Values">
+                <input type="text" name="powers" placeholder="Power Values">
+                <input type="text" name="keywords" placeholder="Keywords">
+                <input type="text" name="types" placeholder="Types (Class, Action, Instant, etc.)">
+                <input type="text" name="defenses" placeholder="Defense Values">
+                <button type="button" class="remove-btn" onclick="removeRow('${rowId}')">Remove</button>
+            `;
+
+            // Add the row to the container
+            document.getElementById('entries-container').appendChild(rowElement);
+        }
+    </script>
+
+    <script type="module">
+        import { main } from "./base.js";
+
+        // Initialize the form when the page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            // Add the first row
+            addNewRow();
+
+            // Set up event listener for the "Add Row" button
+            document.getElementById('add-row').addEventListener('click', addNewRow);
+        });
+
+
+        document.getElementById('calculateButton').addEventListener('click', async function() {
+            const decklist = document.getElementById('leftInput').value;
+            if (!decklist) {
+                alert("No decklist given!")
+                return;
+            }
+
+            const rows = document.querySelectorAll('.entry-row');
+            const cardConditions = [];
+
+            rows.forEach(row => {
+                const cardCondition = {
+                    name: row.querySelector('[name="name"]').value,
+                    keywords: row.querySelector('[name="keywords"]').value,
+                    types: row.querySelector('[name="types"]').value,
+                    pitches: row.querySelector('[name="pitches"]').value,
+                    costs: row.querySelector('[name="costs"]').value,
+                    powers: row.querySelector('[name="powers"]').value,
+                    defenses: row.querySelector('[name="defenses"]').value
+                };
+                if (!(cardCondition.name || cardCondition.keywords || cardCondition.types ||
+                      cardCondition.pitches || cardCondition.costs || cardCondition.powers ||
+                      cardCondition.defenses)) {
+                        alert("No empty card conditions!");
+                        return
+                      }
+                cardConditions.push(cardCondition);
+            });
+
+            console.log('Form data:', cardConditions);
+
+            // For now, just demonstrate that the button works
+            let results = await main(decklist, cardConditions);
+            console.log(results);
+            document.getElementById('result').value = `${results.percentage}`;
+        });
+
+        // Function to handle form submission
+        function submitForm() {
+
+            // Here you would typically send the data to a server or process it
+            alert('Form submitted! Check console for data.');
+        }
+    </script>
+</body>
+</html>
