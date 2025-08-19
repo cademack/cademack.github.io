@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flesh and Blood-le</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            text-align: center;
+            color: #4a5568;
+            margin-bottom: 10px;
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #718096;
+            margin-bottom: 30px;
+            font-size: 1.1rem;
+        }
+
+        .search-container {
+            position: relative;
+            margin-bottom: 30px;
+        }
+
+        #cardSearch {
+            width: 100%;
+            padding: 15px 20px;
+            border: 2px solid #e2e8f0;
+            border-radius: 15px;
+            font-size: 16px;
+            background: white;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        #cardSearch:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .suggestions {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 2px solid #e2e8f0;
+            border-top: none;
+            border-radius: 0 0 15px 15px;
+            max-height: 200px;
+            overflow-y: auto;
+            z-index: 100;
+            display: none;
+        }
+
+        .suggestion {
+            padding: 12px 20px;
+            cursor: pointer;
+            border-bottom: 1px solid #f7fafc;
+            transition: background-color 0.2s ease;
+        }
+
+        .suggestion:hover {
+            background-color: #f7fafc;
+        }
+
+        .suggestion:last-child {
+            border-bottom: none;
+        }
+
+        .guesses-container {
+            margin-bottom: 30px;
+        }
+
+        /* Ensure consistent column widths */
+        .guess-header > div,
+        .guess-row > div {
+            min-width: 0;
+            overflow: hidden;
+        }
+
+        /* Specific column width constraints */
+        .guess-header > div:nth-child(1),
+        .guess-row > div:nth-child(1) {
+            /* Name column - allow more space */
+            min-width: 200px;
+        }
+
+        .guess-header > div:nth-child(n+2),
+        .guess-row > div:nth-child(n+2) {
+            /* Other columns - more generous width */
+            min-width: 120px;
+            max-width: 150px;
+        }
+
+        .guess-row {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 10px;
+            padding: 15px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            animation: slideIn 0.3s ease-out;
+            align-items: center;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .guess-header {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding: 15px;
+            background: #4a5568;
+            color: white;
+            border-radius: 12px;
+            font-weight: 600;
+            text-align: center;
+            align-items: center;
+        }
+
+        .attribute {
+            padding: 12px 8px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            min-height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        .correct {
+            background: #48bb78;
+            color: white;
+            transform: scale(1.05);
+        }
+
+        .partial {
+            background: #ed8936;
+            color: white;
+        }
+
+        .overlap {
+            background: #f6e05e;
+            color: #2d3748;
+        }
+
+        .wrong {
+            background: #f56565;
+            color: white;
+        }
+
+        .game-status {
+            text-align: center;
+            margin: 20px 0;
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        .win {
+            color: #48bb78;
+        }
+
+        .lose {
+            color: #f56565;
+        }
+
+        .reset-btn {
+            display: block;
+            margin: 20px auto;
+            padding: 12px 30px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+
+        .reset-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .target-card {
+            background: #e6fffa;
+            border: 2px solid #38b2ac;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .target-card h3 {
+            color: #2d3748;
+            margin-bottom: 10px;
+        }
+
+        .card-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .card-detail {
+            background: white;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #bee3f8;
+        }
+
+        .card-detail strong {
+            color: #2b6cb0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Flesh and Blood-le</h1>
+        <p class="subtitle">Guess the card!</p>
+
+        <div class="search-container">
+            <input type="text" id="cardSearch" placeholder="Type a card name..." autocomplete="off">
+            <div class="suggestions" id="suggestions"></div>
+        </div>
+
+        <div class="guesses-container">
+            <div class="guess-header">
+                <div>Name</div>
+                <div>Pitch</div>
+                <div>Cost</div>
+                <div>Power</div>
+                <div>Defense</div>
+                <div>Types</div>
+                <div>Class</div>
+            </div>
+            <div id="guesses"></div>
+        </div>
+
+        <div id="gameStatus" class="game-status"></div>
+        <button id="resetBtn" class="reset-btn">New Game</button>
+
+        <div id="targetCard" class="target-card" style="display: none;">
+            <h3>The answer was:</h3>
+            <div id="targetCardDetails"></div>
+        </div>
+    </div>
+
+    <script>
+        // Card database - will be loaded from CSV
+        let cardDatabase = [];
+
+        // Function to parse CSV values (handles multiple values separated by commas)
+        function parseCSVValue(value) {
+            if (value === null || value === undefined || value === '') {
+                return "None";
+            }
+            // Check if value contains commas (multiple values)
+            if (typeof value === 'string' && value.includes(',')) {
+                // Split by comma, trim whitespace, and convert to numbers where possible
+                return value.split(',').map(v => {
+                    const trimmed = v.trim();
+                    const num = parseFloat(trimmed);
+                    return isNaN(num) ? trimmed : num;
+                });
+            }
+            // Single value - try to convert to number
+            const num = parseFloat(value);
+            return isNaN(num) ? value : num;
+        }
+
+        // Function to load card database from CSV
+        async function loadCardDatabase() {
+            console.log('Starting to load card database...');
+            try {
+                console.log('Attempting to fetch card_cleaned.csv...');
+                const response = await fetch('card_cleaned.csv');
+                console.log('Response status:', response.status);
+                console.log('Response ok:', response.ok);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const csvText = await response.text();
+                console.log('CSV loaded, length:', csvText.length);
+                console.log('First 200 characters:', csvText.substring(0, 200));
+
+                const lines = csvText.split('\n');
+                console.log('Number of lines:', lines.length);
+
+                const headers = lines[0].split('\t');
+                console.log('Headers:', headers);
+
+                cardDatabase = lines.slice(1).map(line => {
+                    const values = line.split('\t');
+                    const card = {};
+
+                    headers.forEach((header, index) => {
+                        if (values[index] !== undefined) {
+                            const value = values[index].trim();
+                            if (value !== '') {
+                                // Clean up header name and ensure it's lowercase, but preserve 'class' as 'class'
+                                let cleanHeader = header.toLowerCase().replace(/\s+/g, '_').replace(/[^a-z0-9_]/g, '');
+                                if (cleanHeader === 'class_') {
+                                    cleanHeader = 'class';
+                                }
+                                card[cleanHeader] = parseCSVValue(value);
+                            }
+                        }
+                    });
+
+                    return card;
+                }).filter(card => card.name && typeof card.name === 'string'); // Filter out empty rows and ensure name is string
+
+                // Debug: Check what we actually loaded
+                if (cardDatabase.length > 0) {
+                    console.log('First card structure:', cardDatabase[0]);
+                    console.log('Available properties:', Object.keys(cardDatabase[0]));
+                    console.log('Name property:', cardDatabase[0].name);
+                    console.log('Name property type:', typeof cardDatabase[0].name);
+                    console.log('Class property:', cardDatabase[0].class);
+                    console.log('Class property type:', typeof cardDatabase[0].class);
+                    console.log('Types property:', cardDatabase[0].types);
+                }
+
+                console.log(`Loaded ${cardDatabase.length} cards from CSV`);
+                console.log('Sample card:', cardDatabase[0]);
+                console.log('Sample card keys:', Object.keys(cardDatabase[0]));
+                console.log('Sample card name type:', typeof cardDatabase[0].name);
+                console.log('Sample card name value:', cardDatabase[0].name);
+
+                // Start the game after loading data
+                initGame();
+
+            } catch (error) {
+                console.error('Failed to load card database:', error);
+                console.error('Error details:', error.message);
+                console.error('Error stack:', error.stack);
+
+                // Fallback to sample cards if CSV loading fails
+                cardDatabase = [
+                    { name: "Lightning Dragon", cost: 7, power: 8, defense: 6, types: "Dragon" },
+                    { name: "Fire Goblin", cost: 2, power: 3, defense: 2, types: "Goblin" }
+                ];
+                console.log('Using fallback data:', cardDatabase);
+                initGame();
+            }
+        }
+
+        let targetCard = null;
+        let guesses = [];
+        let maxGuesses = Infinity; // Unlimited guesses
+        let gameOver = false;
+
+        // DOM elements
+        const cardSearch = document.getElementById('cardSearch');
+        const suggestions = document.getElementById('suggestions');
+        const guessesContainer = document.getElementById('guesses');
+        const gameStatus = document.getElementById('gameStatus');
+        const resetBtn = document.getElementById('resetBtn');
+        const targetCardDiv = document.getElementById('targetCard');
+        const targetCardDetails = document.getElementById('targetCardDetails');
+
+        // Initialize game
+        function initGame() {
+            targetCard = cardDatabase[Math.floor(Math.random() * cardDatabase.length)];
+            guesses = [];
+            gameOver = false;
+            guessesContainer.innerHTML = '';
+            gameStatus.innerHTML = '';
+            targetCardDiv.style.display = 'none';
+            cardSearch.disabled = false;
+            cardSearch.value = '';
+            suggestions.style.display = 'none';
+        }
+
+        // Show suggestions based on input
+        function showSuggestions(input) {
+            if (input.length === 0 || gameOver) {
+                suggestions.style.display = 'none';
+                return;
+            }
+
+            const filtered = cardDatabase.filter(card =>
+                card.name.toLowerCase().includes(input.toLowerCase()) &&
+                !guesses.some(guess => guess.name === card.name)
+            );
+
+            if (filtered.length === 0) {
+                suggestions.style.display = 'none';
+                return;
+            }
+
+            suggestions.innerHTML = filtered.map(card =>
+                `<div class="suggestion" onclick="selectCard('${card.name}')">${card.name}</div>`
+            ).join('');
+            suggestions.style.display = 'block';
+        }
+
+        // Select a card
+        function selectCard(cardName) {
+            const card = cardDatabase.find(c => c.name === cardName);
+            if (card && !gameOver) {
+                makeGuess(card);
+                cardSearch.value = '';
+                suggestions.style.display = 'none';
+            }
+        }
+
+        // Make a guess
+        function makeGuess(guessedCard) {
+            if (gameOver) return;
+
+            guesses.push(guessedCard);
+            displayGuess(guessedCard);
+
+            if (guessedCard.name === targetCard.name) {
+                gameStatus.innerHTML = `🎉 Congratulations! You guessed it in ${guesses.length} tries!`;
+                gameStatus.className = 'game-status win';
+                gameOver = true;
+                cardSearch.disabled = true;
+            } else {
+                gameStatus.innerHTML = `Keep guessing! You've made ${guesses.length} attempts so far.`;
+                gameStatus.className = 'game-status';
+            }
+        }
+
+        // Display a guess with color coding
+        function displayGuess(guessedCard) {
+            const guessRow = document.createElement('div');
+            guessRow.className = 'guess-row';
+
+            // Debug: Log the class values
+            console.log('Guessed card class:', guessedCard.class);
+            console.log('Target card class:', targetCard.class);
+            console.log('Guessed card types:', guessedCard.types);
+            console.log('Target card types:', targetCard.types);
+
+            const attributes = [
+                { key: 'name', guessed: guessedCard.name, target: targetCard.name },
+                { key: 'pitch', guessed: guessedCard.pitch, target: targetCard.pitch },
+                { key: 'cost', guessed: guessedCard.cost, target: targetCard.cost },
+                { key: 'power', guessed: guessedCard.power, target: targetCard.power },
+                { key: 'defense', guessed: guessedCard.defense, target: targetCard.defense },
+                { key: 'types', guessed: guessedCard.types, target: targetCard.types },
+                { key: 'class', guessed: guessedCard.class, target: targetCard.class }
+            ];
+
+            attributes.forEach(attr => {
+                const div = document.createElement('div');
+                div.className = 'attribute';
+
+                // Handle multiple values (arrays) by joining them
+                let displayValue = attr.guessed;
+                if (Array.isArray(attr.guessed)) {
+                    displayValue = attr.guessed.join(', ');
+                }
+                div.textContent = displayValue;
+
+                                // Check if values match (handling both single values and arrays)
+                const isMatch = Array.isArray(attr.guessed) && Array.isArray(attr.target)
+                    ? JSON.stringify(attr.guessed.sort()) === JSON.stringify(attr.target.sort())
+                    : attr.guessed === attr.target || (attr.guessed === "None" && attr.target === "None");
+
+                if (isMatch) {
+                    div.classList.add('correct');
+                } else if (attr.key === 'pitch') {
+                    // For pitch, handle "None" values
+                    if (attr.guessed === "None" && attr.target === "None") {
+                        div.classList.add('correct');
+                    } else if (attr.guessed === "None" || attr.target === "None") {
+                        div.classList.add('wrong');
+                    } else {
+                        div.classList.add('wrong');
+                    }
+                } else if (attr.key === 'cost' || attr.key === 'power' || attr.key === 'defense') {
+                    // For numerical values, show partial if close
+                    const guessedVal = Array.isArray(attr.guessed) ? attr.guessed[0] : attr.guessed;
+                    const targetVal = Array.isArray(attr.target) ? attr.target[0] : attr.target;
+
+                    if (guessedVal !== "None" && targetVal !== "None" && guessedVal !== null && targetVal !== null) {
+                        const diff = Math.abs(guessedVal - targetVal);
+                        if (diff <= 1) {
+                            div.classList.add('partial');
+                            div.textContent += diff > 0 ? (guessedVal > targetVal ? ' ↓' : ' ↑') : '';
+                        } else {
+                            div.classList.add('wrong');
+                            div.textContent += guessedVal > targetVal ? ' ↓↓' : ' ↑↑';
+                        }
+                    } else if (guessedVal === "None" && targetVal === "None") {
+                        // Both are "None", so they match
+                        div.classList.add('correct');
+                    } else {
+                        div.classList.add('wrong');
+                    }
+                                                 } else if (attr.key === 'class') {
+                    // For class, check if there's any overlap
+                    const guessedClasses = Array.isArray(attr.guessed) ? attr.guessed : [attr.guessed];
+                    const targetClasses = Array.isArray(attr.target) ? attr.target : [attr.target];
+
+                    // Handle "None" values
+                    if (guessedClasses.includes("None") && targetClasses.includes("None")) {
+                        div.classList.add('correct');
+                    } else if (guessedClasses.includes("None") || targetClasses.includes("None")) {
+                        div.classList.add('wrong');
+                    } else {
+                        // Check for any overlapping classes
+                        const hasOverlap = guessedClasses.some(gClass =>
+                            targetClasses.includes(gClass)
+                        );
+
+                        if (hasOverlap) {
+                            div.classList.add('overlap');
+                        } else {
+                            div.classList.add('wrong');
+                        }
+                    }
+                 } else if (attr.key === 'types') {
+                    // For types, check if there's any overlap
+                    const guessedTypes = Array.isArray(attr.guessed) ? attr.guessed : [attr.guessed];
+                    const targetTypes = Array.isArray(attr.target) ? attr.target : [attr.target];
+
+                    // Handle "None" values
+                    if (guessedTypes.includes("None") && targetTypes.includes("None")) {
+                        div.classList.add('correct');
+                    } else if (guessedTypes.includes("None") || targetTypes.includes("None")) {
+                        div.classList.add('wrong');
+                    } else {
+                        // Check for any overlapping types
+                        const hasOverlap = guessedTypes.some(gType =>
+                            targetTypes.includes(gType)
+                        );
+
+                        if (hasOverlap) {
+                            div.classList.add('overlap');
+                        } else {
+                            div.classList.add('wrong');
+                        }
+                    }
+                } else {
+                    div.classList.add('wrong');
+                }
+
+                guessRow.appendChild(div);
+            });
+
+            guessesContainer.appendChild(guessRow);
+        }
+
+        // Show the target card when game ends
+        function showTargetCard() {
+            targetCardDiv.style.display = 'block';
+
+            // Helper function to format values (handle arrays)
+            const formatValue = (value) => {
+                if (Array.isArray(value)) {
+                    return value.join(', ');
+                }
+                return value;
+            };
+
+                                                   targetCardDetails.innerHTML = `
+                  <h4>${targetCard.name}</h4>
+                  <div class="card-details">
+                      <div class="card-detail"><strong>Pitch:</strong> ${formatValue(targetCard.pitch)}</div>
+                      <div class="card-detail"><strong>Cost:</strong> ${formatValue(targetCard.cost)}</div>
+                      <div class="card-detail"><strong>Power:</strong> ${formatValue(targetCard.power)}</div>
+                      <div class="card-detail"><strong>Defense:</strong> ${formatValue(targetCard.defense)}</div>
+                      <div class="card-detail"><strong>Types:</strong> ${formatValue(targetCard.types)}</div>
+                      <div class="card-detail"><strong>Class:</strong> ${formatValue(targetCard.class)}</div>
+                  </div>
+              `;
+        }
+
+        // Event listeners
+        cardSearch.addEventListener('input', (e) => {
+            showSuggestions(e.target.value);
+        });
+
+        cardSearch.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                const firstSuggestion = suggestions.querySelector('.suggestion');
+                if (firstSuggestion && suggestions.style.display !== 'none') {
+                    selectCard(firstSuggestion.textContent);
+                }
+            }
+        });
+
+        resetBtn.addEventListener('click', initGame);
+
+        // Hide suggestions when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.search-container')) {
+                suggestions.style.display = 'none';
+            }
+        });
+
+        // Load card database and start the game
+        loadCardDatabase();
+    </script>
+</body>
+</html>
