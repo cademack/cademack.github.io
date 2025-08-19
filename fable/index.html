@@ -126,7 +126,7 @@
 
         .guess-row {
             display: grid;
-            grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr;
+            grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
             gap: 10px;
             margin-bottom: 10px;
             padding: 15px;
@@ -150,7 +150,7 @@
 
         .guess-header {
             display: grid;
-            grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr;
+            grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
             gap: 10px;
             margin-bottom: 15px;
             padding: 15px;
@@ -282,7 +282,9 @@
                 <div>Power</div>
                 <div>Defense</div>
                 <div>Types</div>
-                <div>Class</div>
+                <div>Classes</div>
+                <div>Talents</div>
+                <div>Keywords</div>
             </div>
             <div id="guesses"></div>
         </div>
@@ -352,8 +354,8 @@
                             if (value !== '') {
                                 // Clean up header name and ensure it's lowercase, but preserve 'class' as 'class'
                                 let cleanHeader = header.toLowerCase().replace(/\s+/g, '_').replace(/[^a-z0-9_]/g, '');
-                                if (cleanHeader === 'class_') {
-                                    cleanHeader = 'class';
+                                if (cleanHeader === 'talents_') {
+                                    cleanHeader = 'talents';
                                 }
                                 card[cleanHeader] = parseCSVValue(value);
                             }
@@ -369,9 +371,10 @@
                     console.log('Available properties:', Object.keys(cardDatabase[0]));
                     console.log('Name property:', cardDatabase[0].name);
                     console.log('Name property type:', typeof cardDatabase[0].name);
-                    console.log('Class property:', cardDatabase[0].class);
-                    console.log('Class property type:', typeof cardDatabase[0].class);
+                    console.log('Classes property:', cardDatabase[0].classes);
+                    console.log('Class property type:', typeof cardDatabase[0].classes);
                     console.log('Types property:', cardDatabase[0].types);
+                    console.log('Talents property:', cardDatabase[0].talents);
                 }
 
                 console.log(`Loaded ${cardDatabase.length} cards from CSV`);
@@ -442,9 +445,14 @@
                 return;
             }
 
-            suggestions.innerHTML = filtered.map(card =>
-                `<div class="suggestion" onclick="selectCard('${card.name}')">${card.name}</div>`
-            ).join('');
+            suggestions.innerHTML = '';
+            filtered.forEach(card => {
+                const div = document.createElement('div');
+                div.className = 'suggestion';
+                div.textContent = card.name;
+                div.onclick = () => selectCard(card.name);
+                suggestions.appendChild(div);
+            });
             suggestions.style.display = 'block';
         }
 
@@ -482,10 +490,13 @@
             guessRow.className = 'guess-row';
 
             // Debug: Log the class values
-            console.log('Guessed card class:', guessedCard.class);
-            console.log('Target card class:', targetCard.class);
+            console.log('Guessed card classes:', guessedCard.classes);
+            console.log('Target card classes:', targetCard.classes);
             console.log('Guessed card types:', guessedCard.types);
             console.log('Target card types:', targetCard.types);
+            console.log('Guessed card talents:', guessedCard.talents);
+            console.log('Target card talents:', targetCard.talents);
+
 
             const attributes = [
                 { key: 'name', guessed: guessedCard.name, target: targetCard.name },
@@ -494,7 +505,9 @@
                 { key: 'power', guessed: guessedCard.power, target: targetCard.power },
                 { key: 'defense', guessed: guessedCard.defense, target: targetCard.defense },
                 { key: 'types', guessed: guessedCard.types, target: targetCard.types },
-                { key: 'class', guessed: guessedCard.class, target: targetCard.class }
+                { key: 'classes', guessed: guessedCard.classes, target: targetCard.classes },
+                { key: 'talents', guessed: guessedCard.talents, target: targetCard.talents },
+                { key: 'keywords', guessed: guessedCard.card_keywords, target: targetCard.card_keywords }
             ];
 
             attributes.forEach(attr => {
@@ -505,10 +518,11 @@
                 let displayValue = attr.guessed;
                 if (Array.isArray(attr.guessed)) {
                     displayValue = attr.guessed.join(', ');
+                } else if (attr.guessed === null || attr.guessed === undefined || attr.guessed === '') {
+                    displayValue = "None";
                 }
                 div.textContent = displayValue;
 
-                                // Check if values match (handling both single values and arrays)
                 const isMatch = Array.isArray(attr.guessed) && Array.isArray(attr.target)
                     ? JSON.stringify(attr.guessed.sort()) === JSON.stringify(attr.target.sort())
                     : attr.guessed === attr.target || (attr.guessed === "None" && attr.target === "None");
@@ -528,8 +542,12 @@
                     // For numerical values, show partial if close
                     const guessedVal = Array.isArray(attr.guessed) ? attr.guessed[0] : attr.guessed;
                     const targetVal = Array.isArray(attr.target) ? attr.target[0] : attr.target;
-
-                    if (guessedVal !== "None" && targetVal !== "None" && guessedVal !== null && targetVal !== null) {
+                    console.log(`Comparing guessed ${attr.key}:`, guessedVal, 'with target:', targetVal);
+                    if ((guessedVal === undefined && targetVal !== undefined) || (targetVal === undefined && guessedVal !== undefined)) {
+                        div.classList.add('wrong');
+                    } else if (guessedVal === targetVal || (guessedVal === "None" && targetVal === "None")) {
+                        div.classList.add('correct');
+                    } else if (guessedVal !== "None" && targetVal !== "None" && guessedVal !== null && targetVal !== null) {
                         const diff = Math.abs(guessedVal - targetVal);
                         if (diff <= 1) {
                             div.classList.add('partial');
@@ -540,6 +558,9 @@
                         }
                     } else if (guessedVal === "None" && targetVal === "None") {
                         // Both are "None", so they match
+                        div.classList.add('correct');
+                    } else if (guessedVal === undefined && targetVal === undefined) {
+                        // Both are udnefined so they match
                         div.classList.add('correct');
                     } else {
                         div.classList.add('wrong');

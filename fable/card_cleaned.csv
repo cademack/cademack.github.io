@@ -1,1398 +1,1736 @@
-Name	Pitch	Cost	Power	Defense	Types	Card Keywords	Ability and Effect Keywords	Class
-10,000 Year Reunion	1	8		3	Action, Aura	Ward 10		Illusionist
-A Drop in the Ocean	3	0			Instant	Legendary, Transcend		Mystic
-Absorb in Aether	1, 2, 3	1		2, 3, 4	Defense Reaction			Wizard
-Absorption Dome	2	0			Action, Item			Mechanologist
-Adrenaline Rush	1, 2, 3	2	2, 3, 4	2	Action, Attack			Generic
-Aether Arc	3	0		3	Action			Wizard
-Aether Dart	1, 2, 3	0		3	Action			Wizard
-Aether Flare	1, 2, 3	1		3	Action			Wizard
-Aether Hail	1, 2, 3	1		3	Ice, Action			Wizard
-Aether Icevein	1, 2, 3	3		3	Elemental, Action	Ice Fusion		Wizard
-Aether Quickening	1, 2, 3	1		3	Action	Surge, Go again		Wizard
-Aether Sink	2	1			Action, Item		Go again, Arcane Barrier 2	Mechanologist
-Aether Slash	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade
-Aether Spindle	1, 2, 3	2		3	Action	Opt X		Wizard
-Aether Wildfire	1	2		3	Action			Wizard
-Aetherize	3	1			Instant	Negate		Wizard
-Agile Engagement	1, 2, 3	1		2	Attack Reaction			Warrior
-Agile Windup	1, 2, 3	3	5, 6, 7	2	Action, Attack			Brute, Warrior
-Alluring Inducement	2	2	2	2	Shapeshifter, Action, Attack	Shiyana Specialization, Unity		
-Alpha Rampage	1	3	9	3	Attack, Action	Rhinar Specialization, Intimidate		Brute
-Already Dead	1	2	6	3	Action, Attack	Contract		Assassin
-Amnesia	1	2	6	3	Action, Attack			Generic
-Amplify the Arknight	1, 2, 3	3	4, 5, 6	3	Action, Attack			Runeblade
-Amplifying Arrow	2	0	2	3	Action, Arrow, Attack			Ranger
-Amulet of Assertiveness	2	0			Action, Item	Go again		Generic
-Amulet of Earth	3	0			Earth, Action, Item	Go again		
-Amulet of Echoes	3	0			Action, Item	Go again		Generic
-Amulet of Havencall	3	0			Action, Item	Go again		Generic
-Amulet of Ice	3	0			Ice, Action, Item	Go again		
-Amulet of Ignition	2	0			Action, Item	Go again		Generic
-Amulet of Intervention	3	0			Action, Item	Go again		Generic
-Amulet of Lightning	3	0			Lightning, Action, Item	Go again		
-Amulet of Oblation	3	0			Action, Item	Go again		Generic
-Ancestral Empowerment	1	0		3	Attack Reaction			Ninja
-Ancestral Harmony	3	0		3	Action	Go again		Ninja
-Angelic Descent	1, 2, 3	0			Light, Instant			Illusionist
-Angelic Wrath	1, 2, 3	0			Light, Instant			Illusionist
-Annihilate the Armed	1, 2, 3	1	3, 4, 5	3	Action, Attack	Contract		Assassin
-Annihilator Engine	1	6	6	3	Action, Attack	Overpower		Mechanologist
-Anthem of Spring	3	0		2	Earth, Action	Briar Specialization, Unity, Go again		
-Apocalypse Automaton	1	3	6	3	Action, Attack	Evo Upgrade		Mechanologist
-Arc Light Sentinel	2	6			Light, Instant, Aura	Prism Specialization, Spectra		Illusionist
-Arc Lightning	2	0		2	Lightning, Action	Aurora Specialization, Go again		Runeblade
-Arcane Cussing	1, 2, 3	1		2	Action, Aura	Go again		Runeblade
-Arcane Polarity	1, 2, 3	0			Instant			Generic
-Arcane Seeds // Life	1	0		3	Action, Earth, Instant	Meld, Go again		Runeblade
-Arcane Twining	1, 2, 3	0		3	Action		Amp 1	Wizard
-Arcanic Crackle	1, 2, 3	0	1, 2, 3	3	Action, Attack			Runeblade
-Arcanic Shockwave	1, 2, 3	0	2, 3, 4	3	Elemental, Action, Attack	Lightning Fusion		Runeblade
-Arcanic Spike	1, 2, 3	2	3, 4, 5	3	Action, Attack			Runeblade
-Arctic Incarceration	1, 2, 3	0		2	Ice, Action			
-Argh… Smash!	2	3		3	Action	Go again		Brute
-Arknight Ascendancy	1	6	5	3	Action, Attack	Viserai Specialization, Dominate		Runeblade
-Arknight Shard	3				Resource, Gem	Legendary, Viserai Specialization		Runeblade
-Art of Desire: Body	1	0	3	3	Action, Attack	Stealth		Assassin
-Art of Desire: Mind	3	0	1	3	Action, Attack	Stealth		Assassin
-Art of Desire: Soul	2	0	2	3	Action, Attack	Stealth		Assassin
-Art of War	2	1			Instant			Generic
-Aspect of Tiger: Body	1	0	3	3	Action, Attack	Combo, Go again		Ninja
-Aspect of Tiger: Mind	3	0	1	3	Action, Attack	Combo, Go again		Ninja
-Aspect of Tiger: Soul	2	0	2	3	Action, Attack	Combo, Go again		Ninja
-Assault and Battery	1, 2, 3	3	5, 6, 7	3	Action, Attack	Beat Chest		Brute
-Astral Etchings	1, 2, 3	1		3	Action			Illusionist
-Attune with Cosmic Vibrations	3	0	2	2	Action, Attack			Mystic
-Autosave Script	3	0			Action, Item	Crank		Mechanologist
-Autumn's Touch	1, 2, 3	3	5, 6, 7	3	Earth, Action, Attack			
-Awakening	3	2			Elemental, Instant	Earth Fusion		Guardian
-Awakening Bellow	1, 2, 3	1		3	Action	Intimidate, Go again		Brute
-Azvolai			2		Draconic, Dragon, Ally			Illusionist
-Back Alley Breakline	1, 2, 3	1	3, 4, 5	2	Action, Attack			Generic
-Back Heel Kick	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo		Ninja
-Back Stab	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Backup Protocol: BLU	3	0			Action, Item	Crank		Mechanologist
-Backup Protocol: RED	1	0			Action, Item	Crank		Mechanologist
-Backup Protocol: YEL	2	0			Action, Item	Crank		Mechanologist
-Bad Beats	1, 2, 3	0		3	Action	Go again		Brute
-Ball Lightning	1, 2, 3	0	1, 2, 3	0	Lightning, Action, Attack	Go again		
-Banneret of Courage	2	1	4	3	Light, Action, Attack	Solflare		Warrior
-Banneret of Gallantry	2	1	4	3	Light, Action, Attack	Solflare		Warrior
-Banneret of Protection	2	1	4	3	Light, Action, Attack	Solflare		Warrior
-Banneret of Resilience	2	0	3	3	Light, Action, Attack	Solflare		Warrior
-Banneret of Salvation	2	0	3	3	Light, Action, Attack	Solflare		Warrior
-Banneret of Vigor	2	0	3	3	Light, Action, Attack	Solflare		Warrior
-Barbed Undertow	1	1	5	3	Action, Arrow, Attack			Ranger
-Bare Fangs	1, 2, 3	2	4, 5, 6		Action, Attack			Brute
-Barraging Beatdown	1, 2, 3	0		3	Action	Intimidate, Go again		Brute
-Barraging Big Horn	1, 2, 3	2	5, 6, 7	3	Action, Attack	Go again		Brute
-Barraging Brawnhide	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic
-Battered Not Broken	1	0			Instant			Brute, Guardian
-Battering Bolt	1	2	6	3	Action, Arrow, Attack			Ranger
-Battlefield Blitz	1, 2, 3	1	3, 4, 5	3	Light, Action, Attack	Go again		Warrior
-Battlefield Breaker	1, 2, 3	3	5, 6, 7	3	Shadow, Action, Attack	Blood Debt		Brute
-Battlefront Bastion	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic
-Be Like Water	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja
-Beacon of Victory	2	0		3	Light, Attack Reaction			Warrior
-Beaming Bravado	1, 2, 3	0	1, 2, 3	3	Light, Action, Attack	Charge		Warrior
-Beast Mode	1, 2, 3	3	4, 5, 6	3	Action, Attack			Brute
-Beast Within	2	3	6	3	Action, Attack			Brute
-Beckoning Light	1	0	3	3	Light, Action, Attack	Charge		Warrior
-Become the Arknight	3	0		3	Action	Viserai Specialization, Go again		Runeblade
-Belittle	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Generic
-Bequest the Vast Beyond	1	0		2	Action	Viserai Specialization, Go again		Runeblade
-Berserk	2	1		3	Action	Go again		Brute
-Beseech the Demigon	1, 2, 3	0		2	Shadow, Action	Go again		
-Bet Big	1	4	8	3	Action, Attack	Betsy Specialization, Wager		Guardian
-Big Bertha	1, 2, 3	3	4, 5, 6	3	Action, Attack	Boost		Mechanologist
-Big Blue Sky	3	0		2	Defense Reaction			Mystic
-Big Bop	1, 2, 3	3		2	Action, Aura			Guardian
-Big Shot	1	3	6	3	Action, Attack			Mechanologist
-Bigger Than Big	1, 2, 3	3		2	Action, Aura			Guardian
-Billowing Mirage	1, 2, 3	1	1, 2, 3	3	Draconic, Action, Attack	Transform, Go again		Illusionist
-Bingo	1	1	5	3	Action, Attack	Go again		Generic
-Bios Update	1	0		3	Action	Go again		Mechanologist
-Biting Blade	1, 2, 3	2		3	Attack Reaction	Reprise		Warrior
-Biting Breeze	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja
-Biting Gale	1, 2, 3	2		2, 3, 4	Elemental, Defense Reaction	Ice Fusion		Guardian
-Bittering Thorns	1, 2	1	3, 4	2	Action, Attack	Go again		Ninja
-Blackout Kick	1, 2, 3	1	2, 3, 4	3	Action, Attack	Combo		Ninja
-Blade Flash	3	1		2	Attack Reaction			Generic
-Blade Flurry	1	0		3	Attack Reaction			Warrior
-Blade Runner	1, 2, 3	1		3	Attack Reaction			Warrior
-Blanch	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic
-Blast to Oblivion	1, 2, 3	0	2, 3, 4	2	Lightning, Action, Attack			
-Blaze Headlong	1	0	4	2	Draconic, Action, Attack	Go again		
-Blazing Aether	1	0		3	Action	Kano Specialization		Wizard
-Bleed Out	1, 2, 3	2	2, 3, 4	2	Action, Attack	Go again		Assassin, Ninja
-Blessing of Aether	1, 2, 3	1		2	Action, Aura			Wizard
-Blessing of Deliverance	1, 2, 3	2		3	Action, Aura	Go again		Guardian
-Blessing of Focus	1, 2, 3	1		3	Action, Aura	Opt 1		Ranger
-Blessing of Ingenuity	1, 2, 3	1		3	Action, Aura			Mechanologist
-Blessing of Occult	1, 2, 3	1		2	Action, Aura			Runeblade
-Blessing of Patience	1, 2, 3	1		3	Action, Aura			Guardian
-Blessing of Qi	1, 2, 3	1		3	Action, Aura			Ninja
-Blessing of Salvation	1, 2, 3	1		2	Light, Action			
-Blessing of Savagery	1, 2, 3	1		3	Action, Aura			Brute
-Blessing of Serenity	1, 2, 3	0			Instant			Guardian
-Blessing of Spirits	1, 2, 3	1		2	Action, Aura	Ward 1		Illusionist
-Blessing of Steel	1, 2, 3	1		3	Action, Aura			Warrior
-Blinding Beam	1, 2, 3	1			Light, Instant			
-Blink	3	0			Lightning, Instant			
-Blistering Assault	1, 2, 3	2	3, 4, 5	2	Light, Action, Attack	Go again		
-Blizzard	3	0			Ice, Instant			
-Blizzard Bolt	1, 2, 3	1	3, 4, 5	3	Elemental, Action, Arrow, Attack	Ice Fusion		Ranger
-Blood Dripping Frenzy	3	2		3	Shadow, Action	Go again		Brute
-Blood Tribute	1, 2, 3	0			Shadow, Instant	Opt 3		
-Blood of the Dracai	1				Draconic, Resource, Gem	Legendary		
-Blood on Her Hands	2	0		3	Action	Kassai Specialization		Warrior
-Bloodrot Trap	1	0		3	Defense Reaction, Trap			Assassin, Ranger
-Bloodrush Bellow	2	1		3	Action	Go again		Brute
-Bloodspill Invocation	1, 2, 3	1		2	Action, Aura	Go again		Runeblade
-Blossoming Decay	1, 2, 3	2	3, 4, 5	2	Earth, Action, Attack	Decompose		
-Blossoming Spellblade	1	2	6	3	Elemental, Action, Attack	Earth and Lightning Fusion		Runeblade
-Boast	3			3	Block			Guardian
-Bolt of Courage	1, 2, 3	0	1, 2, 3	3	Light, Action, Attack	Charge		Warrior
-Bolt'n' Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack	Go again, Reload		Ranger
-Bolting Blade	2	4	7	3	Light, Action, Attack			Warrior
-Bonds of Agony	3	0	1	3	Action, Attack	Stealth		Assassin
-Bonds of Ancestry	1, 2, 3	2	2, 3, 4	3	Action, Attack	Combo, Go again		Ninja
-Bonds of Attraction	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Bonds of Memory	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Bone Head Barrier	2	1			Instant			Brute
-Bonebreaker Bellow	1, 2, 3	1		3	Action	Beat Chest, Go again		Brute
-Boneyard Marauder	1, 2, 3	1	4, 5, 6	3	Shadow, Action, Attack	Blood Debt		Brute
-Boom Grenade	1, 2, 3	0			Action, Item	Crank		Mechanologist
-Boulder Drop	2, 3	3	5, 6	3	Action, Attack	Crush		Guardian
-Boulder Trap	2	0		3	Defense Reaction, Trap			Ranger
-Bounding Demigon	1, 2, 3	0	1, 2, 3	3	Shadow, Action, Attack	Blood Debt		Runeblade
-Bracken Rap	1, 2	3	5, 6	3	Elemental, Action, Attack	Earth Bond		Guardian
-Brain Freeze	1, 2, 3	0		3	Elemental, Action	Ice Fusion		Wizard
-Brainstorm	3	3			Instant			Wizard
-Bramble Spark	1, 2, 3	0		2	Elemental, Action	Earth Fusion, Go again		Runeblade
-Brand with Cinderclaw	1, 2, 3	0	1, 2, 3	2	Draconic, Action, Attack	Go again		Ninja
-Brandish	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Generic
-Break Ground	1, 2, 3	3	5, 6, 7	2	Earth, Action, Attack			
-Break Tide	2	0	2	3	Action, Attack	Combo, Dominate		Ninja
-Break of Dawn	1, 2, 3	0			Light, Instant			
-Breaking Point	1	1	5	3	Draconic, Action, Attack	Rupture		
-Breakneck Battery	1, 2, 3	2	4, 5, 6	3	Action, Attack	Go again		Brute
-Breed Anger	1, 2, 3	1	2, 3, 4	3	Action, Attack	Combo, Go again		Ninja
-Brothers in Arms	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Brush Off	1, 2, 3	0			Instant			Generic
-Brutal Assault	1, 2, 3	2	4, 5, 6	3	Action, Attack			Generic
-Buckle	3	3		3	Action	Go again		Guardian
-Buckling Blow	1, 2, 3	4	6, 7, 8	3	Action, Attack	Crush		Guardian
-Bull Bar	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost, Overpower		Mechanologist
-Burdens of the Past	3	0		3	Action	Go again		Generic
-Burgeoning	1, 2, 3	2	4, 5, 6	2	Earth, Action, Attack			
-Burn Away	1	0	2	3	Draconic, Action, Attack	Go again		
-Burn Rubber	1	3	5	3	Action, Attack			Mechanologist
-Burn Them All	1	0		3	Draconic, Action, Aura	Go again		Illusionist
-Burn Up // Shock	1	0		3	Action, Lightning, Instant	Go again, Meld		Runeblade
-Buzz Bolt	1, 2, 3	1	3, 4, 5	3	Elemental, Action, Arrow, Attack	Lightning Fusion		Ranger
-Buzzsaw Trap	3	0		3	Defense Reaction, Trap	Legendary, Riptide Specialization		Ranger
-Cadaverous Contraband	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Cadaverous Tilling	1, 2, 3	3	4, 5, 6	2	Earth, Action, Attack	Decompose		
-Call Down the Lightning	2	0		2	Lightning, Action	Lexi Specialization, Go again, Unity		
-Call to the Grave	3	0		2	Action	Go again		Generic
-Canopy Shelter	3			2	Earth, Block			
-Captain's Call	1, 2, 3	0		2	Action	Go again		Generic
-Cartilage Crush	1, 2, 3	3	5, 6, 7	3	Action, Attack	Crush		Guardian
-Cash In	2	4		2	Action	Go again		Generic
-Cash Out	3	0		2	Action	Go again		Generic
-Cast Bones	1	0		3	Action			Brute
-Celestial Cataclysm	2	0	7	3	Light, Action, Attack	Go again		
-Celestial Reprimand	1, 2, 3	0			Light, Instant			Illusionist
-Celestial Resolve	1, 2, 3	0			Light, Instant			Illusionist
-Censor	1	1	5	3	Action, Attack			Generic
-Cerebellum Processor	3	0			Action, Item	Crank		Mechanologist
-Chain Lightning	2	1		3	Action			Wizard
-Chains of Eminence	1	0		2	Action, Aura	Go again		Generic
-Chains of Mephetis	3	0		3	Shadow, Action, Aura	Blood Debt		
-Channel Lake Frigid	3	2		3	Ice, Action, Aura	Go again, Channel Ice		
-Channel Lightning Valley	2	0			Lightning, Instant, Aura	Channel Lightning		
-Channel Mount Heroic	1	3		3	Earth, Action, Aura	Go again, Channel Earth		
-Channel Mount Isen	3	0		3	Ice, Action, Aura	Go again, Channel Ice		
-Channel Thunder Steppe	2	1		3	Lightning, Action, Aura	Go again, Channel Lightning		
-Channel the Bleak Expanse	3	1		2	Ice, Action, Aura	Go again, Channel Ice		
-Channel the Millennium Tree	1	3		3	Earth, Action, Aura	Go again, Channel Earth, Amp 3		
-Charge of the Light Brigade	1, 2, 3	0		3	Light, Action	Go again		Warrior
-Chase the Tail	1	1	4	3	Action, Attack	Combo		Ninja
-Chief Ruk'utan				3	Mentor	Intimidate		Brute
-Chill to the Bone	1, 2, 3	0		2	Ice, Action	Go again		
-Chilling Icevein	1, 2, 3	1	3, 4, 5	3	Elemental, Action, Arrow, Attack	Ice Fusion		Ranger
-Chivalry	3			3	Block	Protect		Guardian
-Chokeslam	1, 2, 3	4	6, 7, 8	3	Action, Attack	Crush		Guardian
-Chorus of Ironsong	2	1		3	Attack Reaction	Unity, Dorinthea Specialization		Warrior
-Chorus of the Amphitheater	1, 2, 3	2		2	Action			Wizard
-Cindering Foresight	1, 2, 3	0		2	Action	Opt 3		Wizard
-Cinderskin Devotion	1, 2, 3	1	2, 3, 4	3	Draconic, Action, Attack	Go again		Ninja
-Clamp Press	3	2			Action, Item	Crank		Mechanologist
-Clarity Potion	3	0			Action, Item		Opt 2	Generic
-Clash of Agility	1, 2, 3	2	4, 5, 6	3	Action, Attack	Clash		Brute, Warrior
-Clash of Might	1, 2, 3	2	4, 5, 6	3	Action, Attack	Clash		Brute, Guardian
-Clash of Vigor	1, 2, 3	2	4, 5, 6	3	Action, Attack	Clash		Guardian, Warrior
-Cleansing Light	1, 2, 3	3		2	Light, Action			
-Clearing Bellow	3	0		3	Action	Intimidate, Go again		Brute
-Cleave	1	1		3	Action	Go again		Warrior
-Cloud Cover	2	0			Lightning, Instant			
-Coalescence Mirage	1, 2, 3	2	5, 6, 7	3	Action, Attack	Phantasm		Illusionist
-Coax a Commotion	1	0	4	2	Action, Attack			Generic
-Codex of Bloodrot	2	0		2	Action	Go again		Assassin, Ranger
-Codex of Frailty	2	0		2	Action	Go again		Assassin, Ranger
-Codex of Inertia	2	0		2	Action	Go again		Assassin, Ranger
-Coercive Tendency	3	0		3	Attack Reaction	Arakni Specialization		Assassin
-Cognition Field	1, 2, 3			1, 2, 3	Block	Galvanize		Mechanologist
-Cognition Nodes	3	1			Action, Item		Go again	Mechanologist
-Cold Snap	1, 2, 3	1		2	Ice, Action	Go again		
-Cold Wave	1, 2, 3	1	3, 4, 5	3	Elemental, Action, Arrow, Attack	Ice Fusion		Ranger
-Collapsing Trap	3	0		3	Defense Reaction, Trap	Legendary, Riptide Specialization		Ranger
-Colossal Bearing	1	4	8	3	Action, Attack	Tower		Guardian
-Combustible Courier	1, 2, 3	2	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-Combustion Point	1	1		3	Draconic, Attack Reaction			Ninja
-Come to Fight	1, 2, 3	1		3	Action	Go again		Generic
-Comet Storm // Shock	1	2		3	Action, Lightning, Instant	Meld		Wizard
-Command Respect	1, 2, 3	3	4, 5, 6	3	Action, Attack			Guardian
-Command and Conquer	1	2	6	3	Action, Attack			Generic
-Commanding Performance	1	1		3	Action	Go again		Warrior
-Companion of the Claw	1, 2, 3	2	2, 3, 4	2	Action, Attack	Go again		Mystic, Ninja
-Concealed Blade	3	0		3	Attack Reaction			Assassin, Ninja
-Concuss	1, 2, 3	3	4, 5, 6	3	Action, Attack			Guardian
-Condemn to Slaughter	1, 2, 3	1		3	Action	Go again		Runeblade
-Construct Bank Breaker	2	0		3	Action, Construct	Transform, Go again		Mechanologist
-Construct Nitro Mechanoid	2	4		3	Action, Construct	Transform, Negate, Go again		Mechanologist
-Consuming Aftermath	1, 2, 3	3	4, 5, 6	2	Shadow, Action, Attack	Dominate		
-Consuming Volition	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade
-Contest the Mindfield	3	2		2	Action, Aura			Wizard
-Convection Amplifier	1	0			Action, Item		Go again	Mechanologist
-Convulsions from the Bellows of Hell	1, 2, 3	2		3	Shadow, Action	Go again		Brute
-Cosmic Awakening	3	9	*	3	Action, Attack			Mystic
-Count Your Blessings	1, 2, 3	2			Instant			Generic
-Courageous Steelhand	1, 2, 3	0		2	Light, Attack Reaction			Warrior
-Cracked Bauble	2				Resource			Generic
-Cracker Bauble	2	0			Resource			Generic
-Crackling	1, 2	0	2, 3	3	Elemental, Action, Attack	Lightning Flow		Runeblade
-Crane Dance	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo		Ninja
-Cranial Crush	3	6	8	3	Action, Attack	Crush		Guardian
-Crankshaft	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Crash Down	1, 2	3		3	Action, Aura			Guardian
-Crazy Brew	3	0			Action, Item		Go again	Generic
-Crippling Crush	1	7	11	3	Action, Attack	Bravo Specialization, Crush		Guardian
-Critical Strike	1, 2, 3	1	3, 4, 5	3	Action, Attack			Generic
-Cromai			3		Draconic, Dragon, Ally			Illusionist
-Cross the Line	1, 2, 3	1	3, 4, 5	3	Light, Action, Attack	Charge		Warrior
-Crouching Tiger		0	0		Action, Attack	Ephemeral, Go again		Ninja
-Crowd Control	1, 2, 3			2, 3, 4	Bard, Block			
-Crumble to Eternity	3	0		3	Ice, Earth, Action, Aura	Jarl Specialization		
-Crush Confidence	1, 2, 3	3	5, 6, 7	3	Action, Attack	Crush		Guardian
-Crush the Weak	1, 2, 3	3	5, 6, 7	3	Action, Attack	Crush		Guardian
-Cryptic Crossing	2	3	6	3	Action, Attack			Runeblade
-Current Funnel	3	0	2	3	Lightning, Action, Attack	Go again		
-Cut Down to Size	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Cut Through the Facade	1	3	7	2	Action, Attack			Generic
-Cut the Deck	1, 2, 3	1		3	Attack Reaction			Warrior
-Cut to the Chase	1, 2, 3	0		3	Attack Reaction			Assassin
-Cyclone Roundhouse	2	2	5	3	Action, Attack	Combo		Ninja
-Dabble in Darkness	1	0	5	3	Shadow, Action, Attack	Blood Debt		
-Dampen	1, 2, 3	2		3	Action			Wizard
-Data Link	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost, Opt 1		Mechanologist
-Dauntless	1, 2, 3	1		3	Action	Go again		Warrior
-Dazzling Crescendo	1, 2, 3	0	2, 3, 4	3	Elemental, Action, Arrow, Attack	Lightning Fusion, Go again		Ranger
-Dead Eye	2	1		3	Action	Go again		Ranger
-Deadly Duo	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Ninja
-Deadwood Dirge	1, 2, 3	0		2	Action	Go again		Runeblade
-Deadwood Rumbler	1, 2, 3	3	6, 7, 8		Shadow, Action, Attack	Blood Debt		Brute
-Death Touch	1, 2, 3	1	4, 5, 6	2	Action, Attack			Assassin, Ranger
-Deathly Delight	1, 2, 3	2	3, 4, 5	3	Shadow, Action, Attack	Rune Gate, Blood Debt		Runeblade
-Deathly Duet	1, 2, 3	2	2, 3, 4	3	Action, Attack			Runeblade
-Deathly Wail	1, 2, 3	3	4, 5, 6	3	Shadow, Action, Attack	Rune Gate, Blood Debt		Runeblade
-Deathmatch Arena		0			Action, Landmark	Legendary, Go again		Generic
-Debilitate	1, 2, 3	4	6, 7, 8	3	Action, Attack	Crush		Guardian
-Deep Blue Sea	3	4	5	2	Action, Attack			Mystic
-Deep Rooted Evil	2	3	6		Shadow, Action, Attack	Blood Debt		Brute
-Defender of Daybreak	1, 2, 3	0	2, 3, 4	2	Light, Action, Attack			
-Demolition Crew	1, 2, 3	2	4, 5, 6	2	Action, Attack	Dominate		Generic
-Demolition Protocol	1	3	7	3	Action, Attack	Evo Upgrade		Mechanologist
-Dense Blue Mist	3	1			Instant			Mystic
-Descendent Gustwave	1, 2, 3	1	1, 2, 3	2	Action, Attack	Combo, Go again		Ninja
-Desires of Flesh	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Destructive Aethertide	3	0		3	Action	Surge		Wizard
-Destructive Deliberation	1, 2, 3	2	3, 4, 5	2	Action, Attack			Generic
-Diabolic Offering	3	1	*	*	Shadow, Action, Attack	Blood Debt		Brute
-Diabolic Ultimatum	1	3		2	Action			Runeblade
-Dig Up Dinner	3	1		3	Action	Go again		Brute
-Dimenxxional Crossroads	2	2		3	Shadow, Action, Aura	Go again		Runeblade
-Dimenxxional Gateway	1, 2, 3	1		2	Shadow, Action	Opt 3, Go again		Runeblade
-Dimenxxional Vortex		3			Shadow, Action	Blood Debt		
-Disable	1, 2, 3	5	7, 8, 9	3	Action, Attack	Crush		Guardian
-Dishonor	3	0	2	3	Action, Attack	Combo		Ninja
-Dissipation Shield	2	2			Action, Item			Mechanologist
-Dissolution Sphere	2	2			Action, Item			Mechanologist
-Dissolve Reality	2	0		3	Action	Go again		Illusionist
-Dissolving Shield	1, 2, 3	0			Action, Item	Crank		Mechanologist
-Dive Through Data	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost, Opt 1		Mechanologist
-Dodge	3	0		2	Defense Reaction			Generic
-Dominia			4		Draconic, Dragon, Ally			Illusionist
-Doomsday	3	0			Shadow, Instant	Legendary, Levia Specialization		
-Double Down	1	2		3	Action	Go again		Guardian, Warrior
-Double Strike	1	0	1	2	Action, Attack	Go again		Ninja
-Double Trouble	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Down But Not Out	1, 2, 3	3	3, 4, 5	3	Action, Attack	Overpower		Generic
-Down and Dirty	1	2	6	2	Action, Attack			Generic
-Dracona Optimai			6		Draconic, Dragon, Ally			Illusionist
-Dragons of Legend					Invocation, Placeholder Card			
-Draw Swords	1, 2, 3	3		3	Action	Go again		Warrior
-Drawn to the Dark Dimension	1, 2, 3	2	1, 2, 3	3	Action, Attack			Runeblade
-Dread Screamer	1, 2, 3	2	4, 5, 6	3	Shadow, Action, Attack	Go again, Blood Debt		Brute
-Dread Triptych	3	3	4	3	Action, Attack			Runeblade
-Drill Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack	Piercing 1		Ranger
-Drink 'Em Under the Table	1	4	8	3	Action, Attack	Betsy Specialization, Wager		Guardian
-Driving Blade	1, 2, 3	2		3	Action	Go again		Warrior
-Drone of Brutality	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Droplet	3	0	2	2	Action, Attack			Mystic
-Drowning Dire	1, 2, 3	2	3, 4, 5	3	Action, Attack	Dominate		Runeblade
-Dumpster Dive	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-Dunebreaker Cenipai	1, 2, 3	1	3, 4, 5	3	Draconic, Action, Attack	Phantasm, Go again		Illusionist
-Dusk Path Pilgrimage	1, 2, 3	1		3	Action	Go again		Warrior
-Dust Runner Outlaw	1, 2, 3	1	2, 3, 4	2	Draconic, Action, Attack	Go again		Ninja
-Dust from Stillwater Shrine	1	0		3	Draconic, Action, Ash	Material		Illusionist
-Dust from the Chrome Caverns	1	0		3	Draconic, Action, Ash	Material		Illusionist
-Dust from the Fertile Fields	1	0		3	Draconic, Action, Ash	Material		Illusionist
-Dust from the Golden Plains	1	0		3	Draconic, Action, Ash	Material		Illusionist
-Dust from the Red Desert	1	0		3	Draconic, Action, Ash	Material		Illusionist
-Dust from the Shadow Crypts	1	0		3	Draconic, Action, Ash	Material		Illusionist
-Dustup	1, 2, 3	0	2, 3, 4	3	Draconic, Action, Attack	Transform		Illusionist
-Earth Form	1, 2, 3	3	5, 6, 7	2	Earth, Action, Attack			
-Earth's Embrace	3	1		2	Earth, Action, Aura	Go again		
-Earthlore Empowerment	1, 2	3		3	Action, Aura			Guardian
-Earthlore Surge	1, 2, 3	2		2	Earth, Action	Go again		
-Eclectic Magnetism	1	1	5	3	Lightning, Action, Attack			
-Eclipse	3	0			Shadow, Instant	Legendary, Chane Specialization		
-Eclipse Existence	3	0			Shadow, Instant			
-Edge Ahead	1, 2, 3	1		3	Action	Go again		Warrior
-Eirina's Prayer	1, 2, 3	1			Instant			Generic
-Electrify	1, 2, 3	1		2	Lightning, Action	Go again		
-Electromagnetic Somersault	1, 2, 3	0			Lightning, Instant			
-Electrostatic Discharge	1, 2, 3	0			Lightning, Instant			
-Eloquent Eulogy	1	1	4	3	Shadow, Action, Attack	Rune Gate, Blood Debt		Runeblade
-Embermaw Cenipai	1, 2, 3	2	6, 7, 8	3	Draconic, Action, Attack	Phantasm		Illusionist
-Embolden	1, 2, 3	4		3	Action, Aura	Go again		Guardian
-Emboldened Blade	3	0		3	Action	Go again		Warrior
-Emerging Avalanche	1, 2, 3	2		3	Elemental, Action, Aura	Ice Fusion, Go again		Guardian
-Emerging Dominance	1, 2, 3	2		3	Action, Aura			Guardian
-Emerging Power	1, 2, 3	2		3	Action, Aura	Go again		Guardian
-Emeritus Scolding	1, 2, 3	2		3	Action			Wizard
-Emissary of Moon	1	0	4	2	Action, Attack			Generic
-Emissary of Tides	1	0	4	2	Action, Attack			Generic
-Emissary of Wind	1	0	4	2	Action, Attack	Go again		Generic
-En Garde	1	1		3	Action	Go again		Warrior
-Enact Vengeance	1	2	6	3	Action, Attack	Combo		Ninja
-Encase	1	0		3	Elemental, Action	Ice Fusion		Wizard
-Enchanting Melody	1, 2, 3	2		2	Action, Aura	Go again		Generic
-Encore	2	1		2	Bard, Action	Go again		
-Endless Arrow	1	0	4	3	Action, Arrow, Attack			Ranger
-Endless Maw	1, 2, 3	3	4, 5, 6	3	Shadow, Action, Attack	Blood Debt		Brute
-Endless Winter	1	4	8	3	Elemental, Action, Attack	Oldhim Specialization, Ice Fusion		Guardian
-Energy Potion	3	0			Action, Item			Generic
-Engaged Swiftblade	1, 2, 3	1		3	Action	Go again		Warrior
-Engulfing Flamewave	1, 2, 3	2	3, 4, 5	2	Draconic, Action, Attack	Go again		Ninja
-Engulfing Light	1, 2, 3	0	1, 2, 3	3	Light, Action, Attack	Charge		Warrior
-Enigma Chimera	1, 2, 3	2	6, 7, 8	3	Action, Attack	Phantasm		Illusionist
-Enlightened Strike	1	0	5	3	Action, Attack	Go again		Generic
-Entangle	1, 2, 3	3	5, 6, 7	3	Elemental, Action, Attack	Earth Fusion		Guardian
-Entwine Earth	1, 2, 3	2	4, 5, 6	2	Elemental, Action, Attack	Earth Fusion		
-Entwine Ice	1, 2, 3	1	3, 4, 5	2	Elemental, Action, Attack	Ice Fusion, Dominate		
-Entwine Lightning	1, 2, 3	0	2, 3, 4	2	Elemental, Action, Attack	Lightning Fusion, Go again		
-Envelop in Darkness	1, 2, 3	1		2	Shadow, Action	Go again		Runeblade
-Eradicate	2	1	4	3	Action, Attack	Contract		Assassin
-Erase Face	1	2	6	2	Action, Attack			Generic
-Essence of Ancestry: Body	1	0		3	Action, Aura	Ward 2		Illusionist
-Essence of Ancestry: Mind	3	0		3	Action, Aura	Ward 2		Illusionist
-Essence of Ancestry: Soul	2	0		3	Action, Aura	Ward 2		Illusionist
-Etchings of Arcana	1, 2, 3	0		3	Action	Surge		Wizard
-Eternal Inferno	1	1		3	Action	Surge		Wizard
-Evasive Leap	1, 2, 3	0		1, 2, 3	Defense Reaction			Generic
-Even Bigger Than That!	1, 2, 3	0			Instant	Opt 3		Generic
-Evergreen	1, 2, 3	3	5, 6, 7	2	Earth, Action, Attack			
-Expedite	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost		Mechanologist
-Expendable Limbs	3	0		4	Shadow, Defense Reaction			Brute
-Exploding Aether	1, 2, 3	2		2	Action	Amp 3, Go again		Wizard
-Explosive Growth	1, 2, 3	1	1, 2, 3	3	Elemental, Action, Attack	Earth Fusion		Runeblade
-Exposed to the Elements	3	2			Elemental, Instant	Earth and/or Ice Fusion		
-Express Lightning	1, 2, 3	0	2, 3, 4	3	Light, Action, Attack	Charge		Warrior
-Exude Confidence	1	0	4	2	Action, Attack			Generic
-Eye of Ophidia	3				Resource, Gem	Legendary, Opt 2		Generic
-Fabric of Blossoms	3	0		2	Action, Construct	Negate		Generic
-Fabric of Hope	1	0		2	Action, Construct	Negate		Generic
-Fabric of Providence	1	0		2	Action, Construct	Legendary, Negate		Generic
-Fabric of Scales	3	0		2	Action, Construct	Negate		Generic
-Fabric of Spring	2	0		2	Action, Construct	Legendary, Negate		Generic
-Fabricate	1	0			Instant			Mechanologist
-Fact-Finding Mission	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Falcon Wing	1, 2, 3	0	1, 2, 3	3	Action, Arrow, Attack	Go again		Ranger
-Fang Strike		0			Attack Reaction	Ephemeral		Mystic, Assassin
-Fast and Furious	1	0	3	3	Action, Attack	Boost		Mechanologist
-Fatal Engagement	1, 2, 3	2		3	Attack Reaction			Warrior
-Fate Foreseen	1, 2, 3	0		2, 3, 4	Defense Reaction	Opt 1		Generic
-Fatigue Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Feign Death	2	1			Instant			Ranger
-Feisty Locals	1, 2, 3	0	1, 2, 3	2	Action, Attack			Generic
-Felling Swing	1, 2, 3	3		3	Action	Go again		Warrior
-Felling of the Crown	1	3	4	3	Earth, Action, Attack	Decompose		
-Fender Bender	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-Fertile Ground	1, 2, 3	2			Earth, Instant			
-Fervent Forerunner	1, 2, 3	0	1, 2, 3	2	Action, Attack	Opt 2, Go again		Generic
-Figment of Erudition	2	4			Light, Instant, Figment	Legendary		Illusionist
-Figment of Judgment	2	4			Light, Instant, Figment	Legendary		Illusionist
-Figment of Protection	2	4			Light, Instant, Figment	Legendary		Illusionist
-Figment of Ravages	2	4			Light, Instant, Figment	Legendary		Illusionist
-Figment of Rebirth	2	4			Light, Instant, Figment	Legendary		Illusionist
-Figment of Tenacity	2	4			Light, Instant, Figment	Legendary		Illusionist
-Figment of Triumph	2	4			Light, Instant, Figment	Legendary		Illusionist
-Figment of War	2	4			Light, Instant, Figment	Legendary		Illusionist
-Final Act	1	1	1	3	Bard, Action, Attack			
-Find Center	3	0	2	3	Action, Attack	Combo		Ninja
-Firebreathing	1	2	3	3	Action, Attack			Generic
-Firewall	1, 2, 3			2, 3, 4	Block			Mechanologist
-First Tenet of Chi: Moon	3	0		3	Action	Go again		Mystic
-First Tenet of Chi: Tide	3	0		3	Action	Go again		Mystic
-First Tenet of Chi: Wind	3	0		3	Action	Go again		Mystic
-Flake Out	1, 2, 3	1	3, 4, 5	3	Elemental, Action, Arrow, Attack	Ice Fusion, Dominate		Ranger
-Flameborn Retribution	1	1	3	2	Draconic, Action, Attack	Go again		
-Flamecall Awakening	1	1	3	2	Draconic, Action, Attack	Go again		
-Flash	1, 2, 3	0		2	Lightning, Action	Go again		
-Flashfreeze	1	1		2	Elemental, Action	Ice and/or Lightning Fusion, Go again		
-Fleece the Frail	1, 2, 3	0	2, 3, 4	3	Action, Attack	Contract		Assassin
-Fletch a Blue Tail	3	1		2	Action	Go again		Ranger
-Fletch a Red Tail	1	1		2	Action	Go again		Ranger
-Fletch a Yellow Tail	2	1		2	Action	Go again		Ranger
-Flex	1, 2, 3	0	2, 3, 4	2	Action, Attack			Generic
-Flex Claws	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja
-Flic Flak	1, 2, 3	0		2, 3, 4	Defense Reaction			Ninja
-Flicker Trick	1	0		5	Defense Reaction	Mirage		Illusionist
-Flicker Wisp	2	0		2	Elemental, Action	Lightning Fusion, Go again		Runeblade
-Flittering Charge	1, 2, 3	0	2, 3, 4	2	Lightning, Action, Attack	Go again		
-Flock of the Feather Walkers	1, 2, 3	1	3, 4, 5	2	Action, Attack			Generic
-Flood of Force	2	0	1	3	Action, Attack	Combo, Go again		Ninja
-Flourish	2, 3	0		2	Earth, Action	Go again		
-Fluster Fist	1, 2, 3	0	2, 3, 4	3	Action, Attack	Combo		Ninja
-Flying Kick	1, 2, 3	2	3, 4, 5	3	Action, Attack			Ninja
-Fog Down	2	3		3	Action, Aura			Generic
-Force Sight	1, 2, 3	1		2	Action	Opt 2, Go again		Generic
-Force of Nature	3	0		3	Elemental, Action	Briar Specialization, Earth Fusion, Go again		Runeblade
-Foreboding Bolt	1, 2, 3	1		3	Action	Opt 1		Wizard
-Forged for War	2	2		3	Action, Aura	Go again		Guardian
-Forked Lightning	1	3		3	Action			Wizard
-Fractal Replication	1	0	*	*	Action, Attack			Illusionist
-Frailty Trap	1	0		3	Defense Reaction, Trap			Assassin, Ranger
-Frazzle	1, 2, 3	1	3, 4, 5	3	Elemental, Action, Arrow, Attack	Lightning Fusion		Ranger
-Freewheeling Renegades	1, 2, 3	1	4, 5, 6	2	Action, Attack			Generic
-Freezing Point	1	3		3	Elemental, Action	Ice Fusion		Wizard
-Frightmare	1	3	13		Action, Attack	Phantasm		Illusionist
-Frontline Scout	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic
-Frost Fang	1, 2, 3	2	3, 4, 5	2	Ice, Action, Attack			
-Frost Hex	3	3		3	Ice, Action, Affliction, Aura	Iyslander Specialization		Wizard
-Frost Lock	3	1	3	3	Elemental, Action, Arrow, Attack	Ice Fusion		Ranger
-Frosting	1, 2, 3	0		3	Ice, Action			Wizard
-Frozen to Death	3	3		3	Ice, Action	Ice Fusion		Guardian
-Fruits of the Forest	1, 2, 3	3	5, 6, 7	2	Earth, Action, Attack			
-Fry	1, 2, 3	0	1, 2, 3	0	Lightning, Action, Attack	Go again		
-Fuel Injector	3	0			Action, Item			Mechanologist
-Full Tilt	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Fulminate	2	2		2	Elemental, Action	Earth and/or Lightning Fusion, Go again		
-Funeral Moon	1	0		3	Shadow, Action	Blood Debt		Runeblade
-Fyendal's Fighting Spirit	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic
-Gas Guzzler	1, 2, 3	3	4, 5, 6	3	Action, Attack	Boost		Mechanologist
-Gas Up	1, 2, 3	1		2	Action	Go again		Mechanologist
-Gaze the Ages	3	0		3	Action	Opt 2		Wizard
-Genesis	2	4			Light, Instant, Aura	Spectra		Illusionist
-Germinate	3	XX		3	Earth, Action	Florian Specialization		Runeblade
-Ghostly Visit	1, 2, 3	1	2, 3, 4	3	Shadow, Action, Attack	Blood Debt		
-Gigawatt	1, 2, 3	1		2	Action	Go again		Mechanologist
-Give and Take	1	1	3	3	Action, Attack	Go again		Generic
-Glacial Footsteps	1, 2, 3	6	10, 8, 9	3	Elemental, Action, Attack	Ice Fusion, Dominate		Guardian
-Glaring Impact	1, 2, 3	1	2, 3, 4	3	Light, Action, Attack	Charge, Overpower		Warrior
-Glint the Quicksilver	3	0		3	Attack Reaction	Reprise		Warrior
-Glisten	1, 2, 3	2			Light, Instant			
-Glistening Steelblade	2	1		3	Action	Dorinthea Specialization, Go again		Warrior
-Glyph Overlay	1, 2, 3	1		3	Action	Surge		Wizard
-Go Bananas	2	0			Instant			Generic
-Goblet of Bloodrun Wine	3	0		2	Action	Go again		Warrior
-Gone in a Flash	1	0	4	3	Lightning, Action, Attack			
-Good Deeds Don't Go Unnoticed	2	0		3	Action, Aura			Generic
-Gore Belching	1	0	7		Action, Attack			Generic
-Gorganian Tome		0			Action	Legendary, Go again		Generic
-Gorgon's Gaze	2	2		3	Attack Reaction			Mystic, Assassin
-Grandeur of Valahai	3				Resource, Gem	Legendary		Guardian
-Gravekeeping	1, 2, 3	1	3, 4, 5	2	Action, Attack			Generic
-Graveling Growl	1, 2, 3	1	5, 6, 7	3	Shadow, Action, Attack	Blood Debt		Brute
-Great Library of Solana		2			Light, Action, Landmark	Legendary	Go again	
-Grim Feast	1, 2, 3	3		2	Shadow, Action	Blood Debt		
-Grinding Gears	3	0			Action, Item	Crank		Mechanologist
-Growl	1, 2	0	2, 3	2	Action, Attack	Go again		Ninja
-Guardian of the Shadowrealm	1	2		6	Shadow, Defense Reaction	Blood Debt		
-Gustwave of the Second Wind	1	0	4	3	Action, Attack	Combo, Go again		Ninja
-Hack to Reality	2	1		2	Action	Go again		Generic
-Hadron Collider	1, 2, 3	1			Action, Item	Crank		Mechanologist
-Hala Goldenhelm				3	Mentor			Warrior
-Hamstring Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Hand Behind the Pen	1	2	6	2	Action, Attack			Generic
-Harmony of the Hunt	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Mystic, Ninja
-Harness Lightning	1, 2	0		2	Elemental, Action	Lightning Flow		Runeblade
-Harvest Season	1, 2, 3	1		2	Earth, Action, Aura	Go again		
-Haunting Rendition	1			4	Block			Runeblade
-Haunting Specter	1, 2, 3	2		2	Action, Aura	Ward 4		Illusionist
-Haze Bending	3	0		2	Action, Aura	Spectra		Illusionist
-Haze Shelter	1, 2, 3	2			Instant, Aura	Ward X		Mystic, Illusionist
-Head Jab	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja
-Head Leads the Tail	1	1	3	2	Action, Attack	Go again		Ninja
-Head Shot	1, 2, 3	1	2, 3, 4	3	Action, Arrow, Attack			Ranger
-Healing Balm	1, 2, 3	0		2	Action			Generic
-Healing Potion	3	0			Action, Item		Go again	Generic
-Heart of Fyendal	3				Resource, Gem	Legendary		Generic
-Heartbeat of Candlehold	3	1		3	Earth, Action	Verdance Specialization, Go again		Wizard
-Hearty Block	1			3	Block			Guardian, Warrior
-Heat Seeker	1	1	5	3	Action, Arrow, Attack			Ranger
-Heaven's Claws	1, 2, 3	1	3, 4, 5	3	Lightning, Action, Attack			
-Heavy Artillery	1, 2, 3	3	4, 5, 6	3	Action, Attack	Evo Upgrade		Mechanologist
-Heist	1	2	5	3	Action, Attack	Boost		Mechanologist
-Hemorrhage Bore	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Herald of Erudition	2	2	5	3	Light, Action, Attack	Dominate, Phantasm		Illusionist
-Herald of Judgment	2	2	6	3	Light, Action, Attack	Prism Specialization, Phantasm		Illusionist
-Herald of Protection	1, 2, 3	2	5, 6, 7	3	Light, Action, Attack	Phantasm		Illusionist
-Herald of Ravages	1, 2, 3	2	5, 6, 7	3	Light, Action, Attack	Phantasm		Illusionist
-Herald of Rebirth	1, 2, 3	2	5, 6, 7	3	Light, Action, Attack	Phantasm		Illusionist
-Herald of Tenacity	1, 2, 3	2	4, 5, 6	3	Light, Action, Attack	Dominate, Phantasm		Illusionist
-Herald of Triumph	1, 2, 3	2	5, 6, 7	3	Light, Action, Attack	Phantasm		Illusionist
-Heron's Flight	1	0	3	3	Action, Attack	Combo		Ninja
-High Octane	1	1		3	Action	Go again		Mechanologist
-High Roller	1, 2, 3	0		3	Action	Intimidate, Go again		Brute
-High Speed Impact	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-High Striker	1, 2, 3	0		2	Action	Go again		Generic
-High Voltage	3	0			Lightning, Instant	Amp 1		
-Hiss	1, 2, 3	1		3	Attack Reaction			Mystic, Assassin
-Hit and Run	1, 2, 3	0		3	Action	Go again		Warrior
-Hit the High Notes	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade
-Hocus Pocus	1, 2, 3	0	1, 2, 3	3	Action, Attack			Runeblade
-Hold 'em	1, 2, 3	1		3	Action	Go again		Warrior
-Hold the Line	3	0		2	Defense Reaction			Generic
-Homage to Ancestors	3	0			Instant	Legendary, Transcend		Mystic
-Howl from Beyond	1, 2, 3	2		2	Shadow, Action	Go again, Blood Debt		
-Humble	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Hundred Winds	1, 2, 3	0	1, 2, 3	2	Action, Attack	Combo, Go again		Ninja
-Hungering Demigon	1, 2, 3	2	4, 5, 6	3	Shadow, Action, Attack	Blood Debt		
-Hungering Slaughterbeast	1, 2, 3	2	5, 6, 7	3	Shadow, Action, Attack	Blood Debt		Brute
-Hurl	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Assassin, Ninja
-Hurricane Technique	2	1	4	3	Action, Attack	Combo, Go again		Ninja
-Hydraulic Press	1, 2, 3	3	4, 5, 6	3	Action, Attack	Scrap, Overpower		Mechanologist
-Hyper Driver	1, 2, 3	1			Action, Item			Mechanologist
-Hyper Scrapper	3	X	2	3	Action, Attack	Go Again		Mechanologist
-Hypothermia	3	0		2	Ice, Action, Affliction, Aura			
-Ice Bolt	1, 2, 3	2		3	Ice, Action			Wizard
-Ice Eternal	3	XX		3	Elemental, Action	Iyslander Specialization, Ice Fusion		Wizard
-Ice Quake	1, 2, 3	1		2	Ice, Action	Go again		
-Ice Storm	1	0		2	Elemental, Action	Ice and Lightning Fusion, Go again		Ranger
-Icebind	1, 2, 3	0		3	Elemental, Action	Ice Fusion		Wizard
-Icy Encounter	1, 2, 3	2	4, 5, 6	2	Ice, Action, Attack			
-Illuminate	1, 2, 3	0	2, 3, 4	3	Light, Action, Attack			
-Immobilizing Shot	1	0	4	3	Action, Arrow, Attack			Ranger
-Impenetrable Belief	1, 2, 3	2	3, 4, 5	2	Light, Action, Attack			
-Imperial Edict	1	1			Action, Item	Legendary	Go again	Generic
-Imperial Ledger	1	0			Action, Item	Legendary		Generic
-Imperial Warhorn	1	2			Action, Item	Legendary		Generic
-Imposing Visage	3	X3		3	Action	Go again		Guardian
-Impulsive Desire	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-In the Swing	1, 2, 3	0		3	Attack Reaction			Warrior
-Increase the Tension	1, 2, 3	1		2	Action	Go again		Ranger
-Index	1, 2, 3	0		2	Action			Wizard
-Induction Chamber	1	2			Action, Item		Go again	Mechanologist
-Inertia Trap	1	0		3	Defense Reaction, Trap			Assassin, Ranger
-Infect	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Infecting Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Infectious Host	1, 2, 3	0	2, 3, 4	2	Action, Attack			Generic
-Infiltrate	1	0	3	3	Action, Attack	Stealth		Assassin
-Inflame	1	0	1	2	Draconic, Action, Attack	Go again		
-Infuse Alloy	1, 2, 3	0	2, 3, 4	2	Action, Attack	Galvanize		Mechanologist
-Infuse Titanium	1, 2, 3	3	5, 6, 7	2	Action, Attack	Galvanize		Mechanologist
-Inner Chi	3				Resource, Chi			Mystic
-Insidious Chill	3	3		2	Ice, Action, Aura			
-Inspire Lightning	1, 2, 3	1		2	Elemental, Action	Lightning Fusion		Runeblade
-Intellect Penalty					Macro			
-Interlude	1, 2, 3	0			Bard, Instant			
-Intimate Inducement	1, 2, 3	0		3	Attack Reaction			Mystic, Assassin
-Intoxicating Shot	3	0	4	3	Action, Arrow, Attack	Riptide Specialization		Ranger
-Invert Existence	3	1			Shadow, Instant	Blood Debt		Runeblade
-Invigorate	1, 2, 3	0		2	Elemental, Action	Go again		
-Invigorating Light	1, 2, 3	3	4, 5, 6	2	Light, Action, Attack			
-Invoke Azvolai	1	0		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Invoke Cromai	1	0		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Invoke Dominia	1	4		3	Draconic, Action, Invocation	Legendary, Transform, Go again		Illusionist
-Invoke Dracona Optimai	1	6		3	Draconic, Action, Invocation	Legendary, Transform, Go again		Illusionist
-Invoke Kyloria	1	1		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Invoke Miragai	1	1		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Invoke Nekria	1	3		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Invoke Ouvia	1	2		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Invoke Suraya	2	2		3	Light, Action, Invocation	Legendary, Transform, Go again		Illusionist
-Invoke Themai	1	2		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Invoke Tomeltai	1	5		3	Draconic, Action, Invocation	Legendary, Transform, Go again		Illusionist
-Invoke Vynserakai	1	3		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Invoke Yendurai	1	1		3	Draconic, Action, Invocation	Transform, Go again		Illusionist
-Ironsong Determination	2	0		3	Action	Go again		Warrior
-Ironsong Pride	1	1			Instant, Aura			Warrior
-Ironsong Response	1, 2, 3	0		3	Attack Reaction	Reprise		Warrior
-Isenhowl Weathervane	1, 2, 3	1		2	Ice, Action	Go again		
-Isolate	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth, Dominate		Assassin
-Jack-o'-lantern	1, 2, 3	0		2	Shadow, Action	Go again		Runeblade
-Judge, Jury, Executioner	1	1	5	3	Action, Arrow, Attack	Legendary, Azalea Specialization		Ranger
-Jump Start	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Junkyard Dogg	1, 2, 3	3	4, 5, 6	3	Action, Attack	Scrap		Mechanologist
-Just a Nick	1	0		3	Attack Reaction			Assassin
-Kindle	1	0			Instant	Amp 1		Wizard
-Knick Knack Bric-a-brac	1	3		2	Action			Generic
-Knives Out	3	0		3	Attack Reaction			Assassin, Ninja
-Korshem, Crossroad of Elements		1			Elemental, Action, Landmark	Legendary, Go again		
-Kyloria			4		Draconic, Dragon, Ally			Illusionist
-Lace with Bloodrot	1	0		2	Action	Go again		Ranger
-Lace with Frailty	1	0		2	Action	Go again		Ranger
-Lace with Inertia	1	0		2	Action	Go again		Ranger
-Lady Barthimont				3	Mentor			Brute
-Last Ditch Effort	3	3	4	3	Action, Attack	Go again		Generic
-Lava Burst	1	0	2	3	Draconic, Action, Attack	Rupture		
-Lava Vein Loyalty	1, 2, 3	0	1, 2, 3	3	Draconic, Action, Attack	Go again		Ninja
-Lay Down the Law	1	3	7	3	Action, Attack	Tower		Guardian
-Lay Waste	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Lay to Rest	1, 2, 3	1	3, 4, 5	3	Light, Action, Attack			
-Lead the Charge	1, 2, 3	0		2	Action	Go again		Generic
-Lead with Heart	1, 2, 3	1		2	Action	Go again		Guardian, Warrior
-Lead with Power	1, 2, 3	1		2	Action	Go again		Brute, Guardian
-Lead with Speed	1, 2, 3	1		2	Action	Go again		Brute, Warrior
-Leave No Witnesses	1	0	4	3	Action, Attack	Contract		Assassin
-Leg Tap	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja
-Lesson in Lava	2	1		3	Action	Kano Specialization		Wizard
-Levels of Enlightenment	3	1	3	3	Action, Attack	Go again		Mystic
-Life for a Life	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Generic
-Life of the Party	1, 2, 3	2	2, 3, 4	2	Action, Attack	Go again		Generic
-Light it Up	2	1	4	3	Elemental, Action, Arrow, Attack	Lexi Specialization, Lightning Fusion		Ranger
-Light of Sol	2				Light, Resource, Gem	Legendary		
-Light the Way	1, 2, 3	0	1, 2, 3	3	Light, Action, Attack	Charge, Go again		Warrior
-Lightning Form	1, 2, 3	1	3, 4, 5	2	Lightning, Action, Attack			
-Lightning Press	1, 2, 3	0			Lightning, Instant			
-Lightning Surge	1, 2, 3	0	2, 3, 4	2	Lightning, Action, Attack	Go again		
-Line It Up	2	1		3	Action	Go again		Ranger
-Liquefy	1	1		2	Draconic, Attack Reaction	Rupture		
-Liquid-Cooled Mayhem	1, 2, 3	4	4, 5, 6	3	Action, Attack	Evo Upgrade		Mechanologist
-Locked and Loaded	1, 2, 3	0		3	Action	Opt 1, Go again		Mechanologist
-Log Fall	1, 2	3	4, 5	3	Elemental, Action, Attack	Earth Bond, Overpower		Guardian
-Long Shot	1, 2, 3	0	1, 2, 3	3	Action, Arrow, Attack			Ranger
-Looking for a Scrap	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Generic
-Looming Doom	3	3		3	Action, Aura			Runeblade
-Lord Sutcliffe				3	Mentor			Runeblade
-Lord of Wind	3	0	2	3	Action, Attack	Katsu Specialization, Combo		Ninja
-Lost in Thought	1	1		2	Action	Go again		Illusionist
-Lumina Ascension	2	0		3	Light, Action	Boltyn Specialization, Go again		Warrior
-Lumina Lance	2	0		3	Light, Attack Reaction			
-Lunartide Plunderer	1, 2, 3	3	5, 6, 7	2	Shadow, Action, Attack			
-Lunging Press	3	0		2	Attack Reaction			Generic
-MHz Script	2	0			Action, Item	Crank		Mechanologist
-Machinations of Dominion	3	0		3	Action	Go again		Runeblade
-Macho Grande	1, 2, 3	7	10, 8, 9	3	Action, Attack	Dominate		Guardian
-Madcap Charger	1, 2, 3	1	3, 4, 5	3	Action, Attack	Go again		Brute
-Madcap Muscle	1, 2, 3	3	4, 5, 6	3	Action, Attack			Brute
-Malefic Incantation	1, 2, 3	0		2	Action, Aura	Go again		Runeblade
-Malign	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Mangle	1	4	8	3	Action, Attack	Crush		Guardian
-Manifestation of Miragai	3	3			Instant, Aura	Ward X		Mystic, Illusionist
-Mark of the Beast	2	2	6	3	Shadow, Action, Attack	Blood Debt		Brute
-Massacre	1	3	6	3	Action, Attack	Intimidate		Brute
-Master Cog	2				Resource, Gem	Legendary		Mechanologist
-Maul	2	0		3	Attack Reaction			Ninja
-Mauling Qi	1	1	5	3	Action, Attack	Combo		Ninja
-Mauvrion Skies	1, 2, 3	0		2	Action	Go again		Runeblade
-Maximum Velocity	1	2	10	3	Action, Attack			Mechanologist
-Meat and Greet	1, 2, 3	1	2, 3, 4	3	Action, Attack	Go again		Runeblade
-Mechanical Strength	1, 2, 3	3	3, 4, 5	3	Action, Attack	Evo Upgrade		Mechanologist
-Medkit	3	0			Action, Item			Mechanologist
-Meganetic Lockwave	3	XXX		3	Action	Go Again		Mechanologist
-Meganetic Protocol	3	3	5	3	Action, Attack	Evo Upgrade		Mechanologist
-Meganetic Shockwave	3	2	4	3	Action, Attack			Mechanologist
-Melting Point	1	1		3	Action	Go again		Ranger
-Memorial Ground	1, 2, 3	0			Instant			Generic
-Mental Block	3			2	Block			Wizard
-Merciful Retribution	2	4			Light, Instant, Aura	Spectra		Illusionist
-MetEx	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-Micro-processor	3	2			Action, Item	Data Doll Specialization	Opt 1	Mechanologist
-Mighty Windup	1, 2, 3	3	5, 6, 7	2	Action, Attack			Brute, Guardian
-Mind Warp	2	0		3	Action	Surge		Wizard
-Mind's Desire	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Mindstate of Tiger	3	0		3	Action, Aura			Ninja
-Minerva Themis				3	Mentor			Warrior
-Mini Forcefield	1, 2, 3	1			Action, Item	Crank, Ward X		Mechanologist
-Minnowism	1, 2, 3	0		2	Action	Go again		Generic
-Miragai			2		Draconic, Dragon, Ally			Illusionist
-Miraging Metamorph	1	1	7	3	Action, Attack	Phantasm		Illusionist
-Mischievous Meeps	1	1	2	2	Action, Attack	Go again		Generic
-Mistcloak Gully		1			Instant, Landmark	Legendary, Transcend		Mystic
-Money Where Ya Mouth Is	1, 2, 3	1		2	Action	Go again		Generic
-Moon Chakra	1, 2, 3	0			Instant			Mystic, Illusionist
-Moon Wish	1, 2, 3	2	3, 4, 5	2	Action, Attack			Generic
-Moonshot	2	XX	3	3	Action, Attack	Overpower		Mechanologist
-Mordred Tide	1	0		3	Action	Go again		Runeblade
-Morlock Hill	3	0			Instant			Warrior
-Mounting Anger	1, 2, 3	1	2, 3, 4	2	Draconic, Action, Attack	Go again		Ninja
-Mugenshi: RELEASE	2	1	4	3	Action, Attack	Katsu Specialization, Combo, Go again		Ninja
-Mulch	1, 2, 3	4	6, 7, 8	3	Elemental, Action, Attack	Earth Fusion		Guardian
-Murkmire Grapnel	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack			Ranger
-Murky Water	1	2	6	3	Action, Arrow, Attack	Riptide Specialization, Dominate		Ranger
-Muscle Mutt	2	3	6	2	Action, Attack			Generic
-Mutated Mass	3	1	*	*	Shadow, Action, Attack	Blood Debt		
-Nasty Surprise	3	0	2	3	Action, Attack			Generic
-Nature's Path Pilgrimage	1, 2, 3	1		3	Action	Go again		Warrior
-Nekria			4		Draconic, Dragon, Ally			Illusionist
-Nerves of Steel	3	3		3	Action, Aura			Guardian
-Never Yield	3	3		3	Action, Aura			Guardian
-Nimble Strike	1, 2, 3	1	2, 3, 4	2	Action, Attack			Generic
-Nimblism	1, 2, 3	0		2	Action	Go again		Generic
-Ninth Blade of the Blood Oath	2	9	9	3	Action, Attack			Runeblade
-Nix the Nimble	1, 2, 3	1	3, 4, 5	3	Action, Attack	Contract		Assassin
-No Fear	1	0			Instant			Brute
-Nock the Deathwhistle	3	0		3	Action	Azalea Specialization, Reload, Go again		Ranger
-Northern Winds	3	0		2	Ice, Action	Oldhim Specialization, Unity, Freeze		
-Nourishing Emptiness	1	2	6	3	Action, Attack	Dominate		Generic
-Null // Shock	2	1			Instant, Lightning, Instant	Meld, Negate		Wizard
-Numbskull	1	2	6	3	Action, Attack			Brute
-Oaken Old	1	3	7	3	Elemental, Action, Attack	Earth and Ice Fusion, Dominate		Guardian
-Oasis Respite	1, 2, 3	1			Instant			Generic
-Oath of Steel	1	0		3	Action	Go again		Warrior
-Oath of the Arknight	1, 2, 3	2		3	Action	Go again		Runeblade
-Oblivion	3	0			Shadow, Instant	Legendary, Vynnset Specialization		Runeblade
-Ode to Wrath	2	4			Light, Instant, Aura	Spectra		Illusionist
-On a Knife Edge	2	0		2	Action	Go again		Generic
-One-Two Punch	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo		Ninja
-Open the Center	1, 2, 3	2	3, 4, 5	3	Action, Attack	Combo, Go again, Dominate		Ninja
-Open the Flood Gates	1, 2, 3	2		3	Action	Surge		Wizard
-Optekal Monocle	3	0			Action, Item		Opt 1, Go again	Mechanologist
-Orihon of Mystic Tenets	3	4			Instant	Legendary		Mystic
-Out Muscle	1, 2, 3	3	4, 5, 6	2	Action, Attack	Go again		Generic
-Out Pace	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-Out for Blood	1, 2, 3	1		3	Attack Reaction	Reprise		Warrior
-Outland Skirmish	1, 2, 3	0		3	Action	Go again		Warrior
-Ouvia			1		Draconic, Dragon, Ally	Transform		Illusionist
-Over Flex	1, 2, 3	1		2	Action	Reload, Go again		Ranger
-Over Loop	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Over the Top	1, 2, 3	3	4, 5, 6	3	Action, Attack	Overpower		Guardian
-Overblast	1, 2, 3	2	3, 4, 5	3	Action, Attack			Mechanologist
-Overflow the Aetherwell	1, 2, 3	0		3	Action	Surge		Wizard
-Overload	1, 2, 3	0	1, 2, 3	2	Action, Attack	Dominate, Go again		Generic
-Overload Script	1	0			Action, Item	Crank		Mechanologist
-Overpower	1, 2, 3	3		3	Attack Reaction	Reprise		Warrior
-Pack Call	1, 2, 3	3	5, 6, 7	3	Action, Attack			Brute
-Pack Hunt	1, 2, 3	2	4, 5, 6	3	Action, Attack	Intimidate		Brute
-Panel Beater	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Parable of Humility	2	4			Light, Instant, Aura	Spectra		Illusionist
-Pass Over	3	0			Instant	Legendary, Transcend		Mystic
-Passing Mirage	3	0		2	Action, Aura	Spectra		Illusionist
-Path Well Traveled	3	0			Instant	Legendary, Transcend		Mystic
-Pathing Helix	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack			Ranger
-Pay Day	3	0		3	Action			Assassin
-Pay Up	1	3	6	3	Action, Attack	Overpower		Generic
-Payload	1, 2, 3	2	4, 5, 6	3	Action, Attack	Dominate		Mechanologist
-Peace of Mind	1, 2, 3	2			Instant			Generic
-Pedal to the Metal	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Pendulum Trap	2	0		3	Defense Reaction, Trap			Ranger
-Penetration Script	2	1			Action, Item	Crank		Mechanologist
-Perennial Aetherbloom	1, 2, 3	0		3	Action	Surge		Wizard
-Performance Bonus	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic
-Persuasive Prognosis	3	0	1	3	Action, Attack	Stealth		Assassin
-Phantasmaclasm	1	3	9	3	Action, Attack	Phantasm		Illusionist
-Phantasmal Haze	1, 2, 3	3	6, 7, 8	3	Action, Attack	Phantasm		Illusionist
-Phantasmal Symbiosis	2	1	6	3	Action, Attack	Phantasm		Illusionist
-Phantasmify	1, 2, 3	1		2	Action	Go again		Illusionist
-Phantom Tidemaw	3	0			Instant, Aura	Phantasm, Ward 1		Illusionist
-Phoenix Flame	1	0	0		Draconic, Action, Attack	Go again		
-Phoenix Form	1	0	3	3	Draconic, Action, Attack	Go again		Ninja
-Photon Rush	1, 3	0	1, 3	3	Elemental, Action, Attack	Lightning Flow, Go again		Runeblade
-Photon Splicing	1, 2, 3	1		3	Action		Amp 1	Wizard
-Pick a Card, Any Card	1, 2, 3	0		2	Action	Go again		Generic
-Pick to Pieces	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Pierce Reality	3	0		2	Action, Aura	Spectra		Illusionist
-Piercing Shadow Vise	1, 2, 3	2	2, 3, 4	3	Shadow, Action, Attack	Blood Debt		Runeblade
-Pint of Strong and Stout	3	0		2	Action	Go again		Guardian
-Pitfall Trap	2	0		3	Defense Reaction, Trap			Ranger
-Plague Hive	2				Resource, Gem	Legendary		Assassin, Ranger
-Plan for the Worst	3	0		3	Action			Ranger
-Plasma Mainline	1	2			Action, Item			Mechanologist
-Plasma Purifier	1	2			Action, Item		Go again	Mechanologist
-Plow Through	1, 2, 3	1		3	Action	Go again		Warrior
-Plow Under	2	2	2	3	Earth, Action, Attack	Decompose		
-Plunder Run	1, 2, 3	0		2	Action	Go again		Generic
-Plunder the Poor	1, 2, 3	0	2, 3, 4	3	Action, Attack	Contract		Assassin
-Plunge	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Assassin, Ninja
-Point the Tip	1, 2, 3	0		2	Action	Go again		Ranger
-Poison the Tips	2	0		2	Action	Reload, Go again		Ranger
-Poison the Well	3	0			Instant			Generic
-Polar Blast	1, 2, 3	1		2	Ice, Action	Go again		
-Polar Cap	1, 2, 3	2		3	Elemental, Action	Ice Fusion		Wizard
-Polarity Reversal Script	1	1			Action, Item	Crank		Mechanologist
-Pop the Bubble	1, 2, 3	0		3	Action	Surge		Wizard
-Potion of Déjà Vu	3	0			Action, Item			Generic
-Potion of Ironhide	3	0			Action, Item			Generic
-Potion of Luck	3	0			Action, Item			Generic
-Potion of Seeing	3	0			Action, Item			Generic
-Potion of Strength	3	0			Action, Item		Go again	Generic
-Pouncing Qi	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo, Go again		Ninja
-Pound Town	1, 2, 3	3	5, 6, 7	3	Action, Attack	Beat Chest		Brute
-Pound for Pound	1, 2, 3	3	4, 5, 6	2	Action, Attack	Dominate		Generic
-Pounding Gale	1	1	5	3	Action, Attack	Combo		Ninja
-Pour the Mold	1, 2, 3	0		3	Action	Go again		Mechanologist
-Powder Keg	3	0			Action, Item			Mechanologist
-Prayer of Bellona	2	1		3	Light, Action	Charge, Go again		Warrior
-Precision Press	1, 2, 3	1		3	Action	Go again		Warrior
-Predatory Assault	1, 2, 3	2	4, 5, 6	3	Action, Attack	Dominate		Brute
-Predatory Streak	1, 2, 3	0		2	Action	Go again		Ninja
-Premeditate	1	0		2	Action	Go again		Generic
-Preserve Tradition	3	0			Instant	Legendary, Transcend		Mystic
-Primed to Fight	1	5	9	3	Action, Attack			Guardian
-Primeval Bellow	1, 2, 3	0		3	Action	Go again		Brute
-Prismatic Lens	2	1			Action, Item	Crank		Mechanologist
-Prismatic Leyline	2	0		3	Action	Go again		Generic
-Prismatic Shield	1, 2, 3	3			Instant			Illusionist
-Prognosticate	1, 2, 3	0		3	Action	Surge, Opt 1		Wizard
-Promise of Plenty	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic
-Prowl	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Pry	1, 2, 3	0		3	Action			Wizard
-Pulping	1, 2, 3	2	4, 5, 6		Action, Attack	Dominate, Go again		Brute
-Pulse of Candlehold	2	0		3	Earth, Lightning, Action	Legendary, Go again		
-Pulse of Isenloft	3	2		6	Ice, Earth, Defense Reaction	Legendary		
-Pulse of Volthaven	1	0			Lightning, Ice, Instant	Legendary		
-Pulsewave Harpoon	1	1	4	3	Action, Attack	Boost		Mechanologist
-Pulsewave Protocol	2	3	6	3	Action, Attack	Evo Upgrade		Mechanologist
-Pulsing Aether // Life	1	1		3	Action, Earth, Instant	Meld		Wizard
-Pulverize	1	10	14	3	Action, Attack	Heave 3		Guardian
-Pummel	1, 2, 3	2		2	Attack Reaction			Generic
-Puncture	1, 2, 3	1		3	Attack Reaction			Warrior
-Pursuit of Knowledge	3	2	4	2	Action, Attack			Generic
-Push Forward	1, 2, 3	1		3	Action	Go again		Warrior
-Push the Point	1, 2, 3	1	2, 3, 4	2	Action, Attack			Generic
-Putrid Stirrings	1, 2, 3	3		3	Shadow, Action	Blood Debt, Go again		Runeblade
-Pyroglyphic Protection	1, 2, 3	2		2	Action, Aura			Wizard
-Qi Unleashed	1, 2, 3	2	1, 2, 3	3	Action, Attack	Combo		Ninja
-Quantum Processor	2	1			Action, Item	Crank		Mechanologist
-Quickfire	1, 2, 3	2		2	Action	Go again		Mechanologist
-Radiant Forcefield	2	0			Light, Instant, Aura			
-Rage Specter	3	2		3	Action, Aura	Ward 1, Ward 6		Illusionist
-Raging Onslaught	1, 2, 3	3	5, 6, 7	3	Action, Attack			Generic
-Rain Razors	2	0			Instant			Ranger
-Raise an Army	2	0		3	Action	Kassai Specialization, Go again		Warrior
-Rake the Embers	1, 2, 3	1		2	Draconic, Action	Transform, Go again		Illusionist
-Rally the Rearguard	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Ram Raider	1, 2, 3	2	4, 5, 6	3	Shadow, Action, Attack	Blood Debt, Go again		Brute
-Rampant Growth // Life	2	0			Instant, Earth, Instant	Meld, Amp X		Wizard
-Rapid Fire	2	0		2	Action	Reload		Ranger
-Rapid Reflex	1, 2, 3	1		3	Attack Reaction			Ninja
-Ratchet Up	1, 2, 3	1	3, 4, 5	2	Action, Attack	Galvanize		Mechanologist
-Rattle Bones	1	2		3	Action	Go again		Runeblade
-Ravenous Rabble	1, 2, 3	0	3, 4, 5	2	Action, Attack	Go again		Generic
-Rawhide Rumble	1, 2, 3	2	4, 5, 6	3	Action, Attack	Beat Chest, Intimidate		Brute
-Ray of Hope	2	1			Light, Instant			
-Razor Reflex	1, 2, 3	1		2	Attack Reaction			Generic
-Razor's Edge	1, 2, 3	0		3	Attack Reaction			Assassin
-Razzle Dazzle	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-Re-Charge!	1, 2, 3	1		2	Action	Go again		Mechanologist
-Read the Glide Path	1, 2, 3	0		2	Action	Opt 1, Go again		Ranger
-Read the Ripples	1, 2, 3	0		2	Action, Aura	Opt 1		Wizard
-Read the Runes	1, 2, 3	0		2	Action			Runeblade
-Ready to Roll	3	0		3	Action	Kayo Specialization, Go again		Brute
-Rebellious Rush	1, 2, 3	2	3, 4, 5	2	Draconic, Action, Attack	Go again		Ninja
-Reckless Charge	3	0		3	Action	Kayo Specialization		Brute
-Reckless Swing	3	0		4	Defense Reaction			Brute
-Recoil	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo		Ninja
-Red Hot	1	2	4	3	Draconic, Action, Attack	Dromai or Fai Specialization, Rupture		
-Red in the Ledger	1	1	5	3	Action, Arrow, Attack	Azalea Specialization		Ranger
-Reduce to Runechant	1, 2, 3	1		2, 3, 4	Defense Reaction			Runeblade
-Reek of Corruption	1, 2, 3	2	2, 3, 4	3	Action, Attack			Runeblade
-Reel In	3	X			Instant	Reload		Ranger
-Regicide	3	0	3	3	Action, Attack	Legendary, Arakni Specialization		Assassin
-Regrowth // Shock	3	0		3	Earth, Action, Lightning, Instant	Meld, Go again		Runeblade
-Regurgitating Slog	1, 2, 3	2	4, 5, 6	2	Action, Attack	Dominate		Generic
-Reincarnate	1, 2, 3	3	5, 6, 7	3	Action, Attack			Brute
-Reinforce Steel	1, 2, 3	2		3	Action			Guardian
-Reinforce the Line	1, 2, 3	0			Instant			Generic
-Rejuvenate	1, 2, 3	1		2	Elemental, Action			
-Release the Tension	1, 2, 3	0		2	Action	Go again		Ranger
-Remembrance	2	0			Instant			Generic
-Remorseless	1	1	5	3	Action, Arrow, Attack			Ranger
-Requiem for the Damned	1	0		3	Shadow, Action	Blood Debt		Runeblade
-Resounding Courage	1, 2, 3	1		3	Light, Attack Reaction			Warrior
-Restless Coalescence	2	0			Instant, Aura	Ward 2		Illusionist
-Rev Up	1, 2, 3	3	4, 5, 6	3	Action, Attack	Boost		Mechanologist
-Revel in Runeblood	1	0		2	Action	Go again		Runeblade
-Reverberate	1, 2, 3	1		3	Action			Wizard
-Rewind	3	1			Instant	Negate		Wizard
-Ride the Tailwind	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja
-Ridge Rider Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack	Opt 1		Ranger
-Rift Bind	1, 2, 3	1	1, 2, 3	3	Shadow, Action, Attack	Blood Debt		Runeblade
-Rift Skitter	1, 2, 3	3	2, 3, 4	3	Shadow, Action, Attack	Rune Gate, Go again, Blood Debt		Runeblade
-Rifted Torment	1, 2, 3	2	2, 3, 4	3	Shadow, Action, Attack	Blood Debt		Runeblade
-Rifting	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Righteous Cleansing	2	7	10	3	Action, Attack	Crush		Guardian
-Riled Up	1, 2, 3	3	5, 6, 7	3	Action, Attack			Brute
-Rip Through Reality	1, 2, 3	2	2, 3, 4	3	Shadow, Action, Attack	Go again, Blood Debt		Runeblade
-Ripple Away	3	2	4	3	Action, Attack			Generic
-Rise Above	1, 2, 3	2		2, 3, 4	Defense Reaction			Generic
-Rise Up	1	1	3	3	Draconic, Action, Attack	Dromai or Fai Specialization, Rupture, Dominate		
-Rise from the Ashes	1, 2, 3	0		2	Draconic, Action	Go again		Ninja
-Rising Energy	1, 2, 3	2	4, 5, 6	2	Action, Attack			Guardian, Warrior
-Rising Knee Thrust	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo, Go again		Ninja
-Rising Power	1, 2, 3	2	4, 5, 6	2	Action, Attack			Brute, Guardian
-Rising Resentment	1, 2, 3	0	1, 2, 3	2	Draconic, Action, Attack	Go again		Ninja
-Rising Solartide	1, 2, 3	1	3, 4, 5	3	Light, Action, Attack			
-Rising Speed	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again		Brute, Warrior
-Rising Sun, Setting Moon	3	0			Instant	Legendary, Transcend		Mystic
-Rising Tide	3	1	3	2	Action, Attack			Mystic
-Rites of Lightning	1, 2, 3	1	2, 3, 4	3	Elemental, Action, Attack	Lightning Fusion, Go again		Runeblade
-Rites of Replenishment	1, 2, 3	2	4, 5, 6	3	Elemental, Action, Attack	Earth Fusion		Runeblade
-Roar of the Tiger	2	0		3	Action	Go again		Ninja
-Rob the Rich	1, 2, 3	1	3, 4, 5	3	Action, Attack	Contract		Assassin
-Rockslide Trap	3	0		2	Defense Reaction, Trap			Ranger
-Rolling Thunder	1	1		3	Action	Go again		Brute
-Ronin Renegade	1, 2, 3	0	1, 2, 3	2	Draconic, Action, Attack	Go again		Ninja
-Rootbound Carapace	1, 2, 3	0		1, 2, 3	Earth, Defense Reaction	Decompose		
-Rotary Ram	1, 2, 3	0		3	Action	Go again		Mechanologist
-Rouse the Ancients	3	3	0	2	Action, Attack	Go again		Generic
-Rousing Aether	1, 2, 3	2		3	Action			Wizard
-Rout	1	2		3	Attack Reaction	Reprise		Warrior
-Rowdy Locals	3	0	2	3	Action, Attack			Generic
-Rumble Grunting	1, 2, 3	0		3	Action	Go again		Brute
-Run Roughshod	3	1	5	3	Action, Attack			Brute
-Run Through	2	1		3	Attack Reaction			Warrior
-Run into Trouble	1			3	Block			Brute, Warrior
-Rune Flash	1, 2, 3	3	2, 3, 4	3	Action, Attack	Go again		Runeblade
-Runeblood Barrier	2	3		2	Action, Aura			Runeblade
-Runeblood Incantation	1, 2, 3	1		2	Action, Aura	Go again		Runeblade
-Runerager Swarm	1, 2, 3	0	1, 2, 3	3	Action, Attack	Go again		Runeblade
-Runic Reaping	1, 2, 3	1		2	Action	Go again		Runeblade
-Runic Reckoning	1	1		3	Action	Go again		Runeblade
-Runic Reclamation	1	3	7	3	Action, Attack			Runeblade
-Runner Runner	1	2	6	3	Action, Attack			Brute, Warrior
-Rushing River	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo, Go again		Ninja
-Rusted Relic	3	0			Action, Item	Arcane Barrier 1		Generic
-Sack the Shifty	1, 2, 3	0	2, 3, 4	3	Action, Attack	Contract		Assassin
-Sacred Art: Immortal Lunar Shrine	3	3			Instant	Legendary, Transcend		Mystic, Illusionist
-Sacred Art: Jade Tiger Domain	3	3			Instant	Legendary, Transcend		Mystic, Ninja
-Sacred Art: Undercurrent Desires	3	3			Instant	Legendary, Transcend		Mystic, Assassin
-Salt the Wound	2	0	2	3	Action, Attack			Ninja
-Salvage Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Sanctuary of Aria					Rosetta, Macro			
-Sand Cover	1, 2, 3	0			Draconic, Instant			Illusionist
-Sand Sketched Plan	3	0		3	Action	Rhinar Specialization		Brute
-Sap	1, 2, 3	0		3	Action	Surge		Wizard
-Savage Beatdown	1	3	6	3	Action, Attack			Brute
-Savage Feast	1, 2, 3	1	4, 5, 6	3	Action, Attack			Brute
-Savage Swing	1, 2, 3	1	5, 6, 7	3	Action, Attack			Brute
-Save the Thought	1, 2, 3	2			Instant			Wizard
-Saving Grace	2	0		3	Light, Defense Reaction	Charge		Warrior
-Scalding Rain	1, 2, 3	1		3	Action			Wizard
-Scar for a Scar	1, 2, 3	0	2, 3, 4	2	Action, Attack	Go again		Generic
-Scour	3	X		3	Action			Wizard
-Scour the Battlescape	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic
-Scout the Periphery	1, 2, 3	0		2	Action	Go again		Generic
-Scramble Pulse	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Scrap Compactor	1, 2, 3	0	1, 2, 3	3	Action, Attack	Scrap		Mechanologist
-Scrap Harvester	1, 2, 3	3	4, 5, 6	3	Action, Attack	Scrap		Mechanologist
-Scrap Hopper	1, 2, 3	0	1, 2, 3	3	Action, Attack	Scrap		Mechanologist
-Scrap Prospector	1, 2, 3	0	1, 2, 3	3	Action, Attack	Scrap		Mechanologist
-Scrap Trader	1	0		2	Action	Scrap		Mechanologist
-Searing Ray	1, 2, 3	1	2, 3, 4	2	Light, Action, Attack			
-Searing Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack			Ranger
-Searing Touch	1	1	3	3	Draconic, Action, Attack	Rupture		
-Second Strike	1, 2, 3	0	1, 2, 3	2	Lightning, Action, Attack	Go again		
-Second Swing	1, 2, 3	1		3	Action	Go again		Warrior
-Second Tenet of Chi: Moon	3	3	5	3	Action, Attack			Mystic
-Second Tenet of Chi: Tide	3	3	5	3	Action, Attack			Mystic
-Second Tenet of Chi: Wind	3	3	5	3	Action, Attack	Go again		Mystic
-Security Script	3	1			Action, Item	Crank		Mechanologist
-Sedate	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Sedation Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Seduce Secrets	2	0			Instant			Generic
-Seeds of Agony	1, 2, 3	0		2	Shadow, Action	Go again, Blood Debt		Runeblade
-Seeds of Strength	2, 3	2		3	Elemental, Action	Earth Bond		Guardian
-Seeds of Tomorrow	3	0			Earth, Instant			
-Seek Enlightenment	1, 2, 3	1		2	Light, Action	Go again		
-Seek Horizon	1, 2, 3	0	2, 3, 4	2	Action, Attack	Go again		Generic
-Seek and Destroy	1	0		2	Action	Go again		Ranger
-Seeping Shadows	1, 2, 3	3		2	Shadow, Action	Go again, Blood Debt		Runeblade
-Seismic Stir	1, 2, 3	2		3	Action	Go again		Guardian
-Semblance	3	3			Instant			Illusionist
-Send Packing	2	3	6	3	Action, Attack			Brute
-Shaden Death Hydra	2	6	13	3	Shadow, Action, Attack	Blood Debt		Brute
-Shaden Scream	1, 2, 3	0		3	Shadow, Action	Go again		Brute
-Shaden Swing	1, 2, 3	1	5, 6, 7	3	Shadow, Action, Attack	Blood Debt		Brute
-Shadow Puppetry	1	0		2	Shadow, Action	Go again		
-Shadow of Blasmophet	1	2	6		Shadow, Action, Attack	Blood Debt		Brute
-Shadow of Ursur	3	0	2	3	Shadow, Action, Attack	Go again, Blood Debt		Runeblade
-Shadowrealm Horror	1	2	6	3	Shadow, Action, Attack	Go again, Blood Debt		Brute
-Shake Down	1	2	6	3	Action, Attack	Uzuri Specialization		Assassin
-Sharpen Steel	1, 2, 3	0		3	Action	Go again		Warrior
-Shatter	2	0		3	Attack Reaction			Warrior
-Shield Bash	1, 2, 3	3		4, 5, 6	Defense Reaction			Guardian
-Shield Wall	1, 2, 3	6		5, 6, 7	Defense Reaction			Guardian
-Shift the Tide of Battle	2	0		3	Attack Reaction			Warrior
-Shifting Winds of the Mystic Beast	3	1		3	Action	Go again		Mystic, Ninja
-Shimmers of Silver	3	0		2	Action, Aura	Spectra		Illusionist
-Shitty Xmas Present	2	0		2	Action			Generic
-Shock Striker	1, 2, 3	1	3, 4, 5	2	Lightning, Action, Attack			
-Short and Sharp	1, 2, 3	1		2	Attack Reaction			Assassin, Ninja
-Show No Mercy	1	3	6	3	Action, Attack	Rhinar Specialization, Intimidate		Brute
-Show Time!	3	3		3	Action, Aura	Bravo Specialization		Guardian
-Shred	1, 2, 3	0		3	Attack Reaction			Assassin
-Shrill of Skullform	1, 2, 3	2	2, 3, 4	3	Action, Attack			Runeblade
-Sic 'Em Shot	1, 2, 3	1	2, 3, 4	3	Action, Arrow, Attack	Go again		Ranger
-Sift	1, 2, 3	0		3	Action	Go again		Generic
-Sigil of Aether	3	0			Instant, Aura	Amp 1		Wizard
-Sigil of Brilliance	2	0			Lightning, Instant, Aura	Oscilio Specialization		Wizard
-Sigil of Conductivity	3	0			Lightning, Instant, Aura	Arcane Shelter 1		
-Sigil of Cycles	3	0		2	Action, Aura	Go again		Generic
-Sigil of Deadwood	3	0		2	Action, Aura	Go again		Runeblade
-Sigil of Earth	3	0		2	Earth, Action, Aura	Go again		
-Sigil of Forethought	3	0			Instant, Aura			Wizard
-Sigil of Fyendal	3	0		2	Action, Aura	Go again		Generic
-Sigil of Lightning	3	0			Lightning, Instant, Aura			
-Sigil of Parapets	3	1		2	Defense Reaction			Wizard
-Sigil of Permafrost	1, 2, 3	1		2, 3, 4	Elemental, Defense Reaction	Ice Fusion		Wizard
-Sigil of Protection	1, 2, 3	1		2	Action, Aura	Ward 4		Generic
-Sigil of Sanctuary	3	0			Earth, Instant, Aura	Arcane Shelter 1		
-Sigil of Shelter	2, 3	0			Instant			Guardian
-Sigil of Solace	1, 2, 3	0			Instant			Generic
-Sigil of Solitude	1, 2, 3	0		2	Action, Aura	Ward 4		Illusionist
-Sigil of Suffering	1, 2, 3	0		1, 2, 3	Defense Reaction			Runeblade
-Sigil of Temporal Manipulation	3	0			Instant, Aura			Wizard
-Sigil of the Arknight	3	0		2	Action, Aura	Go again		Runeblade
-Signal Jammer	3	0			Action, Item			Mechanologist
-Silver the Tip	1, 2, 3	1		2	Action	Go again		Ranger
-Silverwind Shuriken	3	0			Action, Shuriken, Item	Attack Reaction		Ninja
-Singe	1, 2, 3	1		3	Action			Wizard
-Singeing Steelblade	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade
-Singing Steelblade	2	1		3	Attack Reaction	Dorinthea Specialization, Reprise		Warrior
-Single Minded Determination	1, 2, 3	2		3	Action, Aura	Ward 2		Illusionist
-Singularity	1	6		3	Action, Construct	Transform, Legendary, Teklovossen Specialization		Mechanologist
-Sink Below	1, 2, 3	0		2, 3, 4	Defense Reaction			Generic
-Siren's Call	1	1		3	Attack Reaction			Mystic, Assassin
-Sizzle	1, 2	0		2	Lightning, Action	Go again		
-Skittering Sands	1, 2, 3	0		2	Draconic, Action	Transform, Go again		Illusionist
-Skull Crack	1	2	6	3	Action, Attack			Brute
-Sky Fire Lanterns	1, 2, 3	0		2	Action	Go again		Runeblade
-Skybound Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Slap-Happy	1	0			Instant			Guardian, Warrior
-Slay	1	0			Shadow, Instant			
-Slay the Scholars	1, 2, 3	0	2, 3, 4	3	Action, Attack	Contract		Assassin
-Sleep Dart	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Slice and Dice	1, 2, 3	0		3	Action	Go again		Warrior
-Slither		0			Attack Reaction	Ephemeral		Mystic, Assassin
-Slithering Shadowpede	1	1	6		Shadow, Action, Attack	Blood Debt		Brute
-Sloggism	1, 2, 3	3		2	Action	Go again		Generic
-Smack of Reality	1	5	9	3	Action, Attack	Tower		Guardian
-Smash Instinct	1, 2, 3	3	5, 6, 7	3	Action, Attack	Intimidate		Brute
-Smash Up	1	1	5	2	Action, Attack			Generic
-Smash and Grab	1	3	5	3	Action, Attack			Mechanologist
-Smash with Big Tree	1, 2, 3	2	5, 6, 7		Action, Attack			Brute
-Smashback Alehorn	3	0		2	Action	Go again		Brute
-Smashing Good Time	1, 2, 3	0		2	Action	Go again		Generic
-Smashing Performance	2	3	6		Action, Attack			Brute
-Snag	3	0			Instant			Generic
-Snap Shot	1, 2, 3	0	2, 3, 4	3	Elemental, Action, Arrow, Attack	Lightning Fusion		Ranger
-Snapback	1, 2, 3	1		3	Action			Wizard
-Snatch	1, 2, 3	0	2, 3, 4	2	Action, Attack			Generic
-Sneak Attack	1, 2, 3	2	1, 2, 3	2	Action, Attack			Assassin
-Snow Under	1, 2, 3	3	5, 6, 7	3	Elemental, Action, Attack	Ice Fusion		Guardian
-Snuff Out	1	1	5	3	Action, Attack			Runeblade
-Soaring Strike	1, 2, 3	1	2, 3, 4	2	Draconic, Action, Attack	Go again		Ninja
-Solitary Companion	1, 2, 3	0		2	Action, Aura	Ward 3		Illusionist
-Sonata Arcanix	1	XX		2	Action	Go again		Runeblade
-Sonata Fantasmia	3	XX		3	Action	Viserai Specialization		Runeblade
-Sonata Galaxia	1	XX		2	Action	Go again		Runeblade
-Song of Jack-be-Quick	3	0		3	Bard, Action, Song			
-Song of Sweet Nectar	3	0		3	Bard, Action, Song			
-Song of Yesteryears	3	0		3	Bard, Action, Song			
-Song of the Rosen Matador	3	0		3	Bard, Action, Song			
-Song of the Shining Knight	3	0		3	Bard, Action, Song			
-Song of the Wandering Mind	3	0		3	Bard, Action, Song			
-Sonic Boom	2	2		3	Action			Wizard
-Soul Butcher	1, 2, 3	2	4, 5, 6	2	Shadow, Action, Attack	Blood Debt		
-Soul Cleaver	1, 2, 3	2	4, 5, 6	2	Shadow, Action, Attack	Blood Debt, Go again		
-Soul Food	2	0		2	Light, Action			
-Soul Harvest	3	6	6	3	Shadow, Action, Attack	Legendary, Levia Specialization		
-Soul Reaping	1	6	6	3	Shadow, Action, Attack	Legendary, Chane Specialization, Go again		
-Soul Shield	2	2		6	Light, Defense Reaction			
-Soulbead Strike	1, 2, 3	0	2, 3, 4	3	Action, Attack	Go again		Ninja
-Soup Up	1, 2, 3	0	2, 3, 4	2	Action, Attack	Go again, Galvanize		Mechanologist
-Sow Tomorrow	1, 2, 3	1		2	Earth, Action	Go again		
-Spark Spray	2, 3	0	2, 3	2	Lightning, Action, Attack			
-Spark of Genius	2	XX		3	Action	Dash Specialization		Mechanologist
-Spears of Surreality	1, 2, 3	1	3, 4, 5	3	Action, Attack	Phantasm, Go again		Illusionist
-Spectral Manifestations	1, 2, 3	2		2	Action	Go again		Illusionist
-Spectral Procession	1	0	*	3	Action, Attack	Phantasm		Illusionist
-Spectral Prowler	1, 2, 3	0	2, 3, 4	3	Action, Attack	Go again, Phantasm		Illusionist
-Spectral Rider	1, 2, 3	3	6, 7, 8	3	Action, Attack	Overpower, Phantasm		Illusionist
-Spellblade Assault	1, 2, 3	2	2, 3, 4	3	Action, Attack			Runeblade
-Spellblade Strike	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade
-Spew Shadow	1, 2, 3	2		2	Shadow, Action	Go again		
-Spike Pit Trap	3	0		3	Defense Reaction, Trap	Legendary, Riptide Specialization		Ranger
-Spike with Bloodrot	1	1		3	Attack Reaction			Assassin
-Spike with Frailty	1	1		3	Attack Reaction			Assassin
-Spike with Inertia	1	1		3	Attack Reaction			Assassin
-Spill Blood	1	1		3	Action	Go again		Warrior
-Spillover	3	2	4	2	Action, Attack			Mystic
-Spinal Crush	1	5	9	3	Action, Attack	Crush		Guardian
-Spinning Wheel Kick	1, 2, 3	1	2, 3, 4	2	Action, Attack	Combo, Go again		Ninja
-Spire Sniping	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Spirit of Christmas	3	0		3	Action	Go again		Generic
-Spirit of Eirina	2	0			Light, Action, Item	Legendary		Warrior
-Spirit of War	1	0	3	3	Light, Action, Attack	Charge		Warrior
-Splatter Skull	1	2	6	3	Action, Attack			Brute
-Splintering Deadwood	1, 2, 3	3	5, 6, 7	3	Action, Attack			Runeblade
-Spoils of War	1	1		3	Action	Go again		Warrior
-Spreading Flames	1	1	3	2	Draconic, Action, Attack	Go again		Ninja
-Spreading Plague	2	1		3	Attack Reaction			Assassin
-Spring Load	1, 2, 3	1	2	2	Action, Attack			Generic
-Spring Tidings	2	0	2	3	Action, Attack	Benji Specialization, Go again		Ninja
-Spring a Leak	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Springboard Somersault	2	0		2	Defense Reaction			Generic
-Sprocket Rocket	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost		Mechanologist
-Stab Wound	3	0	2	3	Action, Attack			Assassin, Ninja
-Stacked in Your Favor	1, 2, 3	2		2	Action, Aura	Go again		Guardian
-Stamp Authority	3	3		3	Action, Aura			Guardian
-Standing Order	1	0	4	3	Action, Attack			Generic
-Star Struck	2	7	10	3	Action, Attack	Bravo Specialization, Crush, Unity		Guardian
-Starting Stake	2	0		3	Action			Generic
-Stasis Cell	3	0			Action, Item		Go again	Mechanologist
-Static Shock	1, 2	0	3, 4	3	Elemental, Action, Attack	Lightning Flow		Runeblade
-Staunch Response	1, 2, 3	2		5, 6, 7	Defense Reaction			Guardian
-Steadfast	1, 2, 3	3			Instant			Guardian
-Steam Canister	3	0			Action, Item			Mechanologist
-Steel Street Enforcement	3			1	Block	Evo Upgrade		Mechanologist
-Steel Street Hoons	3	3	3	2	Action, Attack	Boost, Galvanize		Mechanologist
-Steelblade Shunt	1, 2, 3	1		4, 5, 6	Defense Reaction			Warrior
-Steelblade Supremacy	1	1		3	Action	Dorinthea Specialization, Go again		Warrior
-Sting of Sorcery	3	0		2	Action, Aura	Go again		Runeblade
-Stir the Aetherwinds	1, 2, 3	2		2	Action			Wizard
-Stir the Pot	3	0			Instant	Legendary, Transcend		Mystic
-Stir the Wildwood	1, 2, 3	2	3, 4, 5	3	Elemental, Action, Attack	Earth Fusion		Runeblade
-Stoke the Flames	1	1	4	3	Draconic, Action, Attack	Go again		
-Stone Rain	1	0	4	3	Action, Arrow, Attack	Dominate		Ranger
-Stonewall Confidence	1, 2, 3	2		3	Action, Aura	Go again		Guardian
-Stony Woottonhog	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Strategic Planning	1, 2, 3	1		2	Action	Go again		Generic
-Strength Rules All	1	2	6	3	Action, Attack			Brute
-Strength of Four Seasons	1, 2, 3	2	2, 3, 4	2	Earth, Action, Attack			
-Strength of Sequoia	1, 2, 3	2		3	Elemental, Action, Aura	Earth Fusion, Go again		Guardian
-Stroke of Foresight	1, 2, 3	1		3	Attack Reaction	Reprise		Warrior
-Strong Wood	1, 2	3	5, 6	3	Elemental, Action, Attack	Earth Bond		Guardian
-Strong Yield	1, 2, 3	1		2	Earth, Action, Aura	Go again		
-Succumb to Temptation	2	0		3	Action	Go again		Runeblade
-Succumb to Winter	1, 2, 3	3		3	Elemental, Action	Ice Fusion		Wizard
-Summer's Fall	1, 2, 3	2	4, 5, 6	2	Earth, Action, Attack	Decompose		
-Summerwood Shelter	1, 2, 3	0			Earth, Instant			
-Sun Kiss	1, 2, 3	0		2	Action	Go again		Generic
-Supercell	3	X		2	Action			Mechanologist
-Surgical Extraction	3	2	4	3	Action, Attack	Contract		Assassin
-Surging Militia	1, 2, 3	2	3, 4, 5	2	Action, Attack			Generic
-Surging Strike	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again		Ninja
-Sutcliffe's Research Notes	1, 2, 3	1		2	Action	Go again		Runeblade
-Swarming Gloomveil	1	0	3	3	Action, Attack	Go again		Runeblade
-Sweeping Blow	1, 2, 3	1	1, 2, 3	3	Draconic, Action, Attack	Go again		Illusionist
-Swell Tidings	1	2		3	Action	Surge		Wizard
-Swing Big	1	2	8	3	Action, Attack			Brute
-Swing Fist, Think Later	1, 2, 3	1	2, 3, 4	3	Action, Attack	Go again		Brute
-System Failure	2	1		2	Action			Mechanologist
-System Reset	2	X		3	Action			Mechanologist
-T-Bone	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost		Mechanologist
-Take Aim	1, 2, 3	0		2	Action	Reload, Go again		Ranger
-Take Cover	1, 2, 3	0		2, 3, 4	Defense Reaction	Reload		Ranger
-Take Flight	1, 2, 3	1	2, 3, 4	3	Light, Action, Attack	Charge		Warrior
-Take it on the Chin	1	0			Instant			Brute, Warrior
-Take the Tempo	1	1	5	3	Action, Attack			Ninja
-Take the Upper Hand	1, 2, 3	0		3	Attack Reaction			Warrior
-Tales of Adventure	3	0		3	Bard, Action	Yorick Specialization		
-Talisman of Balance	3	0			Action, Item	Go again		Generic
-Talisman of Cremation	3	0			Action, Item	Go again		Generic
-Talisman of Dousing	2	0			Action, Item	Go again, Spellvoid 1		Generic
-Talisman of Featherfoot	2	0			Action, Item	Go again		Generic
-Talisman of Recompense	2	0			Action, Item	Go again		Generic
-Talisman of Tithes	3	0			Action, Item	Go again		Generic
-Talisman of Warfare	2	0			Action, Item	Go again		Generic
-Talk a Big Game	3	0		3	Action	Go again		Brute, Guardian
-Tarpit Trap	2	0		3	Defense Reaction, Trap			Ranger
-Tear Asunder	3	3		3	Action	Go again		Guardian
-Tear Limb from Limb	3	2			Action	Go again		Brute
-Tear Through the Portal	1, 2, 3	0		2	Shadow, Action	Go again		
-Tectonic Rift	3	X		2	Action	Go again		Guardian
-Teklo Core	3	0			Action, Item	Dash Specialization		Mechanologist
-Teklo Pounder	3	2			Action, Item			Mechanologist
-Teklonetic Force Field	1, 2, 3			1, 2, 3	Block			Mechanologist
-Teklovossen's Workshop	1, 2, 3	0		3	Action	Opt X		Mechanologist
-Tempest Aurora	1, 2, 3	0		2	Action	Go again		Wizard
-Ten Foot Tall and Bulletproof	1	3	10	10	Action, Attack			Generic
-Tenacity	2	0	2	3	Action, Attack			Generic
-Terminator Tank	1	6	6	3	Action, Attack	Overpower		Mechanologist
-Territorial Domain	3	0		2	Defense Reaction			Ninja
-Test of Agility	1			4	Block	Clash		Brute, Warrior
-Test of Might	1			4	Block	Clash		Brute, Guardian
-Test of Strength	1			4	Block	Clash		Generic
-Test of Vigor	1			4	Block	Clash		Guardian, Warrior
-That All You Got?	2	0		3	Defense Reaction			Generic
-Thaw	1	2	6	2	Draconic, Action, Attack			
-The Golden Son	2	4	7	3	Action, Attack	Victor Specialization, Overpower		Guardian
-The Grain that Tips the Scale	3	0			Instant	Legendary, Transcend		Mystic
-The Librarian				3	Mentor			Illusionist
-The Weakest Link	1	2	6	3	Action, Attack			Generic
-Themai			3		Draconic, Dragon, Ally			Illusionist
-This Round's on Me	3	1		3	Action	Go again		Generic
-Thistle Bloom // Life	2	0		3	Action, Earth, Instant	Meld		Runeblade
-Three Visits	1	3			Instant, Aura	Ward X		Mystic, Illusionist
-Three of a Kind	1	1		2	Action	Go again		Ranger
-Thrive	2	0		2	Earth, Action	Go again		
-Throttle	1, 2, 3	2	4, 5, 6	3	Action, Attack	Boost		Mechanologist
-Thrust	1	1		2	Attack Reaction			Generic
-Thump	1, 2, 3	4	4, 5, 6	3	Action, Attack	Dominate		Guardian
-Thunder Quake	1, 2, 3	6	10, 8, 9	3	Action, Attack	Heave 3		Guardian
-Thunk	1, 2, 3	5	6, 7, 8	3	Action, Attack			Guardian
-Tick Tock Clock	1	0			Action, Item	Crank		Mechanologist
-Tidal Surge	3	3	5	2	Action, Attack			Mystic
-Tide Chakra	1, 2, 3	1		3	Attack Reaction			Mystic, Assassin
-Tiger Eye Reflex	2, 3			2, 3	Block	Ambush		Ninja
-Tiger Form Incantation	1, 2, 3	1		3	Action	Go again		Mystic, Ninja
-Tiger Swipe	1	0	2	3	Action, Attack	Combo, Go again		Ninja
-Timekeeper's Whim	1, 2, 3	3		3	Action			Wizard
-Timesnap Potion	3	0			Action, Item			Generic
-Timidity Point	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Titanium Bauble	3			3	Resource			Generic
-Tome of Aeo	3	1		2	Action, Aura	Ward 1		Illusionist
-Tome of Aetherwind	1	0		2	Action			Wizard
-Tome of Divinity	2	4			Light, Instant			
-Tome of Duplicity	3	3		2	Action			Wizard
-Tome of Firebrand	1	1			Draconic, Instant			
-Tome of Fyendal	2	1		2	Action			Generic
-Tome of Harvests	3	3		2	Earth, Action	Go again		
-Tome of Imperial Flame	1	0			Draconic, Action	Go again		
-Tome of Torment	1	0			Shadow, Action	Blood Debt		
-Tome of the Arknight	3	1		2	Action	Go again		Runeblade
-Tomeltai			5		Draconic, Dragon, Ally			Illusionist
-Tongue Tied	1	3	7	2	Action, Attack			Generic
-Tooth and Claw	1	0	4	3	Action, Attack	Go again		Mystic, Ninja
-Torque Tuned	1, 2, 3	2	4, 5, 6	2	Action, Attack	Overpower, Galvanize		Mechanologist
-Torrent of Tempo	1, 2, 3	1	3, 4, 5	3	Action, Attack	Go again		Ninja
-Toughen Up	3	2		4	Defense Reaction			Generic
-Towering Titan	1, 2, 3	9		3	Action, Aura			Guardian
-Toxicity	1, 2, 3	0		2	Action	Go again		Assassin, Ranger
-Trade In	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic
-Trailblazing Aether	1, 2, 3	0		3	Action	Surge		Wizard
-Tranquil Passing	1, 2, 3	1		2	Action, Aura	Ward 1		Illusionist
-Transmogrify	1, 2, 3	1		2	Action	Go again		Illusionist
-Tremor of íArathael	1, 2, 3	1	2, 3, 4	2	Action, Attack			Generic
-Tri-shot	3	0		3	Action	Go again		Ranger
-Tribute to Demolition	1, 2, 3	2	4, 5, 6	3	Shadow, Action, Attack	Blood Debt		Brute
-Tribute to the Legions of Doom	1, 2, 3	3	5, 6, 7	3	Shadow, Action, Attack	Blood Debt		Brute
-Trip the Light Fantastic	1, 2, 3	1	3, 4, 5	2	Lightning, Action, Attack			
-Tripwire Trap	1	0		4	Defense Reaction, Trap			Ranger
-Trounce	1			3	Block	Clash		Guardian
-Truce	3	2		3	Action, Aura			Generic
-Turn Timber	1, 2, 3	2		4, 5, 6	Elemental, Defense Reaction	Earth Fusion		Guardian
-Twin Drive	1	2	5	3	Action, Attack	Boost		Mechanologist
-Twin Twisters	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Ninja
-Twinning Blade	2	0		3	Attack Reaction			Warrior
-Twintek Charging Station	1	0		2	Action	Go again		Mechanologist
-Under Loop	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-Unforgetting Unforgiving	1			4	Block	Jarl Specialization		Guardian
-Unhallowed Rites	1, 2, 3	1	2, 3, 4	3	Shadow, Action, Attack	Blood Debt		Runeblade
-Unified Decree	2	2		3	Attack Reaction	Reprise		Warrior
-United We Stand	2	3	6	2	Light, Action, Attack	Unity		
-Unmovable	1, 2, 3	3		5, 6, 7	Defense Reaction			Generic
-Unravel Aggression	3	3		5	Defense Reaction			Mystic
-Unsheathed	1	0		3	Action	Go again		Warrior
-Untamed	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja
-Unworldly Bellow	1, 2, 3	1		3	Shadow, Action	Go again		Brute
-Up the Ante	3	X		3	Attack Reaction	Olympia Specialization, Wager		Warrior
-Uprising	1	0		3	Draconic, Action	Go again		
-Urgent Delivery	1, 2, 3	0	2, 3, 4	3	Action, Attack			Mechanologist
-V for Valor	1, 2, 3	0		2	Light, Action, Aura		Charge	Warrior
-V of the Vanguard	2	1	3	3	Light, Action, Attack	Boltyn Specialization, Charge		Warrior
-Valiant Thrust	1, 2, 3	1	2, 3, 4	3	Light, Action, Attack			Warrior
-Vantage Point	1, 2, 3	3	5, 6, 7	3	Action, Attack	Overpower		Runeblade
-Vantom Banshee	1, 2, 3	3	5, 6, 7	3	Shadow, Action, Attack	Rune Gate, Blood Debt		Runeblade
-Vantom Wraith	1, 2, 3	2	4, 5, 6	3	Shadow, Action, Attack	Rune Gate, Blood Debt		Runeblade
-Vaporize // Shock	2	0			Instant, Lightning, Instant	Meld		Runeblade
-Veiled Intentions	1, 2, 3	1		2	Action	Go again		Illusionist
-Vela Flash	1, 2, 3	1	3, 4, 5	3	Elemental, Action, Attack	Lightning Fusion		Runeblade
-Vengeful Apparition	1, 2, 3	0		3	Action, Aura	Ward 1		Illusionist
-Venomback Fabric	2	0		3	Action, Construct	Legendary, Negate		Generic
-Venomous Bite	1, 2, 3	1		3	Attack Reaction			Mystic, Assassin
-Vexing Malice	1, 2, 3	1	1, 2, 3	3	Action, Attack			Runeblade
-Vigor Rush	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Generic
-Vigorous Engagement	1, 2, 3	1		2	Attack Reaction			Warrior
-Vigorous Windup	1, 2, 3	3	5, 6, 7	2	Action, Attack			Guardian, Warrior
-Vile Inquisition	1, 2, 3	2		3	Shadow, Action	Blood Debt		
-Vipox	1	0	1	3	Action, Attack			Generic
-Virulent Touch	1, 2, 3	0	2, 3, 4	2	Action, Attack			Assassin, Ranger
-Visit Goldmane Estate	3	1		3	Action	Victor Specialization, Go again		Guardian
-Visit the Blacksmith	3	0		2	Action	Go again		Generic
-Visit the Floating Dojo	3	0			Instant	Katsu Specialization		Ninja
-Visit the Golden Anvil	3	0		3	Action	Olympia Specialization		Warrior
-Visit the Imperial Forge	1, 2, 3	0		3	Action	Go again		Warrior
-Void Wraith	1, 2, 3	2	3, 4, 5	3	Shadow, Action, Attack	Blood Debt		
-Voltic Bolt	1, 2, 3	2		3	Action			Wizard
-Vynserakai			6		Draconic, Dragon, Ally			Illusionist
-Wage Agility	1, 2, 3	3	5, 6, 7	2	Action, Attack	Wager		Brute, Warrior
-Wage Gold	1, 2, 3	3	5, 6, 7	2	Action, Attack	Universal, Wager		Generic
-Wage Might	1, 2, 3	3	5, 6, 7	2	Action, Attack	Wager		Brute, Guardian
-Wage Vigor	1, 2, 3	3	5, 6, 7	2	Action, Attack	Wager		Guardian, Warrior
-Wall Breaker	1, 2, 3	2	4, 5, 6	3	Shadow, Action, Attack	Overpower, Blood Debt		Brute
-Wall of Meat and Muscle	1			3	Block			Brute, Guardian
-Wallop	1, 2, 3	4	5, 6, 7	3	Action, Attack			Guardian
-Wander With Purpose	2	0	2	3	Action, Attack	Benji Specialization, Go again		Ninja
-Waning Vengeance	1, 2, 3	1			Instant, Aura	Ward 3		Mystic, Illusionist
-War Machine	1	6	6	3	Action, Attack	Overpower		Mechanologist
-Warmonger's Diplomacy	3	0		3	Action			Generic
-Warmonger's Recital	1, 2, 3	1		2	Action	Go again		Generic
-Warrior's Valor	1, 2, 3	1		3	Action	Go again		Warrior
-Wartune Herald	1, 2, 3	1	5, 6, 7	3	Light, Action, Attack	Phantasm		Illusionist
-Wash Away	3	2		3	Defense Reaction			Mystic
-Water Glow Lanterns	1, 2, 3	0		2	Action	Go again		Illusionist
-Water the Seeds	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Generic
-Wax Off	3	0		2	Defense Reaction			Ninja
-Wax On	1, 2, 3	0		1, 2, 3	Defense Reaction			Ninja
-Waxing Specter	1, 2, 3	2			Instant, Aura	Ward 3		Mystic, Illusionist
-Weave Earth	1, 2, 3	0		2	Earth, Action	Go again		
-Weave Ice	1, 2, 3	0		2	Ice, Action	Go again		
-Weave Lightning	1, 2, 3	0		2	Lightning, Action	Go again		
-Whelming Gustwave	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo, Go again		Ninja
-Whirling Mist Blossom	2	1	2	2	Action, Attack	Ira Specialization, Go again		Ninja
-Whisper of the Oracle	1, 2, 3	0		3	Action	Opt 4, Go again		Generic
-Wide Blue Yonder	3	0		2	Attack Reaction			Mystic
-Widespread Annihilation	3	4	6	3	Shadow, Action, Attack	Rune Gate, Blood Debt		Runeblade
-Widespread Destruction	2	3	6	3	Shadow, Action, Attack	Rune Gate, Blood Debt		Runeblade
-Widespread Ruin	1	2	6	3	Shadow, Action, Attack	Rune Gate, Blood Debt		Runeblade
-Widowmaker	1, 2, 3	1	2, 3, 4	3	Action, Arrow, Attack			Ranger
-Wild Ride	1, 2, 3	2	4, 5, 6		Action, Attack	Go again		Brute
-Will of Arcana	3				Resource, Gem	Legendary, Amp 1		Wizard
-Wind Chakra	1, 2, 3	0		3	Action	Go again		Mystic, Ninja
-Winds of Eternity	3	0	2	3	Action, Attack	Combo		Ninja
-Winter's Bite	1, 2, 3	0		2	Ice, Action	Go again		
-Winter's Grasp	1, 2, 3	2	4, 5, 6	3	Ice, Action, Attack			
-Wither	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin
-Withering Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger
-Withstand	1, 2, 3	2			Instant			Guardian
-Wounded Bull	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic
-Wounding Blow	1, 2, 3	0	2, 3, 4	3	Action, Attack			Generic
-Wreck Havoc	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic
-Wrecker Romp	1, 2, 3	2	6, 7, 8	3	Action, Attack			Brute
-Wrecking Ball	1	3	6		Action, Attack	Intimidate		Brute
-Writhing Beast Hulk	1, 2, 3	2	4, 5, 6	3	Shadow, Action, Attack	Dominate, Blood Debt		Brute
-Yendurai			3		Draconic, Dragon, Ally			Illusionist
-Yinti Yanti	1, 2, 3	0	1, 2, 3	2	Action, Attack			Generic
-Zap	1, 2, 3	0		3	Action			Wizard
-Zealous Belting	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again		Generic
-Zero to Fifty	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost		Mechanologist
-Zero to Sixty	1, 2, 3	0	2, 3, 4	3	Action, Attack	Boost		Mechanologist
-Zipper Hit	1, 2, 3	1	3, 4, 5	3	Action, Attack	Boost		Mechanologist
-Zoom In	1, 2, 3	2	3, 4, 5	3	Action, Attack	Opt X, Boost		Mechanologist
+Name	Pitch	Cost	Power	Defense	Types	Card Keywords	Ability and Effect Keywords	Classes	Talents
+10,000 Year Reunion	1	8		3	Action, Aura	Ward 10		Illusionist	
+A Drop in the Ocean	3	0			Instant	Legendary, Transcend		Mystic	Mystic
+Absorb in Aether	1, 2, 3	1		2, 3, 4	Defense Reaction			Wizard	
+Absorption Dome	2	0			Action, Item			Mechanologist	
+Adrenaline Rush	1, 2, 3	2	2, 3, 4	2	Action, Attack			Generic	
+Aether Arc	3	0		3	Action			Wizard	
+Aether Dart	1, 2, 3	0		3	Action			Wizard	
+Aether Flare	1, 2, 3	1		3	Action			Wizard	
+Aether Hail	1, 2, 3	1		3	Action			Wizard	Ice
+Aether Icevein	1, 2, 3	3		3	Action	Ice Fusion		Wizard	Elemental
+Aether Quickening	1, 2, 3	1		3	Action	Surge, Go again		Wizard	
+Aether Sink	2	1			Action, Item		Go again, Arcane Barrier 2	Mechanologist	
+Aether Slash	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade	
+Aether Spindle	1, 2, 3	2		3	Action	Opt X		Wizard	
+Aether Wildfire	1	2		3	Action			Wizard	
+Aetherize	3	1			Instant	Negate		Wizard	
+Affirm Loyalty	1	0		2	Attack Reaction			Warrior	Draconic
+Aftershock	1, 2, 3	4	6, 7, 8	3	Action, Attack			Guardian	
+Agile Engagement	1, 2, 3	1		2	Attack Reaction			Warrior	
+Agile Windup	1, 2, 3	3	5, 6, 7	2	Action, Attack			Brute, Warrior	
+Agility Stance	2	0		3	Action, Aura	Go again		Warrior	
+Alluring Inducement	2	2	2	2	Action, Attack	Shiyana Specialization, Unity		Shapeshifter	
+Alpha Instinct	3	3	6	0	Action, Attack			Brute	
+Alpha Rampage	1	3	9	3	Attack, Action	Rhinar Specialization, Intimidate		Brute	
+Already Dead	1	2	6	3	Action, Attack	Contract		Assassin	
+Amethyst Amulet	3	0			Action, Item	Legendary, Watery Grave		Generic	
+Amnesia	1	2	6	3	Action, Attack			Generic	
+Amplify the Arknight	1, 2, 3	3	4, 5, 6	3	Action, Attack			Runeblade	
+Amplifying Arrow	2	0	2	3	Action, Arrow, Attack			Ranger	
+Amulet of Assertiveness	2	0			Action, Item	Go again		Generic	
+Amulet of Earth	3	0			Action, Item	Go again			Earth
+Amulet of Echoes	3	0			Action, Item	Go again		Generic	
+Amulet of Havencall	3	0			Action, Item	Go again		Generic	
+Amulet of Ice	3	0			Action, Item	Go again			Ice
+Amulet of Ignition	2	0			Action, Item	Go again		Generic	
+Amulet of Intervention	3	0			Action, Item	Go again		Generic	
+Amulet of Lightning	3	0			Action, Item	Go again			Lightning
+Amulet of Oblation	3	0			Action, Item	Go again		Generic	
+Anaphylactic Shock	3	0			Instant, Trap			Assassin	
+Ancestral Empowerment	1	0		3	Attack Reaction			Ninja	
+Ancestral Harmony	3	0		3	Action	Go again		Ninja	
+Angelic Descent	1, 2, 3	0			Instant			Illusionist	Light
+Angelic Wrath	1, 2, 3	0			Instant			Illusionist	Light
+Angry Bones	1, 2, 3	2	4, 5, 6	3	Action, Attack			Pirate, Necromancer	
+Anka, Drag Under	2	2	5		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Annexation of All Things Known	2	5	8	3	Action, Attack	Crush		Guardian	
+Annexation of Grandeur	2	5	8	3	Action, Attack	Crush		Guardian	
+Annexation of the Forge	2	5	8	3	Action, Attack	Crush		Guardian	
+Annihilate the Armed	1, 2, 3	1	3, 4, 5	3	Action, Attack	Contract		Assassin	
+Annihilator Engine	1	6	6	3	Action, Attack	Overpower		Mechanologist	
+Anthem of Spring	3	0		2	Action	Briar Specialization, Unity, Go again			Earth
+Apocalypse Automaton	1	3	6	3	Action, Attack	Evo Upgrade		Mechanologist	
+Arc Light Sentinel	2	6			Instant, Aura	Prism Specialization, Spectra		Illusionist	Light
+Arc Lightning	2	0		2	Action	Aurora Specialization, Go again		Runeblade	Lightning
+Arcane Compliance	3	0			Instant			Generic	
+Arcane Cussing	1, 2, 3	1		2	Action, Aura	Go again		Runeblade	
+Arcane Polarity	1, 2, 3	0			Instant			Generic	
+Arcane Seeds // Life	1	0		3	Action, Instant	Meld, Go again		Runeblade	Earth
+Arcane Twining	1, 2, 3	0		3	Action		Amp 1	Wizard	
+Arcanic Crackle	1, 2, 3	0	1, 2, 3	3	Action, Attack			Runeblade	
+Arcanic Shockwave	1, 2, 3	0	2, 3, 4	3	Action, Attack	Lightning Fusion		Runeblade	Elemental
+Arcanic Spike	1, 2, 3	2	3, 4, 5	3	Action, Attack			Runeblade	
+Arctic Incarceration	1, 2, 3	0		2	Action				Ice
+Argh... Smash!	2	3		3	Action	Go again		Brute	
+Arknight Ascendancy	1	6	5	3	Action, Attack	Viserai Specialization, Dominate		Runeblade	
+Arknight Shard	3				Resource, Gem	Legendary, Viserai Specialization		Runeblade	
+Art of Desire: Body	1	0	3	3	Action, Attack	Stealth		Assassin	
+Art of Desire: Mind	3	0	1	3	Action, Attack	Stealth		Assassin	
+Art of Desire: Soul	2	0	2	3	Action, Attack	Stealth		Assassin	
+Art of War	2	1			Instant			Generic	
+Art of the Dragon: Blood	1	0	4	3	Action, Attack	Go again		Ninja	
+Art of the Dragon: Claw	1	1	5	3	Action, Attack			Ninja	
+Art of the Dragon: Fire	1	1	5	3	Action, Attack			Ninja	
+Art of the Dragon: Scale	1	1	5	3	Action, Attack			Ninja	
+Aspect of Tiger: Body	1	0	3	3	Action, Attack	Combo, Go again		Ninja	
+Aspect of Tiger: Mind	3	0	1	3	Action, Attack	Combo, Go again		Ninja	
+Aspect of Tiger: Soul	2	0	2	3	Action, Attack	Combo, Go again		Ninja	
+Assault and Battery	1, 2, 3	3	5, 6, 7	3	Action, Attack	Beat Chest		Brute	
+Astral Etchings	1, 2, 3	1		3	Action			Illusionist	
+Attune with Cosmic Vibrations	3	0	2	2	Action, Attack			Mystic	Mystic
+Autosave Script	3	0			Action, Item	Crank		Mechanologist	
+Autumn's Touch	1, 2, 3	3	5, 6, 7	3	Action, Attack				Earth
+Avast Ye!	3	0		3	Action	Go again		Pirate, Necromancer	
+Awakening	3	2			Instant	Earth Fusion		Guardian	Elemental
+Awakening Bellow	1, 2, 3	1		3	Action	Intimidate, Go again		Brute	
+Azvolai			2		Dragon, Ally			Illusionist	Draconic
+Back Alley Breakline	1, 2, 3	1	3, 4, 5	2	Action, Attack			Generic	
+Back Heel Kick	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo		Ninja	
+Back Stab	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Backup Protocol: BLU	3	0			Action, Item	Crank		Mechanologist	
+Backup Protocol: RED	1	0			Action, Item	Crank		Mechanologist	
+Backup Protocol: YEL	2	0			Action, Item	Crank		Mechanologist	
+Bad Beats	1, 2, 3	0		3	Action	Go again		Brute	
+Ball Lightning	1, 2, 3	0	1, 2, 3	0	Action, Attack	Go again			Lightning
+Bam Bam	2	3	6	3	Action, Attack			Brute	
+Banneret of Courage	2	1	4	3	Action, Attack	Solflare		Warrior	Light
+Banneret of Gallantry	2	1	4	3	Action, Attack	Solflare		Warrior	Light
+Banneret of Protection	2	1	4	3	Action, Attack	Solflare		Warrior	Light
+Banneret of Resilience	2	0	3	3	Action, Attack	Solflare		Warrior	Light
+Banneret of Salvation	2	0	3	3	Action, Attack	Solflare		Warrior	Light
+Banneret of Vigor	2	0	3	3	Action, Attack	Solflare		Warrior	Light
+Barbed Barrage	1	1	5	3	Action, Arrow, Attack			Ranger	
+Barbed Undertow	1	1	5	3	Action, Arrow, Attack			Ranger	
+Bare Fangs	1, 2, 3	2	4, 5, 6		Action, Attack			Brute	
+Barnacle	2	2	4		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Barraging Beatdown	1, 2, 3	0		3	Action	Intimidate, Go again		Brute	
+Barraging Big Horn	1, 2, 3	2	5, 6, 7	3	Action, Attack	Go again		Brute	
+Barraging Brawnhide	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic	
+Battalion Barque	1, 2, 3	4	5, 6, 7	3	Action, Attack	High Tide		Pirate	
+Batter to a Pulp	1	6	10	3	Action, Attack	Crush		Guardian	
+Battered Not Broken	1	0			Instant			Brute, Guardian	
+Battering Bolt	1	2	6	3	Action, Arrow, Attack			Ranger	
+Battlefield Blitz	1, 2, 3	1	3, 4, 5	3	Action, Attack	Go again		Warrior	Light
+Battlefield Breaker	1, 2, 3	3	5, 6, 7	3	Action, Attack	Blood Debt		Brute	Shadow
+Battlefront Bastion	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic	
+Be Like Water	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja	
+Beacon of Victory	2	0		3	Attack Reaction			Warrior	Light
+Beaming Bravado	1, 2, 3	0	1, 2, 3	3	Action, Attack	Charge		Warrior	Light
+Beast Mode	1, 2, 3	3	4, 5, 6	3	Action, Attack			Brute	
+Beast Within	2	3	6	3	Action, Attack			Brute	
+Beckoning Light	1	0	3	3	Action, Attack	Charge		Warrior	Light
+Become the Arknight	3	0		3	Action	Viserai Specialization, Go again		Runeblade	
+Belittle	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Generic	
+Bequest the Vast Beyond	1	0		2	Action	Viserai Specialization, Go again		Runeblade	
+Berserk	2	1		3	Action	Go again		Brute	
+Beseech the Demigon	1, 2, 3	0		2	Action	Go again			Shadow
+Bet Big	1	4	8	3	Action, Attack	Betsy Specialization, Wager		Guardian	
+Big Bertha	1, 2, 3	3	4, 5, 6	3	Action, Attack	Boost		Mechanologist	
+Big Blue Sky	3	0		2	Defense Reaction			Mystic	Mystic
+Big Bop	1, 2, 3	3		2	Action, Aura			Guardian	
+Big Game Trophy Shot	2	2		3	Action	Go again		Pirate, Ranger	
+Big Shot	1	3	6	3	Action, Attack			Mechanologist	
+Bigger Than Big	1, 2, 3	3		2	Action, Aura			Guardian	
+Billowing Mirage	1, 2, 3	1	1, 2, 3	3	Action, Attack	Transform, Go again		Illusionist	Draconic
+Bingo	1	1	5	3	Action, Attack	Go again		Generic	
+Bios Update	1	0		3	Action	Go again		Mechanologist	
+Bite	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Biting Blade	1, 2, 3	2		3	Attack Reaction	Reprise		Warrior	
+Biting Breeze	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja	
+Biting Gale	1, 2, 3	2		2, 3, 4	Defense Reaction	Ice Fusion		Guardian	Elemental
+Bittering Thorns	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja	
+Blackout Kick	1, 2, 3	1	2, 3, 4	3	Action, Attack	Combo		Ninja	
+Blade Flash	3	1		2	Attack Reaction			Generic	
+Blade Flurry	1	0		3	Attack Reaction			Warrior	
+Blade Runner	1, 2, 3	1		3	Attack Reaction			Warrior	
+Blanch	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic	
+Blast to Oblivion	1, 2, 3	0	2, 3, 4	2	Action, Attack				Lightning
+Blaze Headlong	1	0	4	2	Action, Attack	Go again			Draconic
+Blazing Aether	1	0		3	Action	Kano Specialization		Wizard	
+Bleed Out	1, 2, 3	2	2, 3, 4	2	Action, Attack	Go again		Assassin, Ninja	
+Blessing of Aether	1, 2, 3	1		2	Action, Aura			Wizard	
+Blessing of Deliverance	1, 2, 3	2		3	Action, Aura	Go again		Guardian	
+Blessing of Focus	1, 2, 3	1		3	Action, Aura	Opt 1		Ranger	
+Blessing of Ingenuity	1, 2, 3	1		3	Action, Aura			Mechanologist	
+Blessing of Occult	1, 2, 3	1		2	Action, Aura			Runeblade	
+Blessing of Patience	1, 2, 3	1		3	Action, Aura			Guardian	
+Blessing of Qi	1, 2, 3	1		3	Action, Aura			Ninja	
+Blessing of Salvation	1, 2, 3	1		2	Action				Light
+Blessing of Savagery	1, 2, 3	1		3	Action, Aura			Brute	
+Blessing of Serenity	1, 2, 3	0			Instant			Guardian	
+Blessing of Spirits	1, 2, 3	1		2	Action, Aura	Ward 1		Illusionist	
+Blessing of Steel	1, 2, 3	1		3	Action, Aura			Warrior	
+Blessing of Vynserakai	1	0		2	Action, Aura				Draconic
+Blinding Beam	1, 2, 3	1			Instant				Light
+Blinding of the Old Ones	1	6	10	3	Action, Attack	Crush, Heave 2		Guardian	
+Blink	3	0			Instant				Lightning
+Blistering Assault	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again			Light
+Blistering Blade	1	0		2	Attack Reaction			Warrior	Draconic
+Blizzard	3	0			Instant				Ice
+Blizzard Bolt	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack	Ice Fusion		Ranger	Elemental
+Blood Dripping Frenzy	3	2		3	Action	Go again		Brute	Shadow
+Blood Drop	1	1	2	3	Action, Attack	Go again		Ninja	Draconic
+Blood Line	1	2	3	3	Action, Attack	Go again		Ninja	Draconic
+Blood Runs Deep	1	2	2	3	Action, Attack			Ninja	Draconic
+Blood Tribute	1, 2, 3	0			Instant	Opt 3			Shadow
+Blood in the Water	1	0		4	Defense Reaction			Pirate, Necromancer	
+Blood of the Dracai	1				Resource, Gem	Legendary			Draconic
+Blood on Her Hands	2	0		3	Action	Kassai Specialization		Warrior	
+Bloodrot Trap	1	0		3	Defense Reaction, Trap			Assassin, Ranger	
+Bloodrush Bellow	2	1		3	Action	Go again		Brute	
+Bloodspill Invocation	1, 2, 3	1		2	Action, Aura	Go again		Runeblade	
+Blossoming Decay	1, 2, 3	2	3, 4, 5	2	Action, Attack	Decompose			Earth
+Blossoming Spellblade	1	2	6	3	Action, Attack	Earth and Lightning Fusion		Runeblade	Elemental
+Blow for a Blow	1	2	4	2	Action, Attack	Go again		Generic	
+Blue Fin Harpoon	3	2	4	3	Action, Arrow, Attack	Go Fish		Pirate, Ranger	
+Board the Ship	1	2	6	3	Action, Attack	Overpower		Pirate, Necromancer	
+Boast	3			3	Block			Guardian	
+Bolt of Courage	1, 2, 3	0	1, 2, 3	3	Action, Attack	Charge		Warrior	Light
+Bolt'n' Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack	Go again, Reload		Ranger	
+Bolting Blade	2	4	7	3	Action, Attack			Warrior	Light
+Bonds of Agony	3	0	1	3	Action, Attack	Stealth		Assassin	
+Bonds of Ancestry	1, 2, 3	2	2, 3, 4	3	Action, Attack	Combo, Go again		Ninja	
+Bonds of Attraction	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Bonds of Memory	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Bone Head Barrier	2	1			Instant			Brute	
+Bonebreaker Bellow	1, 2, 3	1		3	Action	Beat Chest, Go again		Brute	
+Boneyard Marauder	1, 2, 3	1	4, 5, 6	3	Action, Attack	Blood Debt		Brute	Shadow
+Boom Grenade	1, 2, 3	0			Action, Item	Crank		Mechanologist	
+Boulder Drop	2, 3	3	5, 6	3	Action, Attack	Crush		Guardian	
+Boulder Trap	2	0		3	Defense Reaction, Trap			Ranger	
+Bounding Demigon	1, 2, 3	0	1, 2, 3	3	Action, Attack	Blood Debt		Runeblade	Shadow
+Bracken Rap	1, 2	3	5, 6	3	Action, Attack	Earth Bond		Guardian	Elemental
+Brain Freeze	1, 2, 3	0		3	Action	Ice Fusion		Wizard	Elemental
+Brainstorm	3	3			Instant			Wizard	
+Bramble Spark	1, 2, 3	0		2	Action	Earth Fusion, Go again		Runeblade	Elemental
+Brand with Cinderclaw	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja	Draconic
+Brandish	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Generic	
+Break Ground	1, 2, 3	3	5, 6, 7	2	Action, Attack				Earth
+Break Stature	2	5	8	3	Action, Attack	Clash		Guardian	
+Break Tide	2	0	2	3	Action, Attack	Combo, Dominate		Ninja	
+Break of Dawn	1, 2, 3	0			Instant				Light
+Breaking Point	1	1	5	3	Action, Attack	Rupture			Draconic
+Breakneck Battery	1, 2, 3	2	4, 5, 6	3	Action, Attack	Go again		Brute	
+Breed Anger	1, 2, 3	1	2, 3, 4	3	Action, Attack	Combo, Go again		Ninja	
+Brothers in Arms	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Brothers of Flame	1	1		3	Attack Reaction			Warrior	Draconic
+Brush Off	1, 2, 3	0			Instant			Generic	
+Brutal Assault	1, 2, 3	2	4, 5, 6	3	Action, Attack			Generic	
+Bubble to the Surface	1	2			Instant				Draconic
+Buckle	3	3		3	Action	Go again		Guardian	
+Buckling Blow	1, 2, 3	4	6, 7, 8	3	Action, Attack	Crush		Guardian	
+Bull Bar	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost, Overpower		Mechanologist	
+Burdens of the Past	3	0		3	Action	Go again		Generic	
+Burgeoning	1, 2, 3	2	4, 5, 6	2	Action, Attack				Earth
+Burly Bones	1, 2, 3	2	4, 5, 6	3	Action, Attack	Overpower		Pirate, Necromancer	
+Burn Away	1	0	2	3	Action, Attack	Go again			Draconic
+Burn Bare		3		3	Action			Wizard	
+Burn Rubber	1	3	5	3	Action, Attack			Mechanologist	
+Burn Them All	1	0		3	Action, Aura	Go again		Illusionist	Draconic
+Burn Up // Shock	1	0		3	Action, Instant	Go again, Meld		Runeblade	Lightning
+Burning Blade Dance	1	0	3	3	Action, Attack	Go again		Ninja	Draconic
+Buzz Bolt	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack	Lightning Fusion		Ranger	Elemental
+Buzzsaw Trap	3	0		3	Defense Reaction, Trap	Legendary, Riptide Specialization		Ranger	
+Cadaverous Contraband	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Cadaverous Tilling	1, 2, 3	3	4, 5, 6	2	Action, Attack	Decompose			Earth
+Call Down the Lightning	2	0		2	Action	Lexi Specialization, Go again, Unity			Lightning
+Call for Backup	1	3	7	2	Action, Attack			Generic	
+Call in the Big Guns	1, 2, 3	0		2	Action	Go again		Ranger	
+Call to the Grave	3	0		2	Action	Go again		Generic	
+Calming Breeze	1	0			Instant			Generic	
+Canopy Shelter	3			2	Block				Earth
+Captain of the Guard	3	3	5	2	Action, Attack			Generic	
+Captain's Call	1, 2, 3	0		2	Action	Go again		Generic	
+Cartilage Crush	1, 2, 3	3	5, 6, 7	3	Action, Attack	Crush		Guardian	
+Cash In	2	4		2	Action	Go again		Generic	
+Cash Out	3	0		2	Action	Go again		Generic	
+Cast Bones	1	0		3	Action			Brute	
+Celestial Cataclysm	2	0	7	3	Action, Attack	Go again			Light
+Celestial Reprimand	1, 2, 3	0			Instant			Illusionist	Light
+Celestial Resolve	1, 2, 3	0			Instant			Illusionist	Light
+Censor	1	1	5	3	Action, Attack			Generic	
+Cerebellum Processor	3	0			Action, Item	Crank		Mechanologist	
+Chain Lightning	2	1		3	Action			Wizard	
+Chain Reaction	2	0		3	Defense Reaction, Trap			Ranger	
+Chains of Eminence	1	0		2	Action, Aura	Go again		Generic	
+Chains of Mephetis	3	0		3	Action, Aura	Blood Debt			Shadow
+Channel Lake Frigid	3	2		3	Action, Aura	Go again, Channel Ice			Ice
+Channel Lightning Valley	2	0			Instant, Aura	Channel Lightning			Lightning
+Channel Mount Heroic	1	3		3	Action, Aura	Go again, Channel Earth			Earth
+Channel Mount Isen	3	0		3	Action, Aura	Go again, Channel Ice			Ice
+Channel Thunder Steppe	2	1		3	Action, Aura	Go again, Channel Lightning			Lightning
+Channel the Bleak Expanse	3	1		2	Action, Aura	Go again, Channel Ice			Ice
+Channel the Millennium Tree	1	3		3	Action, Aura	Go again, Channel Earth, Amp 3			Earth
+Charge of the Light Brigade	1, 2, 3	0		3	Action	Go again		Warrior	Light
+Chart a Course	1, 2, 3	0		2	Action	Go again		Pirate	
+Chart the High Seas	3	0		3	Action	Go again		Pirate, Necromancer	
+Chase the Tail	1	1	4	3	Action, Attack	Combo		Ninja	
+Chief Ruk'utan				3	Mentor	Intimidate		Brute	
+Chill to the Bone	1, 2, 3	0		2	Action	Go again			Ice
+Chilling Icevein	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack	Ice Fusion		Ranger	Elemental
+Chivalry	3			3	Block	Protect		Guardian	
+Chokeslam	1, 2, 3	4	6, 7, 8	3	Action, Attack	Crush		Guardian	
+Chorus of Ironsong	2	1		3	Attack Reaction	Unity, Dorinthea Specialization		Warrior	
+Chorus of the Amphitheater	1, 2, 3	2		2	Action			Wizard	
+Chowder, Hearty Cook	2	3	3		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Chum, Friendly First Mate	2	4	4		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Cindering Foresight	1, 2, 3	0		2	Action	Opt 3		Wizard	
+Cinderskin Devotion	1, 2, 3	1	2, 3, 4	3	Action, Attack	Go again		Ninja	Draconic
+Clamp Press	3	2			Action, Item	Crank		Mechanologist	
+Clap 'Em in Irons	3	0			Action, Item	Go again		Generic	
+Clarity Potion	3	0			Action, Item		Opt 2	Generic	
+Clash of Agility	1, 2, 3	2	4, 5, 6	3	Action, Attack	Clash		Brute, Warrior	
+Clash of Arms	2			4	Block	Clash		Guardian	
+Clash of Bravado	2	4	7	3	Action, Attack	Clash		Guardian	
+Clash of Chests	2			4	Block	Clash		Guardian	
+Clash of Heads	2			4	Block	Clash		Guardian	
+Clash of Legs	2			4	Block	Clash		Guardian	
+Clash of Might	1, 2, 3	2	4, 5, 6	3	Action, Attack	Clash		Brute, Guardian	
+Clash of Mountains	1, 2, 3	4	6, 7, 8	3	Action, Attack	Clash		Guardian	
+Clash of Shields	2			4	Block	Clash		Guardian	
+Clash of Vigor	1, 2, 3	2	4, 5, 6	3	Action, Attack	Clash		Guardian, Warrior	
+Cleansing Light	1, 2, 3	3		2	Action				Light
+Clearing Bellow	3	0		3	Action	Intimidate, Go again		Brute	
+Cleave	1	1		3	Action	Go again		Warrior	
+Cloud City Steamboat	1, 2, 3	2	4, 5, 6	3	Action, Attack			Mechanologist	
+Cloud Cover	2	0			Instant				Lightning
+Cloud Skiff	1, 2, 3	1	3, 4, 5	3	Action, Attack	Go again		Mechanologist	
+Coalescence Mirage	1, 2, 3	2	5, 6, 7	3	Action, Attack	Phantasm		Illusionist	
+Coax a Commotion	1	0	4	2	Action, Attack			Generic	
+Codex of Bloodrot	2	0		2	Action	Go again		Assassin, Ranger	
+Codex of Frailty	2	0		2	Action	Go again		Assassin, Ranger	
+Codex of Inertia	2	0		2	Action	Go again		Assassin, Ranger	
+Coercive Tendency	3	0		3	Attack Reaction	Arakni Specialization		Assassin	
+Cog in the Machine	1	1		3	Action			Mechanologist	
+Cognition Field	1, 2, 3			1, 2, 3	Block	Galvanize		Mechanologist	
+Cognition Nodes	3	1			Action, Item		Go again	Mechanologist	
+Cogwerx Dovetail	1	1	5	3	Action, Attack	Go again		Mechanologist	
+Cogwerx Workshop	3	1		3	Action			Mechanologist	
+Cogwerx Zeppelin	1, 2, 3	2	4, 5, 6	3	Action, Attack			Mechanologist	
+Cold Snap	1, 2, 3	1		2	Action	Go again			Ice
+Cold Wave	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack	Ice Fusion		Ranger	Elemental
+Collapsing Trap	3	0		3	Defense Reaction, Trap	Legendary, Riptide Specialization		Ranger	
+Colossal Bearing	1	4	8	3	Action, Attack	Tower		Guardian	
+Combustible Courier	1, 2, 3	2	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+Combustion Point	1	1		3	Attack Reaction			Ninja	Draconic
+Come to Fight	1, 2, 3	1		3	Action	Go again		Generic	
+Comet Storm // Shock	1	2		3	Action, Instant	Meld		Wizard	Lightning
+Command Respect	1, 2, 3	3	4, 5, 6	3	Action, Attack			Guardian	
+Command and Conquer	1	2	6	3	Action, Attack			Generic	
+Commanding Performance	1	1		3	Action	Go again		Warrior	
+Companion of the Claw	1, 2, 3	2	2, 3, 4	2	Action, Attack	Go again		Mystic, Ninja	Mystic
+Compounding Anger	1	3	5	3	Action, Attack				Draconic
+Concealed Blade	3	0		3	Attack Reaction			Assassin, Ninja	
+Concuss	1, 2, 3	3	4, 5, 6	3	Action, Attack			Guardian	
+Condemn to Slaughter	1, 2, 3	1		3	Action	Go again		Runeblade	
+Conqueror of the High Seas	1	4	7	3	Action, Attack	High Tide, Go again		Pirate	
+Consign to Cosmos // Shock	2	0		3	Action, Instant	Meld		Wizard	Lightning
+Construct Bank Breaker	2	0		3	Action, Construct	Transform, Go again		Mechanologist	
+Construct Nitro Mechanoid	2	4		3	Action, Construct	Transform, Negate, Go again		Mechanologist	
+Consuming Aftermath	1, 2, 3	3	4, 5, 6	2	Action, Attack	Dominate			Shadow
+Consuming Volition	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade	
+Contest the Mindfield	3	2		2	Action, Aura			Wizard	
+Convection Amplifier	1	0			Action, Item		Go again	Mechanologist	
+Convulsions from the Bellows of Hell	1, 2, 3	2		3	Action	Go again		Brute	Shadow
+Copper Cog	3	0			Action, Cog, Item	Unlimited, Crank		Mechanologist	
+Cosmic Awakening	3	9	*	3	Action, Attack			Mystic	Mystic
+Count Your Blessings	1, 2, 3	2			Instant			Generic	
+Courageous Steelhand	1, 2, 3	0		2	Attack Reaction			Warrior	Light
+Cracked Bauble	2				Resource			Generic	
+Cracker Bauble	2	0			Resource			Generic	
+Crackling	1, 2	0	2, 3	3	Action, Attack	Lightning Flow		Runeblade	Elemental
+Crane Dance	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo		Ninja	
+Cranial Crush	3	6	8	3	Action, Attack	Crush		Guardian	
+Crankshaft	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Crash Down	1, 2	3		3	Action, Aura			Guardian	
+Crash Down the Gates	1, 2, 3	3	4, 5, 6	2	Action, Attack			Generic	
+Crash and Bash	1, 2, 3			2, 3, 4	Block			Guardian	
+Crazy Brew	3	0			Action, Item		Go again	Generic	
+Crippling Crush	1	7	11	3	Action, Attack	Bravo Specialization, Crush		Guardian	
+Critical Strike	1, 2, 3	1	3, 4, 5	3	Action, Attack			Generic	
+Cromai			3		Dragon, Ally			Illusionist	Draconic
+Cross the Line	1, 2, 3	1	3, 4, 5	3	Action, Attack	Charge		Warrior	Light
+Crouching Tiger		0	0		Action, Attack	Ephemeral, Go again		Ninja	
+Crowd Control	1, 2, 3			2, 3, 4	Block			Bard	
+Crumble to Eternity	3	0		3	Action, Aura	Jarl Specialization			Ice, Earth
+Crush Confidence	1, 2, 3	3	5, 6, 7	3	Action, Attack	Crush		Guardian	
+Crush the Weak	1, 2, 3	3	5, 6, 7	3	Action, Attack	Crush		Guardian	
+Cryptic Crossing	2	3	6	3	Action, Attack			Runeblade	
+Cull	1	0		3	Action	Blood Debt		Runeblade	Shadow
+Current Funnel	3	0	2	3	Action, Attack	Go again			Lightning
+Cut Deep	1, 2, 3	0		3	Action	Go again		Warrior	
+Cut Down to Size	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Cut Through	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Assassin, Ninja	
+Cut Through the Facade	1	3	7	2	Action, Attack			Generic	
+Cut from the Same Cloth	1, 2, 3	0		2	Action	Mark, Go again		Assassin, Warrior	
+Cut the Deck	1, 2, 3	1		3	Attack Reaction			Warrior	
+Cut to the Chase	1, 2, 3	0		3	Attack Reaction			Assassin	
+Cutty Shark, Quick Clip	2	1	3		Action, Ally	Watery Grave	Attack, Go again	Pirate, Necromancer	
+Cyclone Roundhouse	2	2	5	3	Action, Attack	Combo		Ninja	
+Dabble in Darkness	1	0	5	3	Action, Attack	Blood Debt			Shadow
+Daily Grind	3	0		3	Action, Aura			Guardian	
+Dampen	1, 2, 3	2		3	Action			Wizard	
+Data Link	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost, Opt 1		Mechanologist	
+Dauntless	1, 2, 3	1		3	Action	Go again		Warrior	
+Dazzling Crescendo	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack	Lightning Fusion, Go again		Ranger	Elemental
+Dead Eye	2	1		3	Action	Go again		Ranger	
+Deadly Duo	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Ninja	
+Deadwood Dirge	1, 2, 3	0		2	Action	Go again		Runeblade	
+Deadwood Rumbler	1, 2, 3	3	6, 7, 8		Action, Attack	Blood Debt		Brute	Shadow
+Death Touch	1, 2, 3	1	4, 5, 6	2	Action, Attack			Assassin, Ranger	
+Deathly Delight	1, 2, 3	2	3, 4, 5	3	Action, Attack	Rune Gate, Blood Debt		Runeblade	Shadow
+Deathly Duet	1, 2, 3	2	2, 3, 4	3	Action, Attack			Runeblade	
+Deathly Wail	1, 2, 3	3	4, 5, 6	3	Action, Attack	Rune Gate, Blood Debt		Runeblade	Shadow
+Deathmatch Arena		0			Action, Landmark	Legendary, Go again		Generic	
+Debilitate	1, 2, 3	4	6, 7, 8	3	Action, Attack	Crush		Guardian	
+Deep Blue Sea	3	4	5	2	Action, Attack			Mystic	Mystic
+Deep Rooted Evil	2	3	6		Action, Attack	Blood Debt		Brute	Shadow
+Defang the Dragon	1	0	3	3	Action, Attack	Stealth, Contract		Assassin	
+Defender of Daybreak	1, 2, 3	0	2, 3, 4	2	Action, Attack				Light
+Demolition Crew	1, 2, 3	2	4, 5, 6	2	Action, Attack	Dominate		Generic	
+Demolition Protocol	1	3	7	3	Action, Attack	Evo Upgrade		Mechanologist	
+Demonstrate Devotion	1	1	4	2	Action, Attack	Go again		Ninja	Draconic
+Den of the Spider	1	0		3	Defense Reaction, Trap			Assassin, Warrior	
+Dense Blue Mist	3	1			Instant			Mystic	Mystic
+Deny Redemption	1	0	3	3	Action, Attack			Runeblade	
+Descendent Gustwave	1, 2, 3	1	1, 2, 3	2	Action, Attack	Combo, Go again		Ninja	
+Desires of Flesh	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Destructive Aethertide	3	0		3	Action	Surge		Wizard	
+Destructive Deliberation	1, 2, 3	2	3, 4, 5	2	Action, Attack			Generic	
+Devotion Never Dies	1	1	4	2	Action, Attack	Go again		Ninja	
+Diabolic Offering	3	1	*	*	Action, Attack	Blood Debt		Brute	Shadow
+Diabolic Ultimatum	1	3		2	Action			Runeblade	
+Diamond Amulet	3	0			Action, Item	Legendary, Watery Grave		Generic	
+Diced	1, 2, 3	0		2	Attack Reaction			Warrior	
+Dig Up Dinner	3	1		3	Action	Go again		Brute	
+Dimenxxional Crossroads	2	2		3	Action, Aura	Go again		Runeblade	Shadow
+Dimenxxional Gateway	1, 2, 3	1		2	Action	Opt 3, Go again		Runeblade	Shadow
+Dimenxxional Vortex		3			Action	Blood Debt			Shadow
+Disable	1, 2, 3	5	7, 8, 9	3	Action, Attack	Crush		Guardian	
+Disenchantment of the Old Ones	1	6	10	3	Action, Attack	Crush, Heave 2		Guardian	
+Dishonor	3	0	2	3	Action, Attack	Combo		Ninja	
+Display Loyalty	1	0	3	2	Action, Attack	Go again		Ninja	Draconic
+Dissipation Shield	2	2			Action, Item			Mechanologist	
+Dissolution Sphere	2	2			Action, Item			Mechanologist	
+Dissolve Reality	2	0		3	Action	Go again		Illusionist	
+Dissolving Shield	1, 2, 3	0			Action, Item	Crank		Mechanologist	
+Dive Through Data	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost, Opt 1		Mechanologist	
+Divvy Up	3	0		3	Action			Pirate	
+Dodge	3	0		2	Defense Reaction			Generic	
+Dominia			4		Dragon, Ally			Illusionist	Draconic
+Doomsday	3	0			Instant	Legendary, Levia Specialization			Shadow
+Double Down	1	2		3	Action	Go again		Guardian, Warrior	
+Double Strike	1	0	1	2	Action, Attack	Go again		Ninja	
+Double Trouble	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Douse in Runeblood	1	1	4	3	Action, Attack	Go again		Runeblade	
+Down But Not Out	1, 2, 3	3	3, 4, 5	3	Action, Attack	Overpower		Generic	
+Down and Dirty	1	2	6	2	Action, Attack			Generic	
+Dracona Optimai			6		Dragon, Ally			Illusionist	Draconic
+Dragon Power	1, 2, 3	1	2, 3, 4	3	Action, Attack			Ninja	
+Dragons of Legend					Invocation, Placeholder Card				
+Draw Back the Hammer	1	1		2	Action	Go again		Mechanologist	
+Draw Swords	1, 2, 3	3		3	Action	Go again		Warrior	
+Draw a Crowd	3	2		3	Action, Aura	Go again		Guardian	
+Drawn to the Dark Dimension	1, 2, 3	2	1, 2, 3	3	Action, Attack			Runeblade	
+Dread Screamer	1, 2, 3	2	4, 5, 6	3	Action, Attack	Go again, Blood Debt		Brute	Shadow
+Dread Triptych	3	3	4	3	Action, Attack			Runeblade	
+Drill Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack	Piercing 1		Ranger	
+Drink 'Em Under the Table	1	4	8	3	Action, Attack	Betsy Specialization, Wager		Guardian	
+Driving Blade	1, 2, 3	2		3	Action	Go again		Warrior	
+Drone of Brutality	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Drop of Dragon Blood	1	2			Instant	Legendary			Draconic
+Drop the Anchor	1	0		2	Action	Go again		Ranger	
+Droplet	3	0	2	2	Action, Attack			Mystic	Mystic
+Drowning Dire	1, 2, 3	2	3, 4, 5	3	Action, Attack	Dominate		Runeblade	
+Dry Powder Shot	1	0	3	3	Action, Arrow, Attack			Ranger	
+Dual Threat	2	0		3	Action	Go again		Generic	
+Dumpster Dive	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+Dunebreaker Cenipai	1, 2, 3	1	3, 4, 5	3	Action, Attack	Phantasm, Go again		Illusionist	Draconic
+Dusk Path Pilgrimage	1, 2, 3	1		3	Action	Go again		Warrior	
+Dust Runner Outlaw	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja	Draconic
+Dust from Stillwater Shrine	1	0		3	Action, Ash	Material		Illusionist	Draconic
+Dust from the Chrome Caverns	1	0		3	Action, Ash	Material		Illusionist	Draconic
+Dust from the Fertile Fields	1	0		3	Action, Ash	Material		Illusionist	Draconic
+Dust from the Golden Plains	1	0		3	Action, Ash	Material		Illusionist	Draconic
+Dust from the Red Desert	1	0		3	Action, Ash	Material		Illusionist	Draconic
+Dust from the Shadow Crypts	1	0		3	Action, Ash	Material		Illusionist	Draconic
+Dustup	1, 2, 3	0	2, 3, 4	3	Action, Attack	Transform		Illusionist	Draconic
+Dynastic Dedication	1	2		2	Attack Reaction			Warrior	Draconic
+Earth Form	1, 2, 3	3	5, 6, 7	2	Action, Attack				Earth
+Earth's Embrace	3	1		2	Action, Aura	Go again			Earth
+Earthlore Empowerment	1, 2	3		3	Action, Aura			Guardian	
+Earthlore Surge	1, 2, 3	2		2	Action	Go again			Earth
+Eclectic Magnetism	1	1	5	3	Action, Attack				Lightning
+Eclipse	3	0			Instant	Legendary, Chane Specialization			Shadow
+Eclipse Existence	3	0			Instant				Shadow
+Edge Ahead	1, 2, 3	1		3	Action	Go again		Warrior	
+Eirina's Prayer	1, 2, 3	1			Instant			Generic	
+Electrify	1, 2, 3	1		2	Action	Go again			Lightning
+Electromagnetic Somersault	1, 2, 3	0			Instant				Lightning
+Electrostatic Discharge	1, 2, 3	0			Instant				Lightning
+Eloquent Eulogy	1	1	4	3	Action, Attack	Rune Gate, Blood Debt		Runeblade	Shadow
+Embermaw Cenipai	1, 2, 3	2	6, 7, 8	3	Action, Attack	Phantasm		Illusionist	Draconic
+Embolden	1, 2, 3	4		3	Action, Aura	Go again		Guardian	
+Emboldened Blade	3	0		3	Action	Go again		Warrior	
+Emerging Avalanche	1, 2, 3	2		3	Action, Aura	Ice Fusion, Go again		Guardian	Elemental
+Emerging Dominance	1, 2, 3	2		3	Action, Aura			Guardian	
+Emerging Power	1, 2, 3	2		3	Action, Aura	Go again		Guardian	
+Emeritus Scolding	1, 2, 3	2		3	Action			Wizard	
+Emissary of Moon	1	0	4	2	Action, Attack			Generic	
+Emissary of Tides	1	0	4	2	Action, Attack			Generic	
+Emissary of Wind	1	0	4	2	Action, Attack	Go again		Generic	
+En Garde	1	1		3	Action	Go again		Warrior	
+Enact Vengeance	1	2	6	3	Action, Attack	Combo		Ninja	
+Encase	1	0		3	Action	Ice Fusion		Wizard	Elemental
+Enchanting Melody	1, 2, 3	2		2	Action, Aura	Go again		Generic	
+Encore	2	1		2	Action	Go again		Bard	
+Endear Devotion	1	1		2	Attack Reaction			Warrior	Draconic
+Endless Arrow	1	0	4	3	Action, Arrow, Attack			Ranger	
+Endless Maw	1, 2, 3	3	4, 5, 6	3	Action, Attack	Blood Debt		Brute	Shadow
+Endless Winter	1	4	8	3	Action, Attack	Oldhim Specialization, Ice Fusion		Guardian	Elemental
+Energy Potion	3	0			Action, Item			Generic	
+Engaged Swiftblade	1, 2, 3	1		3	Action	Go again		Warrior	
+Engulfing Flamewave	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again		Ninja	Draconic
+Engulfing Light	1, 2, 3	0	1, 2, 3	3	Action, Attack	Charge		Warrior	Light
+Enigma Chimera	1, 2, 3	2	6, 7, 8	3	Action, Attack	Phantasm		Illusionist	
+Enlightened Strike	1	0	5	3	Action, Attack	Go again		Generic	
+Entangle	1, 2, 3	3	5, 6, 7	3	Action, Attack	Earth Fusion		Guardian	Elemental
+Entangling Shot	1	0	4	3	Action, Arrow, Attack			Ranger	
+Entwine Earth	1, 2, 3	2	4, 5, 6	2	Action, Attack	Earth Fusion			Elemental
+Entwine Ice	1, 2, 3	1	3, 4, 5	2	Action, Attack	Ice Fusion, Dominate			Elemental
+Entwine Lightning	1, 2, 3	0	2, 3, 4	2	Action, Attack	Lightning Fusion, Go again			Elemental
+Envelop in Darkness	1, 2, 3	1		2	Action	Go again		Runeblade	Shadow
+Eradicate	2	1	4	3	Action, Attack	Contract		Assassin	
+Erase Face	1	2	6	2	Action, Attack			Generic	
+Escalate Bloodshed	1	0			Instant, Aura			Warrior	
+Essence of Ancestry: Body	1	0		3	Action, Aura	Ward 2		Illusionist	
+Essence of Ancestry: Mind	3	0		3	Action, Aura	Ward 2		Illusionist	
+Essence of Ancestry: Soul	2	0		3	Action, Aura	Ward 2		Illusionist	
+Etchings of Arcana	1, 2, 3	0		3	Action	Surge		Wizard	
+Eternal Inferno	1	1		3	Action	Surge		Wizard	
+Evasive Leap	1, 2, 3	0		1, 2, 3	Defense Reaction			Generic	
+Even Bigger Than That!	1, 2, 3	0			Instant	Opt 3		Generic	
+Everbloom // Life	3	0		3	Action, Instant	Go again, Meld			Earth
+Evergreen	1, 2, 3	3	5, 6, 7	2	Action, Attack				Earth
+Expedite	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost		Mechanologist	
+Expedition to Azuro Keys	1	0	4	2	Action, Attack			Pirate	
+Expedition to Blackwater Strait	1	1	5	2	Action, Attack			Pirate	
+Expedition to Dreadfall Reach	1	2	6	2	Action, Attack			Pirate	
+Expedition to Horizon's Mantle	1	3	7	2	Action, Attack			Pirate	
+Expendable Limbs	3	0		4	Defense Reaction			Brute	Shadow
+Exploding Aether	1, 2, 3	2		2	Action	Amp 3, Go again		Wizard	
+Explosive Growth	1, 2, 3	1	1, 2, 3	3	Action, Attack	Earth Fusion		Runeblade	Elemental
+Exposed	3	0			Attack Reaction	Mark		Generic	
+Exposed to the Elements	3	2			Instant	Earth and/or Ice Fusion			Elemental
+Express Lightning	1, 2, 3	0	2, 3, 4	3	Action, Attack	Charge		Warrior	Light
+Extinguish the Flames	1	0	3	3	Action, Attack	Stealth, Contract		Assassin	
+Exude Confidence	1	0	4	2	Action, Attack			Generic	
+Eye of Ophidia	3				Resource, Gem	Legendary, Opt 2		Generic	
+Fabric of Blossoms	3	0		2	Action, Construct	Negate		Generic	
+Fabric of Hope	1	0		2	Action, Construct	Negate		Generic	
+Fabric of Providence	1	0		2	Action, Construct	Legendary, Negate		Generic	
+Fabric of Scales	3	0		2	Action, Construct	Negate		Generic	
+Fabric of Spring	2	0		2	Action, Construct	Legendary, Negate		Generic	
+Fabricate	1	0			Instant			Mechanologist	
+Fact-Finding Mission	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Falcon Wing	1, 2, 3	0	1, 2, 3	3	Action, Arrow, Attack	Go again		Ranger	
+Fang Strike		0			Attack Reaction	Ephemeral		Mystic, Assassin	Mystic
+Fast and Furious	1	0	3	3	Action, Attack	Boost		Mechanologist	
+Fatal Engagement	1, 2, 3	2		3	Attack Reaction			Warrior	
+Fate Foreseen	1, 2, 3	0		2, 3, 4	Defense Reaction	Opt 1		Generic	
+Fatigue Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Fault Line	1	3	7	3	Action, Attack	Crush		Guardian	
+Fearless Confrontation	3	3	5	3	Action, Attack			Generic	
+Feign Death	2	1			Instant			Ranger	
+Feisty Locals	1, 2, 3	0	1, 2, 3	2	Action, Attack			Generic	
+Felling Swing	1, 2, 3	3		3	Action	Go again		Warrior	
+Felling of the Crown	1	3	4	3	Action, Attack	Decompose			Earth
+Fender Bender	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+Fertile Ground	1, 2, 3	2			Instant				Earth
+Fervent Forerunner	1, 2, 3	0	1, 2, 3	2	Action, Attack	Opt 2, Go again		Generic	
+Fiddler's Green	1, 2, 3			1	Block			Generic	
+Figment of Erudition	2	4			Instant, Figment	Legendary		Illusionist	Light
+Figment of Judgment	2	4			Instant, Figment	Legendary		Illusionist	Light
+Figment of Protection	2	4			Instant, Figment	Legendary		Illusionist	Light
+Figment of Ravages	2	4			Instant, Figment	Legendary		Illusionist	Light
+Figment of Rebirth	2	4			Instant, Figment	Legendary		Illusionist	Light
+Figment of Tenacity	2	4			Instant, Figment	Legendary		Illusionist	Light
+Figment of Triumph	2	4			Instant, Figment	Legendary		Illusionist	Light
+Figment of War	2	4			Instant, Figment	Legendary		Illusionist	Light
+Final Act	1	1	1	3	Action, Attack			Bard	
+Find Center	3	0	2	3	Action, Attack	Combo		Ninja	
+Fire Tenet: Strike First	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja	
+Fire and Brimstone	1	2		3	Attack Reaction	Legendary		Warrior	Draconic
+Fire in the Hole	1	0		2	Action	Go again		Ranger	
+Firebreathing	1	2	3	3	Action, Attack			Generic	
+Firewall	1, 2, 3			2, 3, 4	Block			Mechanologist	
+First Tenet of Chi: Moon	3	0		3	Action	Go again		Mystic	Mystic
+First Tenet of Chi: Tide	3	0		3	Action	Go again		Mystic	Mystic
+First Tenet of Chi: Wind	3	0		3	Action	Go again		Mystic	Mystic
+Flake Out	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack	Ice Fusion, Dominate		Ranger	Elemental
+Flameborn Retribution	1	1	3	2	Action, Attack	Go again			Draconic
+Flamecall Awakening	1	1	3	2	Action, Attack	Go again			Draconic
+Flash	1, 2, 3	0		2	Action	Go again			Lightning
+Flashfreeze	1	1		2	Action	Ice and/or Lightning Fusion, Go again			Elemental
+Flatten the Field	1, 2, 3	4	6, 7, 8	3	Action, Attack	Crush		Guardian	
+Fleece the Frail	1, 2, 3	0	2, 3, 4	3	Action, Attack	Contract		Assassin	
+Fletch a Blue Tail	3	1		2	Action	Go again		Ranger	
+Fletch a Red Tail	1	1		2	Action	Go again		Ranger	
+Fletch a Yellow Tail	2	1		2	Action	Go again		Ranger	
+Flex	1, 2, 3	0	2, 3, 4	2	Action, Attack			Generic	
+Flex Claws	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja	
+Flic Flak	1, 2, 3	0		2, 3, 4	Defense Reaction			Ninja	
+Flicker Trick	1	0		5	Defense Reaction	Mirage		Illusionist	
+Flicker Wisp	2	0		2	Action	Lightning Fusion, Go again		Runeblade	Elemental
+Flittering Charge	1, 2, 3	0	2, 3, 4	2	Action, Attack	Go again			Lightning
+Flock of the Feather Walkers	1, 2, 3	1	3, 4, 5	2	Action, Attack			Generic	
+Flood of Force	2	0	1	3	Action, Attack	Combo, Go again		Ninja	
+Flourish	2, 3	0		2	Action	Go again			Earth
+Flurry Stance	1	0		3	Action, Aura	Go again		Warrior	
+Fluster Fist	1, 2, 3	0	2, 3, 4	3	Action, Attack	Combo		Ninja	
+Flying High	1, 2, 3	0		2	Action	Go again		Generic	
+Flying Kick	1, 2, 3	2	3, 4, 5	3	Action, Attack			Ninja	
+Fog Down	2	3		3	Action, Aura			Generic	
+Fool's Gold	2				Resource			Generic	
+For the Dracai	1	0	4	3	Action, Attack				Draconic
+For the Emperor	1	1	5	3	Action, Attack				Draconic
+For the Realm	1	2	6	3	Action, Attack				Draconic
+Force Sight	1, 2, 3	1		2	Action	Opt 2, Go again		Generic	
+Force of Nature	3	0		3	Action	Briar Specialization, Earth Fusion, Go again		Runeblade	Elemental
+Foreboding Bolt	1, 2, 3	1		3	Action	Opt 1		Wizard	
+Forged for War	2	2		3	Action, Aura	Go again		Guardian	
+Forked Lightning	1	3		3	Action			Wizard	
+Fractal Replication	1	0	*	*	Action, Attack			Illusionist	
+Frailty Trap	1	0		3	Defense Reaction, Trap			Assassin, Ranger	
+Frazzle	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack	Lightning Fusion		Ranger	Elemental
+Freewheeling Renegades	1, 2, 3	1	4, 5, 6	2	Action, Attack			Generic	
+Freezing Point	1	3		3	Action	Ice Fusion		Wizard	Elemental
+Frightmare	1	3	13		Action, Attack	Phantasm		Illusionist	
+Frontline Scout	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic	
+Frost Fang	1, 2, 3	2	3, 4, 5	2	Action, Attack				Ice
+Frost Hex	3	3		3	Action, Affliction, Aura	Iyslander Specialization		Wizard	Ice
+Frost Lock	3	1	3	3	Action, Arrow, Attack	Ice Fusion		Ranger	Elemental
+Frosting	1, 2, 3	0		3	Action			Wizard	Ice
+Frozen to Death	3	3		3	Action	Ice Fusion		Guardian	Ice
+Fruits of the Forest	1, 2, 3	3	5, 6, 7	2	Action, Attack				Earth
+Fry	1, 2, 3	0	1, 2, 3	0	Action, Attack	Go again			Lightning
+Fuel Injector	3	0			Action, Item			Mechanologist	
+Full Tilt	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Fulminate	2	2		2	Action	Earth and/or Lightning Fusion, Go again			Elemental
+Funeral Moon	1	0		3	Action	Blood Debt		Runeblade	Shadow
+Fyendal's Fighting Spirit	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic	
+Gas Guzzler	1, 2, 3	3	4, 5, 6	3	Action, Attack	Boost		Mechanologist	
+Gas Up	1, 2, 3	1		2	Action	Go again		Mechanologist	
+Gaze the Ages	3	0		3	Action	Opt 2		Wizard	
+Genesis	2	4			Instant, Aura	Spectra		Illusionist	Light
+Germinate	3	XX		3	Action	Florian Specialization		Runeblade	Earth
+Gesture of Goodwill	3			3	Generic Block	Protect			
+Geyser of Seismic Stirrings	1, 2, 3	2		3	Action, Aura	Go again		Guardian	
+Ghostly Visit	1, 2, 3	1	2, 3, 4	3	Action, Attack	Blood Debt			Shadow
+Gigawatt	1, 2, 3	1		2	Action	Go again		Mechanologist	
+Give No Quarter	3	0		3	Action	Go again		Pirate, Necromancer	
+Give and Take	1	1	3	3	Action, Attack	Go again		Generic	
+Glacial Footsteps	1, 2, 3	6	10, 8, 9	3	Action, Attack	Ice Fusion, Dominate		Guardian	Elemental
+Glaring Impact	1, 2, 3	1	2, 3, 4	3	Action, Attack	Charge, Overpower		Warrior	Light
+Glint the Quicksilver	3	0		3	Attack Reaction	Reprise		Warrior	
+Glisten	1, 2, 3	2			Instant				Light
+Glistening Steelblade	2	1		3	Action	Dorinthea Specialization, Go again		Warrior	
+Glyph Overlay	1, 2, 3	1		3	Action	Surge		Wizard	
+Go Bananas	2	0			Instant			Generic	
+Goblet of Bloodrun Wine	3	0		2	Action	Go again		Warrior	
+Gold Hunter Ketch	2	4	7	2	Action, Attack			Pirate	
+Gold Hunter Lightsail	2	1	4	2	Action, Attack			Pirate	
+Gold Hunter Longboat	2	0	3	2	Action, Attack			Pirate	
+Gold Hunter Marauder	2	3	6	2	Action, Attack	Overpower		Pirate	
+Gold the Tip	2	0		2	Action	Go again		Pirate, Ranger	
+Golden Skywarden	2	4	7	2	Action, Attack	Galvanize		Pirate, Mechanologist	
+Golden Tipple	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Pirate	
+Goldfin Harpoon		0	2		Action, Arrow, Attack			Pirate, Ranger	
+Goldwing Turbine	1, 2, 3	2		3	Action			Mechanologist	
+Gone in a Flash	1	0	4	3	Action, Attack				Lightning
+Good Deeds Don't Go Unnoticed	2	0		3	Action, Aura			Generic	
+Gore Belching	1	0	7		Action, Attack			Generic	
+Gorganian Tome		0			Action	Legendary, Go again		Generic	
+Gorgon's Gaze	2	2		3	Attack Reaction			Mystic, Assassin	Mystic
+Grandeur of Valahai	3				Resource, Gem	Legendary		Guardian	
+Gravekeeping	1, 2, 3	1	3, 4, 5	2	Action, Attack			Generic	
+Graveling Growl	1, 2, 3	1	5, 6, 7	3	Action, Attack	Blood Debt		Brute	Shadow
+Great Library of Solana		2			Action, Landmark	Legendary	Go again		Light
+Grim Feast	1, 2, 3	3		2	Action	Blood Debt			Shadow
+Grind Them Down	1, 2, 3	3	5, 6, 7	3	Action, Attack	Crush		Guardian	
+Grinding Gears	3	0			Action, Item	Crank		Mechanologist	
+Grow Claws	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja	
+Grow Wings	1, 2, 3	0	1, 2, 3	3	Action, Attack	Go again		Ninja	
+Growl	1, 2	0	2, 3	2	Action, Attack	Go again		Ninja	
+Guardian of the Shadowrealm	1	2		6	Defense Reaction	Blood Debt			Shadow
+Gustwave of the Second Wind	1	0	4	3	Action, Attack	Combo, Go again		Ninja	
+HMS Barracuda	2	4	6	3	Action, Attack	High Tide, Overpower		Pirate	
+HMS Kraken	2	4	6	3	Action, Attack	High Tide, Overpower		Pirate	
+HMS Marlin	2	4	6	3	Action, Attack	High Tide, Overpower		Pirate	
+Hack to Reality	2	1		2	Action	Go again		Generic	
+Hadron Collider	1, 2, 3	1			Action, Item	Crank		Mechanologist	
+Hala Goldenhelm				3	Mentor			Warrior	
+Hamstring Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Hand Behind the Pen	1	2	6	2	Action, Attack			Generic	
+Harmony of the Hunt	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Mystic, Ninja	Mystic
+Harness Lightning	1, 2	0		2	Action	Lightning Flow		Runeblade	Elemental
+Harvest Season	1, 2, 3	1		2	Action, Aura	Go again			Earth
+Haunting Rendition	1			4	Block			Runeblade	
+Haunting Specter	1, 2, 3	2		2	Action, Aura	Ward 4		Illusionist	
+Haze Bending	3	0		2	Action, Aura	Spectra		Illusionist	
+Haze Shelter	1, 2, 3	2			Instant, Aura	Ward X		Mystic, Illusionist	Mystic
+Head Jab	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja	
+Head Leads the Tail	1	1	3	2	Action, Attack	Go again		Ninja	
+Head Shot	1, 2, 3	1	2, 3, 4	3	Action, Arrow, Attack			Ranger	
+Headbutt	3	4	6	3	Action, Attack	Crush		Guardian	
+Healing Balm	1, 2, 3	0		2	Action			Generic	
+Healing Potion	3	0			Action, Item		Go again	Generic	
+Heart of Fyendal	3				Resource, Gem	Legendary		Generic	
+Heartbeat of Candlehold	3	1		3	Action	Verdance Specialization, Go again		Wizard	Earth
+Hearty Block	1			3	Block			Guardian, Warrior	
+Heat Seeker	1	1	5	3	Action, Arrow, Attack			Ranger	
+Heave Ho!	3	0		3	Action	Go again		Pirate, Necromancer	
+Heaven's Claws	1, 2, 3	1	3, 4, 5	3	Action, Attack				Lightning
+Heavy Artillery	1, 2, 3	3	4, 5, 6	3	Action, Attack	Evo Upgrade		Mechanologist	
+Heist	1	2	5	3	Action, Attack	Boost		Mechanologist	
+Hemorrhage Bore	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Herald of Erudition	2	2	5	3	Action, Attack	Dominate, Phantasm		Illusionist	Light
+Herald of Judgment	2	2	6	3	Action, Attack	Prism Specialization, Phantasm		Illusionist	Light
+Herald of Protection	1, 2, 3	2	5, 6, 7	3	Action, Attack	Phantasm		Illusionist	Light
+Herald of Ravages	1, 2, 3	2	5, 6, 7	3	Action, Attack	Phantasm		Illusionist	Light
+Herald of Rebirth	1, 2, 3	2	5, 6, 7	3	Action, Attack	Phantasm		Illusionist	Light
+Herald of Sekem	1	2	7	3	Action, Attack	Phantasm		Illusionist	Light
+Herald of Tenacity	1, 2, 3	2	4, 5, 6	3	Action, Attack	Dominate, Phantasm		Illusionist	Light
+Herald of Triumph	1, 2, 3	2	5, 6, 7	3	Action, Attack	Phantasm		Illusionist	Light
+Heron's Flight	1	0	3	3	Action, Attack	Combo		Ninja	
+High Octane	1	1		3	Action	Go again		Mechanologist	
+High Roller	1, 2, 3	0		3	Action	Intimidate, Go again		Brute	
+High Speed Impact	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+High Striker	1, 2, 3	0		2	Action	Go again		Generic	
+High Voltage	3	0			Instant	Amp 1			Lightning
+Hiss	1, 2, 3	1		3	Attack Reaction			Mystic, Assassin	Mystic
+Hit and Run	1, 2, 3	0		3	Action	Go again		Warrior	
+Hit the High Notes	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade	
+Hocus Pocus	1, 2, 3	0	1, 2, 3	3	Action, Attack			Runeblade	
+Hoist 'Em Up	1			4	Block			Pirate, Necromancer	
+Hold 'em	1, 2, 3	1		3	Action	Go again		Warrior	
+Hold the Line	3	0		2	Defense Reaction			Generic	
+Homage to Ancestors	3	0			Instant	Legendary, Transcend		Mystic	Mystic
+Hook	3	0		3	Action	Go again		Ranger	
+Hostile Encroachment	1	3	8	3	Action, Attack	Crush		Guardian	
+Hot on Their Heels	1	0	3	3	Action, Attack	Go again, Mark		Ninja	Draconic
+Howl from Beyond	1, 2, 3	2		2	Action	Go again, Blood Debt			Shadow
+Humble	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Hundred Winds	1, 2, 3	0	1, 2, 3	2	Action, Attack	Combo, Go again		Ninja	
+Hungering Demigon	1, 2, 3	2	4, 5, 6	3	Action, Attack	Blood Debt			Shadow
+Hungering Slaughterbeast	1, 2, 3	2	5, 6, 7	3	Action, Attack	Blood Debt		Brute	Shadow
+Hunt a Killer	1, 2, 3	1		3	Action	Go again		Warrior	
+Hunt the Hunter	1	1	5	3	Action, Attack	Mark			Draconic
+Hunt to the Ends of Rathe	1	0	2	2	Action, Attack	Mark, Go again			Draconic
+Hunt's End	1	0		3	Attack Reaction			Warrior	Draconic
+Hunted or Hunter	1	0		3	Defense Reaction, Trap			Assassin	
+Hurl	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Assassin, Ninja	
+Hurricane Technique	2	1	4	3	Action, Attack	Combo, Go again		Ninja	
+Hydraulic Press	1, 2, 3	3	4, 5, 6	3	Action, Attack	Scrap, Overpower		Mechanologist	
+Hyper Driver	1, 2, 3	1			Action, Item			Mechanologist	
+Hyper Scrapper	3	X	2	3	Action, Attack	Go Again		Mechanologist	
+Hypothermia	3	0		2	Action, Affliction, Aura				Ice
+Ice Bolt	1, 2, 3	2		3	Action			Wizard	Ice
+Ice Eternal	3	XX		3	Action	Iyslander Specialization, Ice Fusion		Wizard	Elemental
+Ice Quake	1, 2, 3	1		2	Action	Go again			Ice
+Ice Storm	1	0		2	Action	Ice and Lightning Fusion, Go again		Ranger	Elemental
+Icebind	1, 2, 3	0		3	Action	Ice Fusion		Wizard	Elemental
+Icy Encounter	1, 2, 3	2	4, 5, 6	2	Action, Attack				Ice
+Ignite	1	0	2	2	Action, Attack	Go again		Ninja	Draconic
+Illuminate	1, 2, 3	0	2, 3, 4	3	Action, Attack				Light
+Immobilizing Shot	1	0	4	3	Action, Arrow, Attack			Ranger	
+Impenetrable Belief	1, 2, 3	2	3, 4, 5	2	Action, Attack				Light
+Imperial Edict	1	1			Action, Item	Legendary	Go again	Generic	
+Imperial Intent	1	1		2	Attack Reaction			Warrior	Draconic
+Imperial Ledger	1	0			Action, Item	Legendary		Generic	
+Imperial Seal of Command	1	0			Action, Item	Legendary	Go again	Generic	
+Imperial Warhorn	1	2			Action, Item	Legendary		Generic	
+Imposing Visage	3	X3		3	Action	Go again		Guardian	
+Impulsive Desire	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+In the Swing	1, 2, 3	0		3	Attack Reaction			Warrior	
+Incision	1, 2, 3	0		3	Attack Reaction			Assassin, Warrior	
+Increase the Tension	1, 2, 3	1		2	Action	Go again		Ranger	
+Index	1, 2, 3	0		2	Action			Wizard	
+Induction Chamber	1	2			Action, Item		Go again	Mechanologist	
+Inertia Trap	1	0		3	Defense Reaction, Trap			Assassin, Ranger	
+Infect	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Infecting Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Infectious Host	1, 2, 3	0	2, 3, 4	2	Action, Attack			Generic	
+Infiltrate	1	0	3	3	Action, Attack	Stealth		Assassin	
+Inflame	1	0	1	2	Action, Attack	Go again			Draconic
+Infuse Alloy	1, 2, 3	0	2, 3, 4	2	Action, Attack	Galvanize		Mechanologist	
+Infuse Titanium	1, 2, 3	3	5, 6, 7	2	Action, Attack	Galvanize		Mechanologist	
+Inner Chi	3				Resource, Chi			Mystic	Mystic
+Insidious Chill	3	3		2	Action, Aura				Ice
+Inspire Lightning	1, 2, 3	1		2	Action	Lightning Fusion		Runeblade	Elemental
+Intellect Penalty					Macro				
+Interlude	1, 2, 3	0			Instant			Bard	
+Intimate Inducement	1, 2, 3	0		3	Attack Reaction			Mystic, Assassin	Mystic
+Intoxicating Shot	3	0	4	3	Action, Arrow, Attack	Riptide Specialization		Ranger	
+Invert Existence	3	1			Instant	Blood Debt		Runeblade	Shadow
+Invigorate	1, 2, 3	0		2	Action	Go again			Elemental
+Invigorating Light	1, 2, 3	3	4, 5, 6	2	Action, Attack				Light
+Invoke Azvolai	1	0		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Invoke Cromai	1	0		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Invoke Dominia	1	4		3	Action, Invocation	Legendary, Transform, Go again		Illusionist	Draconic
+Invoke Dracona Optimai	1	6		3	Action, Invocation	Legendary, Transform, Go again		Illusionist	Draconic
+Invoke Kyloria	1	1		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Invoke Miragai	1	1		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Invoke Nekria	1	3		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Invoke Ouvia	1	2		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Invoke Suraya	2	2		3	Action, Invocation	Legendary, Transform, Go again		Illusionist	Light
+Invoke Themai	1	2		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Invoke Tomeltai	1	5		3	Action, Invocation	Legendary, Transform, Go again		Illusionist	Draconic
+Invoke Vynserakai	1	3		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Invoke Yendurai	1	1		3	Action, Invocation	Transform, Go again		Illusionist	Draconic
+Ironsong Determination	2	0		3	Action	Go again		Warrior	
+Ironsong Pride	1	1			Instant, Aura			Warrior	
+Ironsong Response	1, 2, 3	0		3	Attack Reaction	Reprise		Warrior	
+Isenhowl Weathervane	1, 2, 3	1		2	Action	Go again			Ice
+Isolate	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth, Dominate		Assassin	
+Jack Be Nimble	1	0	3	3	Action, Attack	Go again, Steal		Generic	
+Jack Be Quick	1	0	3	3	Action, Attack	Go again, Steal		Generic	
+Jack-o'-lantern	1, 2, 3	0		2	Action	Go again		Runeblade	Shadow
+Jagged Edge	1	1		3	Attack Reaction			Warrior	
+Jittery Bones	1, 2, 3	0	2, 3, 4	3	Action, Attack	Go again		Pirate, Necromancer	
+Jolly Bludger	2	2	5	3	Action, Attack	Overpower, Steal		Pirate, Mechanologist	
+Judge, Jury, Executioner	1	1	5	3	Action, Arrow, Attack	Legendary, Azalea Specialization		Ranger	
+Jump Start	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Junkyard Dogg	1, 2, 3	3	4, 5, 6	3	Action, Attack	Scrap		Mechanologist	
+Just a Nick	1	0		3	Attack Reaction			Assassin	
+Kelpie, Tangled Mess	2	0	1		Action, Ally	Watery Grave	Attack, Go again	Pirate, Necromancer	
+Kindle	1	0			Instant	Amp 1		Wizard	
+King Kraken Harpoon	1	2	6	3	Action, Arrow, Attack	Go Fish		Pirate, Ranger	
+King Shark Harpoon	1	2	6	3	Action, Arrow, Attack	Go Fish		Pirate, Ranger	
+Kiss of Death	1	0	3	3	Action, Dagger, Attack	Stealth		Assassin	
+Knick Knack Bric-a-brac	1	3		2	Action			Generic	
+Knife Through Butter	1, 2, 3	1		3	Action	Go again		Warrior	
+Knives Out	3	0		3	Attack Reaction			Assassin, Ninja	
+Knock 'Em Off Their Feet	1	4	8	3	Action, Attack	Crush		Guardian	
+Korshem, Crossroad of Elements		1			Action, Landmark	Legendary, Go again			Elemental
+Kyloria			4		Dragon, Ally			Illusionist	Draconic
+Lace with Bloodrot	1	0		2	Action	Go again		Ranger	
+Lace with Frailty	1	0		2	Action	Go again		Ranger	
+Lace with Inertia	1	0		2	Action	Go again		Ranger	
+Lady Barthimont				3	Mentor			Brute	
+Lair of the Spider	1	0		3	Defense Reaction, Trap	Mark		Assassin, Ninja	
+Last Ditch Effort	3	3	4	3	Action, Attack	Go again		Generic	
+Lava Burst	1	0	2	3	Action, Attack	Rupture			Draconic
+Lava Vein Loyalty	1, 2, 3	0	1, 2, 3	3	Action, Attack	Go again		Ninja	Draconic
+Lay Down the Law	1	3	7	3	Action, Attack	Tower		Guardian	
+Lay Low	2	0		3	Defense Reaction			Generic	
+Lay Waste	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Lay to Rest	1, 2, 3	1	3, 4, 5	3	Action, Attack				Light
+Lead the Charge	1, 2, 3	0		2	Action	Go again		Generic	
+Lead with Heart	1, 2, 3	1		2	Action	Go again		Guardian, Warrior	
+Lead with Power	1, 2, 3	1		2	Action	Go again		Brute, Guardian	
+Lead with Speed	1, 2, 3	1		2	Action	Go again		Brute, Warrior	
+Leave No Witnesses	1	0	4	3	Action, Attack	Contract		Assassin	
+Leave a Dent	3	0		3	Action	Go again		Guardian	
+Leg Tap	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja	
+Legacy of Ikaru	3	0		3	Attack Reaction			Ninja	
+Lesson in Lava	2	1		3	Action	Kano Specialization		Wizard	
+Levels of Enlightenment	3	1	3	3	Action, Attack	Go again		Mystic	Mystic
+Ley Line of the Old Ones	3	0			Instant, Aura	Legendary		Guardian	
+Life for a Life	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Generic	
+Life of the Party	1, 2, 3	2	2, 3, 4	2	Action, Attack	Go again		Generic	
+Light it Up	2	1	4	3	Action, Arrow, Attack	Lexi Specialization, Lightning Fusion		Ranger	Elemental
+Light of Sol	2				Resource, Gem	Legendary			Light
+Light the Way	1, 2, 3	0	1, 2, 3	3	Action, Attack	Charge, Go again		Warrior	Light
+Lightning Form	1, 2, 3	1	3, 4, 5	2	Action, Attack				Lightning
+Lightning Press	1, 2, 3	0			Instant				Lightning
+Lightning Surge	1, 2, 3	0	2, 3, 4	2	Action, Attack	Go again			Lightning
+Limpit, Hop-a-long	2	0	2		Action, Ally	Watery Grave	Attack, Go again	Pirate, Necromancer	
+Line	3	0		3	Action	Go again		Ranger	
+Line It Up	2	1		3	Action	Go again		Ranger	
+Liquefy	1	1		2	Attack Reaction	Rupture			Draconic
+Liquid-Cooled Mayhem	1, 2, 3	4	4, 5, 6	3	Action, Attack	Evo Upgrade		Mechanologist	
+Little Big Foot	1, 2, 3	4	3	3	Action, Attack			Guardian	
+Loan Shark	2	0		3	Action, Aura	Go again		Pirate	
+Locked and Loaded	1, 2, 3	0		3	Action	Opt 1, Go again		Mechanologist	
+Log Fall	1, 2	3	4, 5	3	Action, Attack	Earth Bond, Overpower		Guardian	Elemental
+Long Shot	1, 2, 3	0	1, 2, 3	3	Action, Arrow, Attack			Ranger	
+Long Whisker Loyalty	1	0		3	Attack Reaction			Warrior	Draconic
+Looking for a Scrap	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Generic	
+Looming Doom	3	3		3	Action, Aura			Runeblade	
+Loot the Arsenal	3	0		3	Action	Go again		Pirate, Necromancer	
+Loot the Hold	3	0		3	Action	Go again		Pirate, Necromancer	
+Lord Sutcliffe				3	Mentor			Runeblade	
+Lord of Wind	3	0	2	3	Action, Attack	Katsu Specialization, Combo		Ninja	
+Lost in Thought	1	1		2	Action	Go again		Illusionist	
+Lost in Transit	2			3	Block			Pirate	
+Loyalty Beyond the Grave	1	0		3	Defense Reaction				Draconic
+Lubricate	3	0			Instant			Mechanologist	
+Lumina Ascension	2	0		3	Action	Boltyn Specialization, Go again		Warrior	Light
+Lumina Lance	2	0		3	Attack Reaction				Light
+Lunartide Plunderer	1, 2, 3	3	5, 6, 7	2	Action, Attack				Shadow
+Lunging Press	3	0		2	Attack Reaction			Generic	
+MHz Script	2	0			Action, Item	Crank		Mechanologist	
+Machinations of Dominion	3	0		3	Action	Go again		Runeblade	
+Macho Grande	1, 2, 3	7	10, 8, 9	3	Action, Attack	Dominate		Guardian	
+Madcap Charger	1, 2, 3	1	3, 4, 5	3	Action, Attack	Go again		Brute	
+Madcap Muscle	1, 2, 3	3	4, 5, 6	3	Action, Attack			Brute	
+Malefic Incantation	1, 2, 3	0		2	Action, Aura	Go again		Runeblade	
+Malign	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Mangle	1	4	8	3	Action, Attack	Crush		Guardian	
+Manifestation of Miragai	3	3			Instant, Aura	Ward X		Mystic, Illusionist	Mystic
+March of Loyalty	1	0	4	3	Action, Attack	Go again			Draconic
+Mark of the Beast	2	2	6	3	Action, Attack	Blood Debt		Brute	Shadow
+Mark of the Black Widow	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Mark of the Funnel Web	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Mark the Prey	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth, Mark		Assassin	
+Mark with Magma	1	1	4	3	Action, Attack	Go again, Mark		Ninja	Draconic
+Marked						Mark			
+Massacre	1	3	6	3	Action, Attack	Intimidate		Brute	
+Master Cog	2				Resource, Gem	Legendary		Mechanologist	
+Maul	2	0		3	Attack Reaction			Ninja	
+Mauling Qi	1	1	5	3	Action, Attack	Combo		Ninja	
+Mauvrion Skies	1, 2, 3	0		2	Action	Go again		Runeblade	
+Maximum Velocity	1	2	10	3	Action, Attack			Mechanologist	
+Meat and Greet	1, 2, 3	1	2, 3, 4	3	Action, Attack	Go again		Runeblade	
+Mechanical Strength	1, 2, 3	3	3, 4, 5	3	Action, Attack	Evo Upgrade		Mechanologist	
+Medkit	3	0			Action, Item			Mechanologist	
+Meet Madness	1	0	3	3	Action, Attack			Assassin	Chaos
+Meganetic Lockwave	3	XXX		3	Action	Go Again		Mechanologist	
+Meganetic Protocol	3	3	5	3	Action, Attack	Evo Upgrade		Mechanologist	
+Meganetic Shockwave	3	2	4	3	Action, Attack			Mechanologist	
+Melting Point	1	1		3	Action	Go again		Ranger	
+Memorial Ground	1, 2, 3	0			Instant			Generic	
+Mental Block	3			2	Block			Wizard	
+Merciful Retribution	2	4			Instant, Aura	Spectra		Illusionist	Light
+MetEx	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+Micro-processor	3	2			Action, Item	Data Doll Specialization	Opt 1	Mechanologist	
+Midas Touch	2	1		3	Action	Go again		Generic	
+Mighty Windup	1, 2, 3	3	5, 6, 7	2	Action, Attack			Brute, Guardian	
+Mind Warp	2	0		3	Action	Surge		Wizard	
+Mind's Desire	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Mindstate of Tiger	3	0		3	Action, Aura			Ninja	
+Minerva Themis				3	Mentor			Warrior	
+Mini Forcefield	1, 2, 3	1			Action, Item	Crank, Ward X		Mechanologist	
+Minnowism	1, 2, 3	0		2	Action	Go again		Generic	
+Miragai			2		Dragon, Ally			Illusionist	Draconic
+Miraging Metamorph	1	1	7	3	Action, Attack	Phantasm		Illusionist	
+Mischievous Meeps	1	1	2	2	Action, Attack	Go again		Generic	
+Mistcloak Gully		1			Instant, Landmark	Legendary, Transcend		Mystic	Mystic
+Money Where Ya Mouth Is	1, 2, 3	1		2	Action	Go again		Generic	
+Money or Your Life?	1, 2, 3	3	4, 5, 6	2	Action, Attack			Generic	
+Monkey Powder	1	3		2	Action	Go again		Ranger	
+Moon Chakra	1, 2, 3	0			Instant			Mystic, Illusionist	Mystic
+Moon Wish	1, 2, 3	2	3, 4, 5	2	Action, Attack			Generic	
+Moonshot	2	XX	3	3	Action, Attack	Overpower		Mechanologist	
+Moray le Fay	2	0	0		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Mordred Tide	1	0		3	Action	Go again		Runeblade	
+Morlock Hill	3	0			Instant			Warrior	
+Mounting Anger	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja	Draconic
+Mugenshi: RELEASE	2	1	4	3	Action, Attack	Katsu Specialization, Combo, Go again		Ninja	
+Mulch	1, 2, 3	4	6, 7, 8	3	Action, Attack	Earth Fusion		Guardian	Elemental
+Murderous Rabble	3	0	0	3	Action, Attack	Go again		Pirate	
+Murkmire Grapnel	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack			Ranger	
+Murky Water	1	2	6	3	Action, Arrow, Attack	Riptide Specialization, Dominate		Ranger	
+Muscle Mutt	2	3	6	2	Action, Attack			Generic	
+Mutated Mass	3	1	*	*	Action, Attack	Blood Debt			Shadow
+Mutiny on the Battalion Barque	3	0		2	Action	Go again, Steal		Pirate	
+Mutiny on the Nimbus Sovereign	3	0		2	Action	Go again, Steal		Pirate	
+Mutiny on the Swiftwater	3	0		2	Action	Go again, Steal		Pirate	
+Nasty Surprise	3	0	2	3	Action, Attack			Generic	
+Nature's Path Pilgrimage	1, 2, 3	1		3	Action	Go again		Warrior	
+Nekria			4		Dragon, Ally			Illusionist	Draconic
+Nerves of Steel	3	3		3	Action, Aura			Guardian	
+Nettling Shot	1	0	4	3	Action, Arrow, Attack			Ranger	
+Never Yield	3	3		3	Action, Aura			Guardian	
+Nimble Strike	1, 2, 3	1	2, 3, 4	2	Action, Attack			Generic	
+Nimblism	1, 2, 3	0		2	Action	Go again		Generic	
+Nimby	1, 2, 3	0	1, 2, 3	2	Action, Attack			Generic	
+Ninth Blade of the Blood Oath	2	9	9	3	Action, Attack			Runeblade	
+Nip at the Heels	3	0		3	Attack Reaction			Generic	
+Nix the Nimble	1, 2, 3	1	3, 4, 5	3	Action, Attack	Contract		Assassin	
+No Fear	1	0			Instant			Brute	
+Nock the Deathwhistle	3	0		3	Action	Azalea Specialization, Reload, Go again		Ranger	
+Northern Winds	3	0		2	Action	Oldhim Specialization, Unity, Freeze			Ice
+Not So Fast	2	0			Instant	Scurv Specialization		Pirate	
+Nourishing Emptiness	1	2	6	3	Action, Attack	Dominate		Generic	
+Null // Shock	2	1			Instant, Instant	Meld, Negate		Wizard	Lightning
+Null Time Zone	3	0			Action, Item	Crank		Mechanologist	
+Numbskull	1	2	6	3	Action, Attack			Brute	
+Oaken Old	1	3	7	3	Action, Attack	Earth and Ice Fusion, Dominate		Guardian	Elemental
+Oasis Respite	1, 2, 3	1			Instant			Generic	
+Oath of Loyalty	1	0	4	3	Action, Attack	Go again			Draconic
+Oath of Steel	1	0		3	Action	Go again		Warrior	
+Oath of the Arknight	1, 2, 3	2		3	Action	Go again		Runeblade	
+Oblivion	3	0			Instant	Legendary, Vynnset Specialization		Runeblade	Shadow
+Ode to Wrath	2	4			Instant, Aura	Spectra		Illusionist	Light
+On a Knife Edge	2	0		2	Action	Go again		Generic	
+On the Horizon	1, 2, 3			2, 3, 4	Block			Generic	
+One-Two Punch	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo		Ninja	
+Onyx Amulet	3	0			Action, Item	Legendary, Watery Grave	Go again	Generic	
+Opal Amulet	3	0			Action, Item	Legendary, Watery Grave	Opt 2	Generic	
+Open the Center	1, 2, 3	2	3, 4, 5	3	Action, Attack	Combo, Go again, Dominate		Ninja	
+Open the Flood Gates	1, 2, 3	2		3	Action	Surge		Wizard	
+Optekal Monocle	3	0			Action, Item		Opt 1, Go again	Mechanologist	
+Orb-Weaver Spinneret	1, 2, 3	0		3	Action	Go again		Assassin	
+Orihon of Mystic Tenets	3	4			Instant	Legendary		Mystic	Mystic
+Out Muscle	1, 2, 3	3	4, 5, 6	2	Action, Attack	Go again		Generic	
+Out Pace	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+Out for Blood	1, 2, 3	1		3	Attack Reaction	Reprise		Warrior	
+Outed	1	0	3		Action, Attack	Go again		Generic	
+Outland Skirmish	1, 2, 3	0		3	Action	Go again		Warrior	
+Ouvia			1		Dragon, Ally	Transform		Illusionist	Draconic
+Over Flex	1, 2, 3	1		2	Action	Reload, Go again		Ranger	
+Over Loop	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Over the Top	1, 2, 3	3	4, 5, 6	3	Action, Attack	Overpower		Guardian	
+Overblast	1, 2, 3	2	3, 4, 5	3	Action, Attack			Mechanologist	
+Overflow the Aetherwell	1, 2, 3	0		3	Action	Surge		Wizard	
+Overload	1, 2, 3	0	1, 2, 3	2	Action, Attack	Dominate, Go again		Generic	
+Overload Script	1	0			Action, Item	Crank		Mechanologist	
+Overpower	1, 2, 3	3		3	Attack Reaction	Reprise		Warrior	
+Overswing	1, 2, 3	2		3	Action	Go again, Heave 2		Guardian	
+Oysten, Heart of Gold	2	0	3		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Pack Call	1, 2, 3	3	5, 6, 7	3	Action, Attack			Brute	
+Pack Hunt	1, 2, 3	2	4, 5, 6	3	Action, Attack	Intimidate		Brute	
+Paddle Faster	1	0	4	3	Action, Attack	Go again		Pirate, Necromancer	
+Pain in the Backside	1	0	3	2	Action, Attack	Go again		Assassin, Ninja	
+Palantir Aeronought	1	2	6	3	Action, Attack			Mechanologist	
+Panel Beater	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Parable of Humility	2	4			Instant, Aura	Spectra		Illusionist	Light
+Pass Over	3	0			Instant	Legendary, Transcend		Mystic	Mystic
+Passing Mirage	3	0		2	Action, Aura	Spectra		Illusionist	
+Path Well Traveled	3	0			Instant	Legendary, Transcend		Mystic	Mystic
+Pathing Helix	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack			Ranger	
+Pay Day	3	0		3	Action			Assassin	
+Pay Up	1	3	6	3	Action, Attack	Overpower		Generic	
+Payload	1, 2, 3	2	4, 5, 6	3	Action, Attack	Dominate		Mechanologist	
+Peace of Mind	1, 2, 3	2			Instant			Generic	
+Pearl Amulet	3	0			Action, Item	Legendary, Watery Grave	Go again	Generic	
+Pec Perfect	1	5	9	3	Action, Attack	Clash		Guardian	
+Pedal to the Metal	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Pendulum Trap	2	0		3	Defense Reaction, Trap			Ranger	
+Penetration Script	2	1			Action, Item	Crank		Mechanologist	
+Perennial Aetherbloom	1, 2, 3	0		3	Action	Surge		Wizard	
+Perforate	2	1		3	Attack Reaction			Assassin, Warrior	
+Performance Bonus	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic	
+Perk Up	1	1		2	Action	Go again		Mechanologist	
+Persuasive Prognosis	3	0	1	3	Action, Attack	Stealth		Assassin	
+Phantasmaclasm	1	3	9	3	Action, Attack	Phantasm		Illusionist	
+Phantasmal Haze	1, 2, 3	3	6, 7, 8	3	Action, Attack	Phantasm		Illusionist	
+Phantasmal Symbiosis	2	1	6	3	Action, Attack	Phantasm		Illusionist	
+Phantasmify	1, 2, 3	1		2	Action	Go again		Illusionist	
+Phantom Tidemaw	3	0			Instant, Aura	Phantasm, Ward 1		Illusionist	
+Phoenix Flame	1	0	0		Action, Attack	Go again			Draconic
+Phoenix Form	1	0	3	3	Action, Attack	Go again		Ninja	Draconic
+Photon Rush	1, 3	0	1, 3	3	Action, Attack	Lightning Flow, Go again		Runeblade	Elemental
+Photon Splicing	1, 2, 3	1		3	Action		Amp 1	Wizard	
+Pick Up the Point	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again, Retrieve		Assassin, Ninja	
+Pick a Card, Any Card	1, 2, 3	0		2	Action	Go again		Generic	
+Pick to Pieces	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Pierce Reality	3	0		2	Action, Aura	Spectra		Illusionist	
+Piercing Shadow Vise	1, 2, 3	2	2, 3, 4	3	Action, Attack	Blood Debt		Runeblade	Shadow
+Pilfer the Wreck	1, 2, 3	3	5, 6, 7	2	Action, Attack			Pirate	
+Pinion Sentry	3			3	Block			Mechanologist	
+Pint of Strong and Stout	3	0		2	Action	Go again		Guardian	
+Pitfall Trap	2	0		3	Defense Reaction, Trap			Ranger	
+Plague Hive	2				Resource, Gem	Legendary		Assassin, Ranger	
+Plan for the Worst	3	0		3	Action			Ranger	
+Plasma Mainline	1	2			Action, Item			Mechanologist	
+Plasma Purifier	1	2			Action, Item		Go again	Mechanologist	
+Platinum Amulet	3	0			Action, Item	Legendary, Watery Grave		Generic	
+Pledge Fealty	1	0			Instant				Draconic
+Plow Through	1, 2, 3	1		3	Action	Go again		Warrior	
+Plow Under	2	2	2	3	Action, Attack	Decompose			Earth
+Plunder Run	1, 2, 3	0		2	Action	Go again		Generic	
+Plunder the Poor	1, 2, 3	0	2, 3, 4	3	Action, Attack	Contract		Assassin	
+Plunge	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Assassin, Ninja	
+Plunge the Prospect	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Point of Engagement	1, 2, 3	0		3	Action	Go again		Warrior	
+Point the Tip	1, 2, 3	0		2	Action	Go again		Ranger	
+Poison the Tips	2	0		2	Action	Reload, Go again		Ranger	
+Poison the Well	3	0			Instant			Generic	
+Poisoned Blade	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Assassin, Ninja	
+Polar Blast	1, 2, 3	1		2	Action	Go again			Ice
+Polar Cap	1, 2, 3	2		3	Action	Ice Fusion		Wizard	Elemental
+Polarity Reversal Script	1	1			Action, Item	Crank		Mechanologist	
+Polly Cranka					Puffin, Companion, Off-Hand, Ally	Crank, Perched			
+Pop the Bubble	1, 2, 3	0		3	Action	Surge		Wizard	
+Portside Exchange	3	0		3	Action	Go again		Pirate	
+Potion of Déjà Vu	3	0			Action, Item			Generic	
+Potion of Ironhide	3	0			Action, Item			Generic	
+Potion of Luck	3	0			Action, Item			Generic	
+Potion of Seeing	3	0			Action, Item			Generic	
+Potion of Strength	3	0			Action, Item		Go again	Generic	
+Pounamu Amulet	3	0			Action, Item	Legendary, Watery Grave	Go again	Generic	
+Pouncing Qi	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo, Go again		Ninja	
+Pound Town	1, 2, 3	3	5, 6, 7	3	Action, Attack	Beat Chest		Brute	
+Pound for Pound	1, 2, 3	3	4, 5, 6	2	Action, Attack	Dominate		Generic	
+Pounding Gale	1	1	5	3	Action, Attack	Combo		Ninja	
+Pour the Mold	1, 2, 3	0		3	Action	Go again		Mechanologist	
+Powder Keg	3	0			Action, Item			Mechanologist	
+Power Stance	3	0		3	Action, Aura	Go again		Warrior	
+Prayer of Bellona	2	1		3	Action	Charge, Go again		Warrior	Light
+Preach Modesty	1	0		2	Action, Aura			Ninja	
+Precision Press	1, 2, 3	1		3	Action	Go again		Warrior	
+Predatory Assault	1, 2, 3	2	4, 5, 6	3	Action, Attack	Dominate		Brute	
+Predatory Streak	1, 2, 3	0		2	Action	Go again		Ninja	
+Premeditate	1	0		2	Action	Go again		Generic	
+Preserve Tradition	3	0			Instant	Legendary, Transcend		Mystic	Mystic
+Primed to Fight	1	5	9	3	Action, Attack			Guardian	
+Primeval Bellow	1, 2, 3	0		3	Action	Go again		Brute	
+Prismatic Lens	2	1			Action, Item	Crank		Mechanologist	
+Prismatic Leyline	2	0		3	Action	Go again		Generic	
+Prismatic Shield	1, 2, 3	3			Instant			Illusionist	
+Proclaim Vengeance	1	0			Instant	Mark			Draconic
+Prognosticate	1, 2, 3	0		3	Action	Surge, Opt 1		Wizard	
+Promise of Plenty	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic	
+Promising Terrain	3	0		3	Action, Aura	Go again		Guardian	
+Provoke	3	1		3	Attack Reaction			Warrior	
+Prowess of Agility	3	0		3	Action, Aura			Ninja	
+Prowl	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Pry	1, 2, 3	0		3	Action			Wizard	
+Public Bounty	1, 2, 3	1		2	Action	Mark, Go again		Generic	
+Pulping	1, 2, 3	2	4, 5, 6		Action, Attack	Dominate, Go again		Brute	
+Pulse of Candlehold	2	0		3	Action	Legendary, Go again			Earth, Lightning
+Pulse of Isenloft	3	2		6	Defense Reaction	Legendary			Ice, Earth
+Pulse of Volthaven	1	0			Instant	Legendary			Lightning, Ice
+Pulsewave Harpoon	1	1	4	3	Action, Attack	Boost		Mechanologist	
+Pulsewave Protocol	2	3	6	3	Action, Attack	Evo Upgrade		Mechanologist	
+Pulsing Aether // Life	1	1		3	Action, Instant	Meld		Wizard	Earth
+Pulverize	1	10	14	3	Action, Attack	Heave 3		Guardian	
+Pummel	1, 2, 3	2		2	Attack Reaction			Generic	
+Puncture	1, 2, 3	1		3	Attack Reaction			Warrior	
+Pursue to the Edge of Oblivion	1	0	4	3	Action, Attack	Mark		Generic	
+Pursue to the Pits of Despair	1	1	5	3	Action, Attack	Mark		Generic	
+Pursuit of Knowledge	3	2	4	2	Action, Attack			Generic	
+Push Forward	1, 2, 3	1		3	Action	Go again		Warrior	
+Push the Point	1, 2, 3	1	2, 3, 4	2	Action, Attack			Generic	
+Put 'Em In Their Place	1	6	10	3	Action, Attack	Valda Specialization, Crush		Guardian	
+Put in Context	3	0		3	Defense Reaction			Generic	
+Putrid Stirrings	1, 2, 3	3		3	Action	Blood Debt, Go again		Runeblade	Shadow
+Pyroglyphic Protection	1, 2, 3	2		2	Action, Aura			Wizard	
+Qi Unleashed	1, 2, 3	2	1, 2, 3	3	Action, Attack	Combo		Ninja	
+Quantum Processor	2	1			Action, Item	Crank		Mechanologist	
+Quickfire	1, 2, 3	2		2	Action	Go again		Mechanologist	
+Radiant Forcefield	2	0			Instant, Aura				Light
+Rage Specter	3	2		3	Action, Aura	Ward 1, Ward 6		Illusionist	
+Raging Onslaught	1, 2, 3	3	5, 6, 7	3	Action, Attack			Generic	
+Rain Razors	2	0			Instant			Ranger	
+Raise an Army	2	0		3	Action	Kassai Specialization, Go again		Warrior	
+Rake Over the Coals	1	0			Instant				Draconic
+Rake the Embers	1, 2, 3	1		2	Action	Transform, Go again		Illusionist	Draconic
+Rally the Coast Guard	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic	
+Rally the Rearguard	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Ram Raider	1, 2, 3	2	4, 5, 6	3	Action, Attack	Blood Debt, Go again		Brute	Shadow
+Rampant Growth // Life	2	0			Instant, Instant	Meld, Amp X		Wizard	Earth
+Rapid Fire	2	0		2	Action	Reload		Ranger	
+Rapid Reflex	1, 2, 3	1		3	Attack Reaction			Ninja	
+Ratchet Up	1, 2, 3	1	3, 4, 5	2	Action, Attack	Galvanize		Mechanologist	
+Rattle Bones	1	2		3	Action	Go again		Runeblade	
+Ravenous Rabble	1, 2, 3	0	3, 4, 5	2	Action, Attack	Go again		Generic	
+Rawhide Rumble	1, 2, 3	2	4, 5, 6	3	Action, Attack	Beat Chest, Intimidate		Brute	
+Ray of Hope	2	1			Instant				Light
+Razor Reflex	1, 2, 3	1		2	Attack Reaction			Generic	
+Razor's Edge	1, 2, 3	0		3	Attack Reaction			Assassin	
+Razzle Dazzle	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+Re-Charge!	1, 2, 3	1		2	Action	Go again		Mechanologist	
+Read the Glide Path	1, 2, 3	0		2	Action	Opt 1, Go again		Ranger	
+Read the Ripples	1, 2, 3	0		2	Action, Aura	Opt 1		Wizard	
+Read the Runes	1, 2, 3	0		2	Action			Runeblade	
+Ready to Roll	3	0		3	Action	Kayo Specialization, Go again		Brute	
+Reaper's Call	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth	Mark	Assassin	
+Rebellious Rush	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again		Ninja	Draconic
+Reckless Charge	3	0		3	Action	Kayo Specialization		Brute	
+Reckless Swing	3	0		4	Defense Reaction			Brute	
+Recoil	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo		Ninja	
+Red Fin Harpoon	3	2	4	3	Action, Arrow, Attack	Go Fish		Pirate, Ranger	
+Red Hot	1	2	4	3	Action, Attack	Dromai or Fai Specialization, Rupture			Draconic
+Red in the Ledger	1	1	5	3	Action, Arrow, Attack	Azalea Specialization		Ranger	
+Reduce to Runechant	1, 2, 3	1		2, 3, 4	Defense Reaction			Runeblade	
+Reek of Corruption	1, 2, 3	2	2, 3, 4	3	Action, Attack			Runeblade	
+Reel In	3	X			Instant	Reload		Ranger	
+Regain Composure	3	0		2	Action	Go again		Generic	
+Regicide	3	0	3	3	Action, Attack	Legendary, Arakni Specialization		Assassin	
+Regrowth // Shock	3	0		3	Action, Instant	Meld, Go again		Runeblade	Earth, Lightning
+Regurgitating Slog	1, 2, 3	2	4, 5, 6	2	Action, Attack	Dominate		Generic	
+Reincarnate	1, 2, 3	3	5, 6, 7	3	Action, Attack			Brute	
+Reinforce Steel	1, 2, 3	2		3	Action			Guardian	
+Reinforce the Line	1, 2, 3	0			Instant			Generic	
+Rejuvenate	1, 2, 3	1		2	Action				Elemental
+Release the Tension	1, 2, 3	0		2	Action	Go again		Ranger	
+Relentless Pursuit	3	0		3	Action	Mark, Go again		Generic	
+Remembrance	2	0			Instant			Generic	
+Remorseless	1	1	5	3	Action, Arrow, Attack			Ranger	
+Renounce Grandeur	1	3	7	3	Action, Attack	Crush		Guardian	
+Requiem for the Damned	1	0		3	Action	Blood Debt		Runeblade	Shadow
+Resounding Courage	1, 2, 3	1		3	Attack Reaction			Warrior	Light
+Restless Bones	1, 2, 3	2	4, 5, 6	3	Action, Attack	Go again		Pirate, Necromancer	
+Restless Coalescence	2	0			Instant, Aura	Ward 2		Illusionist	
+Retrace the Past	3	0	2	3	Action, Attack	Katsu Specialization, Combo		Ninja	
+Return Fire	1			4	Block			Ranger	
+Rev Up	1, 2, 3	3	4, 5, 6	3	Action, Attack	Boost		Mechanologist	
+Revel in Runeblood	1	0		2	Action	Go again		Runeblade	
+Reverberate	1, 2, 3	1		3	Action			Wizard	
+Rewind	3	1			Instant	Negate		Wizard	
+Riches of Trōpal-Dhani	2				Resource, Gem	Legendary		Generic	
+Riddle with Regret	1	0		2	Action, Aura	Go again			Chaos
+Ride the Tailwind	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja	
+Ridge Rider Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack	Opt 1		Ranger	
+Rift Bind	1, 2, 3	1	1, 2, 3	3	Action, Attack	Blood Debt		Runeblade	Shadow
+Rift Skitter	1, 2, 3	3	2, 3, 4	3	Action, Attack	Rune Gate, Go again, Blood Debt		Runeblade	Shadow
+Rifted Torment	1, 2, 3	2	2, 3, 4	3	Action, Attack	Blood Debt		Runeblade	Shadow
+Rifting	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Riggermortis	2	1	6		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Righteous Cleansing	2	7	10	3	Action, Attack	Crush		Guardian	
+Riled Up	1, 2, 3	3	5, 6, 7	3	Action, Attack			Brute	
+Ring of Roses	2	0		3	Action, Aura	Legendary, Verdance Specialization		Wizard	Earth
+Rip Through Reality	1, 2, 3	2	2, 3, 4	3	Action, Attack	Go again, Blood Debt		Runeblade	Shadow
+Ripple Away	3	2	4	3	Action, Attack			Generic	
+Rise Above	1, 2, 3	2		2, 3, 4	Defense Reaction			Generic	
+Rise Up	1	1	3	3	Action, Attack	Dromai or Fai Specialization, Rupture, Dominate			Draconic
+Rise from the Ashes	1, 2, 3	0		2	Action	Go again		Ninja	Draconic
+Rising Energy	1, 2, 3	2	4, 5, 6	2	Action, Attack			Guardian, Warrior	
+Rising Knee Thrust	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo, Go again		Ninja	
+Rising Power	1, 2, 3	2	4, 5, 6	2	Action, Attack			Brute, Guardian	
+Rising Resentment	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja	Draconic
+Rising Solartide	1, 2, 3	1	3, 4, 5	3	Action, Attack				Light
+Rising Speed	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again		Brute, Warrior	
+Rising Sun, Setting Moon	3	0			Instant	Legendary, Transcend		Mystic	Mystic
+Rising Tide	3	1	3	2	Action, Attack			Mystic	Mystic
+Rites of Lightning	1, 2, 3	1	2, 3, 4	3	Action, Attack	Lightning Fusion, Go again		Runeblade	Elemental
+Rites of Replenishment	1, 2, 3	2	4, 5, 6	3	Action, Attack	Earth Fusion		Runeblade	Elemental
+Roar of the Tiger	2	0		3	Action	Go again		Ninja	
+Rob the Rich	1, 2, 3	1	3, 4, 5	3	Action, Attack	Contract		Assassin	
+Rockslide Trap	3	0		2	Defense Reaction, Trap			Ranger	
+Roiling Fissure	3	X1		3	Action	Go again		Guardian	
+Rolling Thunder	1	1		3	Action	Go again		Brute	
+Ronin Renegade	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Ninja	Draconic
+Rootbound Carapace	1, 2, 3	0		1, 2, 3	Defense Reaction	Decompose			Earth
+Rotary Ram	1, 2, 3	0		3	Action	Go again		Mechanologist	
+Rotten Remains	3	0	1	3	Action, Attack			Generic	
+Rouse the Ancients	3	3	0	2	Action, Attack	Go again		Generic	
+Rousing Aether	1, 2, 3	2		3	Action			Wizard	
+Rout	1	2		3	Attack Reaction	Reprise		Warrior	
+Rowdy Locals	3	0	2	3	Action, Attack			Generic	
+Rubble Raiser	1, 2, 3	4	6, 7, 8	3	Action, Attack	Heave 2		Guardian	
+Ruby Amulet	3	0			Action, Item	Legendary, Watery Grave		Generic	
+Rumble Grunting	1, 2, 3	0		3	Action	Go again		Brute	
+Run Roughshod	3	1	5	3	Action, Attack			Brute	
+Run Through	2	1		3	Attack Reaction			Warrior	
+Run into Trouble	1			3	Block			Brute, Warrior	
+Rune Flash	1, 2, 3	3	2, 3, 4	3	Action, Attack	Go again		Runeblade	
+Runeblood Barrier	2	3		2	Action, Aura			Runeblade	
+Runeblood Incantation	1, 2, 3	1		2	Action, Aura	Go again		Runeblade	
+Runerager Swarm	1, 2, 3	0	1, 2, 3	3	Action, Attack	Go again		Runeblade	
+Runic Reaping	1, 2, 3	1		2	Action	Go again		Runeblade	
+Runic Reckoning	1	1		3	Action	Go again		Runeblade	
+Runic Reclamation	1	3	7	3	Action, Attack			Runeblade	
+Runner Runner	1	2	6	3	Action, Attack			Brute, Warrior	
+Rushing River	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo, Go again		Ninja	
+Rusted Relic	3	0			Action, Item	Arcane Barrier 1		Generic	
+Rusty Harpoon	3	0	1	3	Action, Arrow, Attack			Pirate, Ranger	
+Sack the Shifty	1, 2, 3	0	2, 3, 4	3	Action, Attack	Contract		Assassin	
+Sacred Art: Immortal Lunar Shrine	3	3			Instant	Legendary, Transcend		Mystic, Illusionist	Mystic
+Sacred Art: Jade Tiger Domain	3	3			Instant	Legendary, Transcend		Mystic, Ninja	Mystic
+Sacred Art: Undercurrent Desires	3	3			Instant	Legendary, Transcend		Mystic, Assassin	Mystic
+Salt the Wound	2	0	2	3	Action, Attack			Ninja	
+Saltwater Swell	1, 2, 3	1	1, 2, 3	3	Action, Attack	Go again		Pirate	
+Salvage Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Sanctuary of Aria					Rosetta, Macro				
+Sand Cover	1, 2, 3	0			Instant			Illusionist	Draconic
+Sand Sketched Plan	3	0		3	Action	Rhinar Specialization		Brute	
+Sap	1, 2, 3	0		3	Action	Surge		Wizard	
+Sapphire Amulet	3	0			Action, Item	Legendary, Watery Grave		Generic	
+Savage Beatdown	1	3	6	3	Action, Attack			Brute	
+Savage Feast	1, 2, 3	1	4, 5, 6	3	Action, Attack			Brute	
+Savage Swing	1, 2, 3	1	5, 6, 7	3	Action, Attack			Brute	
+Save the Thought	1, 2, 3	2			Instant			Wizard	
+Saving Grace	2	0		3	Defense Reaction	Charge		Warrior	Light
+Savor Bloodshed	1	0		3	Action	Go again		Assassin, Warrior	
+Sawbones, Dock Hand	2	2	6		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Scalding Iron	1	0		2	Attack Reaction			Warrior	Draconic
+Scalding Rain	1, 2, 3	1		3	Action			Wizard	
+Scar Tissue	1, 2, 3	0		2	Attack Reaction			Assassin, Warrior	
+Scar for a Scar	1, 2, 3	0	2, 3, 4	2	Action, Attack	Go again		Generic	
+Scarf for a Scarf	1	0	4	2	Action, Attack	Go again		Generic	
+Schism of Chaos	3				Resource, Gem	Legendary			Chaos
+Scooba, Salty Sea Dog	2	0	4		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Scour	3	X		3	Action			Wizard	
+Scour the Battlescape	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic	
+Scout the Periphery	1, 2, 3	0		2	Action	Go again		Generic	
+Scouting Shot	1	0	4	3	Action, Arrow, Attack			Ranger	
+Scramble Pulse	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Scrap Compactor	1, 2, 3	0	1, 2, 3	3	Action, Attack	Scrap		Mechanologist	
+Scrap Harvester	1, 2, 3	3	4, 5, 6	3	Action, Attack	Scrap		Mechanologist	
+Scrap Hopper	1, 2, 3	0	1, 2, 3	3	Action, Attack	Scrap		Mechanologist	
+Scrap Prospector	1, 2, 3	0	1, 2, 3	3	Action, Attack	Scrap		Mechanologist	
+Scrap Trader	1	0		2	Action	Scrap		Mechanologist	
+Scrub the Deck	3	0		3	Action	Go again		Pirate	
+Scuttle the Canal	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth, Go again		Assassin	
+Sea Floor Salvage	3	0		3	Action	Go again		Pirate	
+Sea Legs	2	3	6	3	Action, Attack			Generic	
+Searing Gaze	1	0		2	Attack Reaction			Warrior	Draconic
+Searing Ray	1, 2, 3	1	2, 3, 4	2	Action, Attack				Light
+Searing Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack			Ranger	
+Searing Touch	1	1	3	3	Action, Attack	Rupture			Draconic
+Second Strike	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again			Lightning
+Second Swing	1, 2, 3	1		3	Action	Go again		Warrior	
+Second Tenet of Chi: Moon	3	3	5	3	Action, Attack			Mystic	Mystic
+Second Tenet of Chi: Tide	3	3	5	3	Action, Attack			Mystic	Mystic
+Second Tenet of Chi: Wind	3	3	5	3	Action, Attack	Go again		Mystic	Mystic
+Security Script	3	1			Action, Item	Crank		Mechanologist	
+Sedate	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Sedation Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Seduce Secrets	2	0			Instant			Generic	
+Seeds of Agony	1, 2, 3	0		2	Action	Go again, Blood Debt		Runeblade	Shadow
+Seeds of Strength	2, 3	2		3	Action	Earth Bond		Guardian	Elemental
+Seeds of Tomorrow	3	0			Instant				Earth
+Seek Enlightenment	1, 2, 3	1		2	Action	Go again			Light
+Seek Horizon	1, 2, 3	0	2, 3, 4	2	Action, Attack	Go again		Generic	
+Seek Vengeance	1, 3	0	2, 4	3	Action, Attack	Combo, Go again		Ninja	
+Seek and Destroy	1	0		2	Action	Go again		Ranger	
+Seeping Shadows	1, 2, 3	3		2	Action	Go again, Blood Debt		Runeblade	Shadow
+Seismic Eruption	2	0			Instant			Guardian	
+Seismic Shelter	3	0		3	Action, Aura	Go again		Guardian	
+Seismic Stir	1, 2, 3	2		3	Action	Go again		Guardian	
+Semblance	3	3			Instant			Illusionist	
+Send Packing	2	3	6	3	Action, Attack			Brute	
+Shaden Death Hydra	2	6	13	3	Action, Attack	Blood Debt		Brute	Shadow
+Shaden Scream	1, 2, 3	0		3	Action	Go again		Brute	Shadow
+Shaden Swing	1, 2, 3	1	5, 6, 7	3	Action, Attack	Blood Debt		Brute	Shadow
+Shadow Puppetry	1	0		2	Action	Go again			Shadow
+Shadow of Blasmophet	1	2	6		Action, Attack	Blood Debt		Brute	Shadow
+Shadow of Ursur	3	0	2	3	Action, Attack	Go again, Blood Debt		Runeblade	Shadow
+Shadowrealm Horror	1	2	6	3	Action, Attack	Go again, Blood Debt		Brute	Shadow
+Shake Down	1	2	6	3	Action, Attack	Uzuri Specialization		Assassin	
+Sharpen Steel	1, 2, 3	0		3	Action	Go again		Warrior	
+Sharpened Senses	2	0		3	Action, Aura	Go again		Warrior	
+Shatter	2	0		3	Attack Reaction			Warrior	
+Shelly, Hardened Traveler	2	2	4		Action, Ally	Watery Grave		Pirate, Necromancer	
+Shelter from the Storm	1	0		4	Defense Reaction			Generic	
+Shield Bash	1, 2, 3	3		4, 5, 6	Defense Reaction			Guardian	
+Shield Wall	1, 2, 3	6		5, 6, 7	Defense Reaction			Guardian	
+Shift the Tide of Battle	2	0		3	Attack Reaction			Warrior	
+Shifting Tides	3	0		3	Action, Aura	Go again		Pirate	
+Shifting Winds of the Mystic Beast	3	1		3	Action	Go again		Mystic, Ninja	Mystic
+Shimmers of Silver	3	0		2	Action, Aura	Spectra		Illusionist	
+Shitty Xmas Present	2	0		2	Action			Generic	
+Shock Striker	1, 2, 3	1	3, 4, 5	2	Action, Attack				Lightning
+Short and Sharp	1, 2, 3	1		2	Attack Reaction			Assassin, Ninja	
+Show No Mercy	1	3	6	3	Action, Attack	Rhinar Specialization, Intimidate		Brute	
+Show Time!	3	3		3	Action, Aura	Bravo Specialization		Guardian	
+Shred	1, 2, 3	0		3	Attack Reaction			Assassin	
+Shrill of Skullform	1, 2, 3	2	2, 3, 4	3	Action, Attack			Runeblade	
+Sic 'Em Shot	1, 2, 3	1	2, 3, 4	3	Action, Arrow, Attack	Go again		Ranger	
+Sift	1, 2, 3	0		3	Action	Go again		Generic	
+Sigil of Aether	3	0			Instant, Aura	Amp 1		Wizard	
+Sigil of Brilliance	2	0			Instant, Aura	Oscilio Specialization		Wizard	Lightning
+Sigil of Conductivity	3	0			Instant, Aura	Arcane Shelter 1			Lightning
+Sigil of Cycles	3	0		2	Action, Aura	Go again		Generic	
+Sigil of Deadwood	3	0		2	Action, Aura	Go again		Runeblade	
+Sigil of Earth	3	0		2	Action, Aura	Go again			Earth
+Sigil of Forethought	3	0			Instant, Aura			Wizard	
+Sigil of Fyendal	3	0		2	Action, Aura	Go again		Generic	
+Sigil of Lightning	3	0			Instant, Aura				Lightning
+Sigil of Parapets	3	1		2	Defense Reaction			Wizard	
+Sigil of Permafrost	1, 2, 3	1		2, 3, 4	Defense Reaction	Ice Fusion		Wizard	Elemental
+Sigil of Protection	1, 2, 3	1		2	Action, Aura	Ward 4		Generic	
+Sigil of Sanctuary	3	0			Instant, Aura	Arcane Shelter 1			Earth
+Sigil of Shelter	2, 3	0			Instant			Guardian	
+Sigil of Solace	1, 2, 3	0			Instant			Generic	
+Sigil of Solitude	1, 2, 3	0		2	Action, Aura	Ward 4		Illusionist	
+Sigil of Suffering	1, 2, 3	0		1, 2, 3	Defense Reaction			Runeblade	
+Sigil of Temporal Manipulation	3	0			Instant, Aura			Wizard	
+Sigil of the Arknight	3	0		2	Action, Aura	Go again		Runeblade	
+Signal Jammer	3	0			Action, Item			Mechanologist	
+Silver Talons	1, 2, 3	0	2, 3, 4	3	Action, Attack			Ninja	
+Silver the Tip	1, 2, 3	1		2	Action	Go again		Ranger	
+Silverwind Shuriken	3	0			Action, Shuriken, Item	Attack Reaction		Ninja	
+Singe	1, 2, 3	1		3	Action			Wizard	
+Singeing Steelblade	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade	
+Singing Steelblade	2	1		3	Attack Reaction	Dorinthea Specialization, Reprise		Warrior	
+Single Minded Determination	1, 2, 3	2		3	Action, Aura	Ward 2		Illusionist	
+Singularity	1	6		3	Action, Construct	Transform, Legendary, Teklovossen Specialization		Mechanologist	
+Sink Below	1, 2, 3	0		2, 3, 4	Defense Reaction			Generic	
+Sinker	3	0		3	Action	Go again		Ranger	
+Siren's Call	1	1		3	Attack Reaction			Mystic, Assassin	Mystic
+Sirens of Safe Harbor	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Sisters of Fire	1	0		3	Attack Reaction			Warrior	Draconic
+Sizzle	1, 2	0		2	Action	Go again			Lightning
+Sizzling Steel	1	1		2	Attack Reaction			Warrior	Draconic
+Skittering Sands	1, 2, 3	0		2	Action	Transform, Go again		Illusionist	Draconic
+Skull Crack	1	2	6	3	Action, Attack			Brute	
+Sky Fire Lanterns	1, 2, 3	0		2	Action	Go again		Runeblade	
+Sky Skimmer	1, 2, 3	0	2, 3, 4	3	Action, Attack		Go again	Mechanologist	
+Skybound Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Skyward Serenade	2	0		2	Action	Go again		Runeblade	Lightning
+Skyzyk	1	0	3	3	Action, Attack				Lightning
+Slap-Happy	1	0			Instant			Guardian, Warrior	
+Slay	1	0			Instant				Shadow
+Slay the Scholars	1, 2, 3	0	2, 3, 4	3	Action, Attack	Contract		Assassin	
+Sleep Dart	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Slice and Dice	1, 2, 3	0		3	Action	Go again		Warrior	
+Slither		0			Attack Reaction	Ephemeral		Mystic, Assassin	Mystic
+Slithering Shadowpede	1	1	6		Action, Attack	Blood Debt		Brute	Shadow
+Sloggism	1, 2, 3	3		2	Action	Go again		Generic	
+Smack of Reality	1	5	9	3	Action, Attack	Tower		Guardian	
+Smash Instinct	1, 2, 3	3	5, 6, 7	3	Action, Attack	Intimidate		Brute	
+Smash Up	1	1	5	2	Action, Attack			Generic	
+Smash and Grab	1	3	5	3	Action, Attack			Mechanologist	
+Smash with Big Tree	1, 2, 3	2	5, 6, 7		Action, Attack			Brute	
+Smashback Alehorn	3	0		2	Action	Go again		Brute	
+Smashing Good Time	1, 2, 3	0		2	Action	Go again		Generic	
+Smashing Performance	2	3	6		Action, Attack			Brute	
+Smelting of the Old Ones	1	6	10	3	Action, Attack	Crush, Heave 2		Guardian	
+Smoke Out	1	0		3	Defense Reaction	Mark			Draconic
+Snag	3	0			Instant			Generic	
+Snap Shot	1, 2, 3	0	2, 3, 4	3	Action, Arrow, Attack	Lightning Fusion		Ranger	Elemental
+Snapback	1, 2, 3	1		3	Action			Wizard	
+Snatch	1, 2, 3	0	2, 3, 4	2	Action, Attack			Generic	
+Sneak Attack	1, 2, 3	2	1, 2, 3	2	Action, Attack			Assassin	
+Snow Under	1, 2, 3	3	5, 6, 7	3	Action, Attack	Ice Fusion		Guardian	Elemental
+Snuff Out	1	1	5	3	Action, Attack			Runeblade	
+Soaring Strike	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja	Draconic
+Solid Ground	3	3		5	Defense Reaction			Guardian	
+Solitary Companion	1, 2, 3	0		2	Action, Aura	Ward 3		Illusionist	
+Sonata Arcanix	1	XX		2	Action	Go again		Runeblade	
+Sonata Fantasmia	3	XX		3	Action	Viserai Specialization		Runeblade	
+Sonata Galaxia	1	XX		2	Action	Go again		Runeblade	
+Song of Jack-be-Quick	3	0		3	Action, Song			Bard	
+Song of Sweet Nectar	3	0		3	Action, Song			Bard	
+Song of Yesteryears	3	0		3	Action, Song			Bard	
+Song of the Rosen Matador	3	0		3	Action, Song			Bard	
+Song of the Shining Knight	3	0		3	Action, Song			Bard	
+Song of the Wandering Mind	3	0		3	Action, Song			Bard	
+Sonic Boom	2	2		3	Action			Wizard	
+Soul Butcher	1, 2, 3	2	4, 5, 6	2	Action, Attack	Blood Debt			Shadow
+Soul Cleaver	1, 2, 3	2	4, 5, 6	2	Action, Attack	Blood Debt, Go again			Shadow
+Soul Food	2	0		2	Action				Light
+Soul Harvest	3	6	6	3	Action, Attack	Legendary, Levia Specialization			Shadow
+Soul Reaping	1	6	6	3	Action, Attack	Legendary, Chane Specialization, Go again			Shadow
+Soul Shield	2	2		6	Defense Reaction				Light
+Soulbead Strike	1, 2, 3	0	2, 3, 4	3	Action, Attack	Go again		Ninja	
+Sound the Alarm	1	1	5	3	Action, Attack			Generic	
+Soup Up	1, 2, 3	0	2, 3, 4	2	Action, Attack	Go again, Galvanize		Mechanologist	
+Sow Tomorrow	1, 2, 3	1		2	Action	Go again			Earth
+Spark Spray	1, 2, 3	0	2, 3, 4	2	Action, Attack				Lightning
+Spark of Genius	2	XX		3	Action	Dash Specialization		Mechanologist	
+Spears of Surreality	1, 2, 3	1	3, 4, 5	3	Action, Attack	Phantasm, Go again		Illusionist	
+Spectral Manifestations	1, 2, 3	2		2	Action	Go again		Illusionist	
+Spectral Procession	1	0	*	3	Action, Attack	Phantasm		Illusionist	
+Spectral Prowler	1, 2, 3	0	2, 3, 4	3	Action, Attack	Go again, Phantasm		Illusionist	
+Spectral Rider	1, 2, 3	3	6, 7, 8	3	Action, Attack	Overpower, Phantasm		Illusionist	
+Spellblade Assault	1, 2, 3	2	2, 3, 4	3	Action, Attack			Runeblade	
+Spellblade Strike	1, 2, 3	1	2, 3, 4	3	Action, Attack			Runeblade	
+Spew Shadow	1, 2, 3	2		2	Action	Go again			Shadow
+Spike Pit Trap	3	0		3	Defense Reaction, Trap	Legendary, Riptide Specialization		Ranger	
+Spike with Bloodrot	1	1		3	Attack Reaction			Assassin	
+Spike with Frailty	1	1		3	Attack Reaction			Assassin	
+Spike with Inertia	1	1		3	Attack Reaction			Assassin	
+Spill Blood	1	1		3	Action	Go again		Warrior	
+Spillover	3	2	4	2	Action, Attack			Mystic	Mystic
+Spinal Crush	1	5	9	3	Action, Attack	Crush		Guardian	
+Spinning Wheel Kick	1, 2, 3	1	2, 3, 4	2	Action, Attack	Combo, Go again		Ninja	
+Spire Sniping	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Spirit of Christmas	3	0		3	Action	Go again		Generic	
+Spirit of Eirina	2	0			Action, Item	Legendary		Warrior	Light
+Spirit of War	1	0	3	3	Action, Attack	Charge		Warrior	Light
+Splatter Skull	1	2	6	3	Action, Attack			Brute	
+Splintering Deadwood	1, 2, 3	3	5, 6, 7	3	Action, Attack			Runeblade	
+Spoils of War	1	1		3	Action	Go again		Warrior	
+Spreading Flames	1	1	3	2	Action, Attack	Go again		Ninja	Draconic
+Spreading Plague	2	1		3	Attack Reaction			Assassin	
+Spring Load	1, 2, 3	1	2	2	Action, Attack			Generic	
+Spring Tidings	2	0	2	3	Action, Attack	Benji Specialization, Go again		Ninja	
+Spring a Leak	1, 2, 3	2	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Springboard Somersault	2	0		2	Defense Reaction			Generic	
+Sprocket Rocket	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost		Mechanologist	
+Spur Locked	3	0		3	Action	Go again			Chaos
+Stab Wound	3	0	2	3	Action, Attack			Assassin, Ninja	
+Stabbing Pain	1	1		2	Attack Reaction			Warrior	Draconic
+Stacked in Your Favor	1, 2, 3	2		2	Action, Aura	Go again		Guardian	
+Stains of the Redback	1, 2, 3	1		3	Attack Reaction			Assassin	
+Stamp Authority	3	3		3	Action, Aura			Guardian	
+Standing Order	1	0	4	3	Action, Attack			Generic	
+Star Struck	2	7	10	3	Action, Attack	Bravo Specialization, Crush, Unity		Guardian	
+Starting Stake	2	0		3	Action			Generic	
+Stasis Cell	3	0			Action, Item		Go again	Mechanologist	
+Static Shock	1, 2	0	3, 4	3	Action, Attack	Lightning Flow		Runeblade	Elemental
+Staunch Response	1, 2, 3	2		5, 6, 7	Defense Reaction			Guardian	
+Steadfast	1, 2, 3	3			Instant			Guardian	
+Steam Canister	3	0			Action, Item			Mechanologist	
+Steel Street Enforcement	3			1	Block	Evo Upgrade		Mechanologist	
+Steel Street Hoons	3	3	3	2	Action, Attack	Boost, Galvanize		Mechanologist	
+Steelblade Shunt	1, 2, 3	1		4, 5, 6	Defense Reaction			Warrior	
+Steelblade Supremacy	1	1		3	Action	Dorinthea Specialization, Go again		Warrior	
+Sticky Fingers			2		Scurv, Companion, Off-Hand, Ally	Perched, Steal	Attack		
+Sting of Sorcery	3	0		2	Action, Aura	Go again		Runeblade	
+Stir the Aetherwinds	1, 2, 3	2		2	Action			Wizard	
+Stir the Pot	3	0			Instant	Legendary, Transcend		Mystic	Mystic
+Stir the Wildwood	1, 2, 3	2	3, 4, 5	3	Action, Attack	Earth Fusion		Runeblade	Elemental
+Stoke the Flames	1	1	4	3	Action, Attack	Go again			Draconic
+Stone Rain	1	0	4	3	Action, Arrow, Attack	Dominate		Ranger	
+Stonewall Confidence	1, 2, 3	2		3	Action, Aura	Go again		Guardian	
+Stony Woottonhog	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Strategic Planning	1, 2, 3	1		2	Action	Go again		Generic	
+Strength Rules All	1	2	6	3	Action, Attack			Brute	
+Strength of Four Seasons	1, 2, 3	2	2, 3, 4	2	Action, Attack				Earth
+Strength of Sequoia	1, 2, 3	2		3	Action, Aura	Earth Fusion, Go again		Guardian	Elemental
+Strike Gold	1, 2, 3	0	2, 3, 4	2	Action, Attack			Generic	
+Stroke of Foresight	1, 2, 3	1		3	Attack Reaction	Reprise		Warrior	
+Strong Wood	1, 2	3	5, 6	3	Action, Attack	Earth Bond		Guardian	Elemental
+Strong Yield	1, 2, 3	1		2	Action, Aura	Go again			Earth
+Succumb to Temptation	2	0		3	Action	Go again		Runeblade	
+Succumb to Winter	1, 2, 3	3		3	Action	Ice Fusion		Wizard	Elemental
+Summer's Fall	1, 2, 3	2	4, 5, 6	2	Action, Attack	Decompose			Earth
+Summerwood Shelter	1, 2, 3	0			Instant				Earth
+Sun Kiss	1, 2, 3	0		2	Action	Go again		Generic	
+Sunken Treasure	3			3	Block			Pirate	
+Supercell	3	X		2	Action			Mechanologist	
+Surface Shaking	3	3		3	Action, Aura	Go again		Guardian	
+Surgical Extraction	3	2	4	3	Action, Attack	Contract		Assassin	
+Surging Militia	1, 2, 3	2	3, 4, 5	2	Action, Attack			Generic	
+Surging Strike	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again		Ninja	
+Sutcliffe's Research Notes	1, 2, 3	1		2	Action	Go again		Runeblade	
+Swabbie	2	3	7		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Swarming Gloomveil	1	0	3	3	Action, Attack	Go again		Runeblade	
+Sweeping Blow	1, 2, 3	1	1, 2, 3	3	Action, Attack	Go again		Illusionist	Draconic
+Swell Tidings	1	2		3	Action	Surge		Wizard	
+Swift Shot	1	0	4	3	Action, Arrow, Attack	Go again		Ranger	
+Swiftwater Sloop	1, 2, 3	2	4, 5, 6	2	Action, Attack	High Tide		Pirate	
+Swindler's Grift	1, 2, 3	2	4, 5, 6	2	Action, Attack			Pirate	
+Swing Big	1	2	8	3	Action, Attack			Brute	
+Swing Fist, Think Later	1, 2, 3	1	2, 3, 4	3	Action, Attack	Go again		Brute	
+Sworn Vengeance	1, 2, 3	0		3	Action	Go again		Warrior	
+System Failure	2	1		2	Action			Mechanologist	
+System Reset	2	X		3	Action			Mechanologist	
+T-Bone	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost		Mechanologist	
+Tag the Target	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again, Mark		Ninja	
+Take Aim	1, 2, 3	0		2	Action	Reload, Go again		Ranger	
+Take Cover	1, 2, 3	0		2, 3, 4	Defense Reaction	Reload		Ranger	
+Take Flight	1, 2, 3	1	2, 3, 4	3	Action, Attack	Charge		Warrior	Light
+Take Up the Mantle	2	0		3	Attack Reaction			Assassin	
+Take a Stab	1, 2, 3	0		2	Attack Reaction			Assassin, Warrior	
+Take it on the Chin	1	0			Instant			Brute, Warrior	
+Take the Tempo	1	1	5	3	Action, Attack			Ninja	
+Take the Upper Hand	1, 2, 3	0		3	Attack Reaction			Warrior	
+Tales of Adventure	3	0		3	Action	Yorick Specialization		Bard	
+Talisman of Balance	3	0			Action, Item	Go again		Generic	
+Talisman of Cremation	3	0			Action, Item	Go again		Generic	
+Talisman of Dousing	2	0			Action, Item	Go again, Spellvoid 1		Generic	
+Talisman of Featherfoot	2	0			Action, Item	Go again		Generic	
+Talisman of Recompense	2	0			Action, Item	Go again		Generic	
+Talisman of Tithes	3	0			Action, Item	Go again		Generic	
+Talisman of Warfare	2	0			Action, Item	Go again		Generic	
+Talk a Big Game	3	0		3	Action	Go again		Brute, Guardian	
+Tarantula Toxin	1	0		3	Attack Reaction			Assassin	
+Tarpit Trap	2	0		3	Defense Reaction, Trap			Ranger	
+Tear Asunder	3	3		3	Action	Go again		Guardian	
+Tear Limb from Limb	3	2			Action	Go again		Brute	
+Tear Through the Portal	1, 2, 3	0		2	Action	Go again			Shadow
+Tectonic Instability	3	0		3	Action	Go again		Guardian	
+Tectonic Rift	3	X		2	Action	Go again		Guardian	
+Teeth of the Cog	1, 2, 3	0	2, 3, 4	2	Action, Attack	Galvanize		Mechanologist	
+Teklo Core	3	0			Action, Item	Dash Specialization		Mechanologist	
+Teklo Pounder	3	2			Action, Item			Mechanologist	
+Teklonetic Force Field	1, 2, 3			1, 2, 3	Block			Mechanologist	
+Teklovossen's Workshop	1, 2, 3	0		3	Action	Opt X		Mechanologist	
+Tempest Aurora	1, 2, 3	0		2	Action	Go again		Wizard	
+Ten Foot Tall and Bulletproof	1	3	10	10	Action, Attack			Generic	
+Tenacity	2	0	2	3	Action, Attack			Generic	
+Terminator Tank	1	6	6	3	Action, Attack	Overpower		Mechanologist	
+Territorial Domain	3	0		2	Defense Reaction			Ninja	
+Test of Agility	1			4	Block	Clash		Brute, Warrior	
+Test of Iron Grip	1			4	Block	Clash		Guardian	
+Test of Might	1			4	Block	Clash		Brute, Guardian	
+Test of Strength	1			4	Block	Clash		Generic	
+Test of Vigor	1			4	Block	Clash		Guardian, Warrior	
+That All You Got?	2	0		3	Defense Reaction			Generic	
+Thaw	1	2	6	2	Action, Attack				Draconic
+The Golden Son	2	4	7	3	Action, Attack	Victor Specialization, Overpower		Guardian	
+The Grain that Tips the Scale	3	0			Instant	Legendary, Transcend		Mystic	Mystic
+The Hand that Pulls the Strings				4	Arakni, Mentor				
+The Librarian				3	Mentor			Illusionist	
+The Weakest Link	1	2	6	3	Action, Attack			Generic	
+Themai			3		Dragon, Ally			Illusionist	Draconic
+Thick Hide Hunter	2	2	6	6	Action, Attack			Brute	
+Thiev'n Varmints	1	0	4	3	Action, Attack			Pirate	
+This Round's on Me	3	1		3	Action	Go again		Generic	
+Thistle Bloom // Life	2	0		3	Action, Instant	Meld		Runeblade	Earth
+Three Visits	1	3			Instant, Aura	Ward X		Mystic, Illusionist	Mystic
+Three of a Kind	1	1		2	Action	Go again		Ranger	
+Thrive	2	0		2	Action	Go again			Earth
+Throttle	1, 2, 3	2	4, 5, 6	3	Action, Attack	Boost		Mechanologist	
+Throw Caution to the Wind	3	0			Instant			Pirate	
+Throw Dagger	3	0		3	Attack Reaction			Assassin, Ninja	
+Throw Yourself at Them	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Assassin, Ninja	
+Thrust	1	1		2	Attack Reaction			Generic	
+Thump	1, 2, 3	4	4, 5, 6	3	Action, Attack	Dominate		Guardian	
+Thunder Quake	1, 2, 3	6	10, 8, 9	3	Action, Attack	Heave 3		Guardian	
+Thunk	1, 2, 3	5	6, 7, 8	3	Action, Attack			Guardian	
+Tick Tock Clock	1	0			Action, Item	Crank		Mechanologist	
+Tidal Surge	3	3	5	2	Action, Attack			Mystic	Mystic
+Tide Chakra	1, 2, 3	1		3	Attack Reaction			Mystic, Assassin	Mystic
+Tiger Eye Reflex	2, 3			2, 3	Block	Ambush		Ninja	
+Tiger Form Incantation	1, 2, 3	1		3	Action	Go again		Mystic, Ninja	Mystic
+Tiger Swipe	1	0	2	3	Action, Attack	Combo, Go again		Ninja	
+Tighten the Screws	1	1		2	Action	Go again		Mechanologist	
+Timekeeper's Whim	1, 2, 3	3		3	Action			Wizard	
+Timesnap Potion	3	0			Action, Item			Generic	
+Timidity Point	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Tip the Barkeep	3	0		3	Action	Go again		Pirate	
+Tip-Off	1, 2, 3	1	3, 4, 5	2	Action, Attack		Mark	Generic	
+Tit for Tat	3	0		2	Action	Go again		Generic	
+Titanium Bauble	3			3	Resource			Generic	
+To the Point	1, 2, 3	0		2	Attack Reaction			Assassin, Warrior	
+Tome of Aeo	3	1		2	Action, Aura	Ward 1		Illusionist	
+Tome of Aetherwind	1	0		2	Action			Wizard	
+Tome of Divinity	2	4			Instant				Light
+Tome of Duplicity	3	3		2	Action			Wizard	
+Tome of Firebrand	1	1			Instant				Draconic
+Tome of Fyendal	2	1		2	Action			Generic	
+Tome of Harvests	3	3		2	Action	Go again			Earth
+Tome of Imperial Flame	1	0			Action	Go again			Draconic
+Tome of Torment	1	0			Action	Blood Debt			Shadow
+Tome of the Arknight	3	1		2	Action	Go again		Runeblade	
+Tomeltai			5		Dragon, Ally			Illusionist	Draconic
+Tongue Tied	1	3	7	2	Action, Attack			Generic	
+Tooth and Claw	1	0	4	3	Action, Attack	Go again		Mystic, Ninja	Mystic
+Tooth of the Dragon	1	0			Instant				Draconic
+Torque Tuned	1, 2, 3	2	4, 5, 6	2	Action, Attack	Overpower, Galvanize		Mechanologist	
+Torrent of Tempo	1, 2, 3	1	3, 4, 5	3	Action, Attack	Go again		Ninja	
+Tough Old Wrench	1, 2, 3	2	4, 5, 6	2	Action, Attack	Galvanize		Mechanologist	
+Toughen Up	3	2		4	Defense Reaction			Generic	
+Towering Titan	1, 2, 3	9		3	Action, Aura			Guardian	
+Toxicity	1, 2, 3	0		2	Action	Go again		Assassin, Ranger	
+Trade In	1, 2, 3	0	1, 2, 3	2	Action, Attack	Go again		Generic	
+Trailblazing Aether	1, 2, 3	0		3	Action	Surge		Wizard	
+Tranquil Passing	1, 2, 3	1		2	Action, Aura	Ward 1		Illusionist	
+Transmogrify	1, 2, 3	1		2	Action	Go again		Illusionist	
+Trap and Release	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again, Mark		Ninja	
+Treasure Island					High Seas, Macro, Landmark				
+Tremor of íArathael	1, 2, 3	1	2, 3, 4	2	Action, Attack			Generic	
+Tri-shot	3	0		3	Action	Go again		Ranger	
+Tribute to Demolition	1, 2, 3	2	4, 5, 6	3	Action, Attack	Blood Debt		Brute	Shadow
+Tribute to the Legions of Doom	1, 2, 3	3	5, 6, 7	3	Action, Attack	Blood Debt		Brute	Shadow
+Trip the Light Fantastic	1, 2, 3	1	3, 4, 5	2	Action, Attack				Lightning
+Tripwire Trap	1	0		4	Defense Reaction, Trap			Ranger	
+Trot Along	3	0		3	Action	Go again		Generic	
+Trounce	1			3	Block	Clash		Guardian	
+Truce	3	2		3	Action, Aura			Generic	
+Turn Timber	1, 2, 3	2		4, 5, 6	Defense Reaction	Earth Fusion		Guardian	Elemental
+Twin Drive	1	2	5	3	Action, Attack	Boost		Mechanologist	
+Twin Twisters	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Ninja	
+Twinning Blade	2	0		3	Attack Reaction			Warrior	
+Twintek Charging Station	1	0		2	Action	Go again		Mechanologist	
+Twist and Turn	1, 2, 3	0		3	Action	Go again		Warrior	
+Two Sides to the Blade	1	1		3	Attack Reaction			Assassin	
+Under Loop	1, 2, 3	1	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+Under the Trap-Door	3	0	1	3	Action, Attack	Stealth		Assassin	
+Undercover Acquisition	1	0	3	3	Action, Attack	Stealth, Steal		Assassin	
+Unforgetting Unforgiving	1			4	Block	Jarl Specialization		Guardian	
+Unhallowed Rites	1, 2, 3	1	2, 3, 4	3	Action, Attack	Blood Debt		Runeblade	Shadow
+Unified Decree	2	2		3	Attack Reaction	Reprise		Warrior	
+United We Stand	2	3	6	2	Action, Attack	Unity			Light
+Unmovable	1, 2, 3	3		5, 6, 7	Defense Reaction			Generic	
+Unravel Aggression	3	3		5	Defense Reaction			Mystic	Mystic
+Unsheathed	1	0		3	Action	Go again		Warrior	
+Untamed	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Ninja	
+Unworldly Bellow	1, 2, 3	1		3	Action	Go again		Brute	Shadow
+Up Sticks and Run	1, 2, 3	0		2	Action	Go again, Retrieve		Assassin, Ninja	
+Up the Ante	3	X		3	Attack Reaction	Olympia Specialization, Wager		Warrior	
+Uprising	1	0		3	Action	Go again			Draconic
+Urgent Delivery	1, 2, 3	0	2, 3, 4	3	Action, Attack			Mechanologist	
+V for Valor	1, 2, 3	0		2	Action, Aura		Charge	Warrior	Light
+V of the Vanguard	2	1	3	3	Action, Attack	Boltyn Specialization, Charge		Warrior	Light
+Valiant Thrust	1, 2, 3	1	2, 3, 4	3	Action, Attack			Warrior	Light
+Vantage Point	1, 2, 3	3	5, 6, 7	3	Action, Attack	Overpower		Runeblade	
+Vantom Banshee	1, 2, 3	3	5, 6, 7	3	Action, Attack	Rune Gate, Blood Debt		Runeblade	Shadow
+Vantom Wraith	1, 2, 3	2	4, 5, 6	3	Action, Attack	Rune Gate, Blood Debt		Runeblade	Shadow
+Vaporize // Shock	2	0			Instant, Instant	Meld		Runeblade	Lightning
+Veiled Intentions	1, 2, 3	1		2	Action	Go again		Illusionist	
+Vela Flash	1, 2, 3	1	3, 4, 5	3	Action, Attack	Lightning Fusion		Runeblade	Elemental
+Vengeance Never Rests	3	1	3	3	Action, Attack	Combo, Go again		Ninja	
+Vengeful Apparition	1, 2, 3	0		3	Action, Aura	Ward 1		Illusionist	
+Venomback Fabric	2	0		3	Action, Construct	Legendary, Negate		Generic	
+Venomous Bite	1, 2, 3	1		3	Attack Reaction			Mystic, Assassin	Mystic
+Vexing Malice	1, 2, 3	1	1, 2, 3	3	Action, Attack			Runeblade	
+Vigor Rush	1, 2, 3	1	2, 3, 4	2	Action, Attack	Go again		Generic	
+Vigorous Engagement	1, 2, 3	1		2	Attack Reaction			Warrior	
+Vigorous Windup	1, 2, 3	3	5, 6, 7	2	Action, Attack			Guardian, Warrior	
+Vile Inquisition	1, 2, 3	2		3	Action	Blood Debt			Shadow
+Vipox	1	0	1	3	Action, Attack			Generic	
+Virulent Touch	1, 2, 3	0	2, 3, 4	2	Action, Attack			Assassin, Ranger	
+Visit Anvilheim	3	X		3	Action			Guardian	
+Visit Goldmane Estate	3	1		3	Action	Victor Specialization, Go again		Guardian	
+Visit the Blacksmith	3	0		2	Action	Go again		Generic	
+Visit the Floating Dojo	3	0			Instant	Katsu Specialization		Ninja	
+Visit the Golden Anvil	3	0		3	Action	Olympia Specialization		Warrior	
+Visit the Imperial Forge	1, 2, 3	0		3	Action	Go again		Warrior	
+Void Wraith	1, 2, 3	2	3, 4, 5	3	Action, Attack	Blood Debt			Shadow
+Voltic Bolt	1, 2, 3	2		3	Action			Wizard	
+Vynserakai			6		Dragon, Ally			Illusionist	Draconic
+Wage Agility	1, 2, 3	3	5, 6, 7	2	Action, Attack	Wager		Brute, Warrior	
+Wage Gold	1, 2, 3	3	5, 6, 7	2	Action, Attack	Universal, Wager		Generic	
+Wage Might	1, 2, 3	3	5, 6, 7	2	Action, Attack	Wager		Brute, Guardian	
+Wage Vigor	1, 2, 3	3	5, 6, 7	2	Action, Attack	Wager		Guardian, Warrior	
+Wailer Humperdinck	2	6	11		Action, Ally	Watery Grave	Attack	Pirate, Necromancer	
+Walk the Plank	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic	
+Wall Breaker	1, 2, 3	2	4, 5, 6	3	Action, Attack	Overpower, Blood Debt		Brute	Shadow
+Wall of Meat and Muscle	1			3	Block			Brute, Guardian	
+Wallop	1, 2, 3	4	5, 6, 7	3	Action, Attack			Guardian	
+Wander With Purpose	2	0	2	3	Action, Attack	Benji Specialization, Go again		Ninja	
+Waning Vengeance	1, 2, 3	1			Instant, Aura	Ward 3		Mystic, Illusionist	Mystic
+War Cry of Bellona	2	0		3	Attack Reaction			Warrior	Light
+War Cry of Themis	2	0		3	Action	Go again		Illusionist	Light
+War Machine	1	6	6	3	Action, Attack	Overpower		Mechanologist	
+Warmonger's Diplomacy	3	0		3	Action			Generic	
+Warmonger's Recital	1, 2, 3	1		2	Action	Go again		Generic	
+Warrior's Valor	1, 2, 3	1		3	Action	Go again		Warrior	
+Wartune Herald	1, 2, 3	1	5, 6, 7	3	Action, Attack	Phantasm		Illusionist	Light
+Wash Away	3	2		3	Defense Reaction			Mystic	Mystic
+Water Glow Lanterns	1, 2, 3	0		2	Action	Go again		Illusionist	
+Water the Seeds	1, 2, 3	1	1, 2, 3	2	Action, Attack	Go again		Generic	
+Wax Off	3	0		2	Defense Reaction			Ninja	
+Wax On	1, 2, 3	0		1, 2, 3	Defense Reaction			Ninja	
+Waxing Specter	1, 2, 3	2			Instant, Aura	Ward 3		Mystic, Illusionist	Mystic
+Weave Earth	1, 2, 3	0		2	Action	Go again			Earth
+Weave Ice	1, 2, 3	0		2	Action	Go again			Ice
+Weave Lightning	1, 2, 3	0		2	Action	Go again			Lightning
+Whelming Gustwave	1, 2, 3	0	1, 2, 3	3	Action, Attack	Combo, Go again		Ninja	
+Whirling Mist Blossom	2	1	2	2	Action, Attack	Ira Specialization, Go again		Ninja	
+Whisper of the Oracle	1, 2, 3	0		3	Action	Opt 4, Go again		Generic	
+Whittle from Bone	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Wide Blue Yonder	3	0		2	Attack Reaction			Mystic	Mystic
+Widespread Annihilation	3	4	6	3	Action, Attack	Rune Gate, Blood Debt		Runeblade	Shadow
+Widespread Destruction	2	3	6	3	Action, Attack	Rune Gate, Blood Debt		Runeblade	Shadow
+Widespread Ruin	1	2	6	3	Action, Attack	Rune Gate, Blood Debt		Runeblade	Shadow
+Widowmaker	1, 2, 3	1	2, 3, 4	3	Action, Arrow, Attack			Ranger	
+Wild Ride	1, 2, 3	2	4, 5, 6		Action, Attack	Go again		Brute	
+Will of Arcana	3				Resource, Gem	Legendary, Amp 1		Wizard	
+Wind Chakra	1, 2, 3	0		3	Action	Go again		Mystic, Ninja	Mystic
+Winds of Eternity	3	0	2	3	Action, Attack	Combo		Ninja	
+Winter's Bite	1, 2, 3	0		2	Action	Go again			Ice
+Winter's Grasp	1, 2, 3	2	4, 5, 6	3	Action, Attack				Ice
+Wither	1, 2, 3	0	1, 2, 3	3	Action, Attack	Stealth		Assassin	
+Withering Shot	1, 2, 3	1	3, 4, 5	3	Action, Arrow, Attack			Ranger	
+Withstand	1, 2, 3	2			Instant			Guardian	
+Wounded Bull	1, 2, 3	3	5, 6, 7	2	Action, Attack			Generic	
+Wounding Blow	1, 2, 3	0	2, 3, 4	3	Action, Attack			Generic	
+Wrath of Retribution	1	3	3	3	Action, Attack	Legendary, Go again		Ninja	Draconic
+Wreck Havoc	1, 2, 3	2	4, 5, 6	2	Action, Attack			Generic	
+Wrecker Romp	1, 2, 3	2	6, 7, 8	3	Action, Attack			Brute	
+Wrecking Ball	1	3	6		Action, Attack	Intimidate		Brute	
+Writhing Beast Hulk	1, 2, 3	2	4, 5, 6	3	Action, Attack	Dominate, Blood Debt		Brute	Shadow
+Written in the Stars	3	0		3	Action			Runeblade	Lightning
+Yellow Fin Harpoon	3	2	4	3	Action, Arrow, Attack	Go Fish		Pirate, Ranger	
+Yendurai			3		Dragon, Ally			Illusionist	Draconic
+Yinti Yanti	1, 2, 3	0	1, 2, 3	2	Action, Attack			Generic	
+Yo Ho Ho!	3	0		3	Action	Go again		Pirate, Necromancer	
+Zap	1, 2, 3	0		3	Action			Wizard	
+Zealous Belting	1, 2, 3	2	3, 4, 5	2	Action, Attack	Go again		Generic	
+Zero to Fifty	1, 2, 3	0	1, 2, 3	3	Action, Attack	Boost		Mechanologist	
+Zero to Sixty	1, 2, 3	0	2, 3, 4	3	Action, Attack	Boost		Mechanologist	
+Zipper Hit	1, 2, 3	1	3, 4, 5	3	Action, Attack	Boost		Mechanologist	
+Zoom In	1, 2, 3	2	3, 4, 5	3	Action, Attack	Opt X, Boost		Mechanologist	
